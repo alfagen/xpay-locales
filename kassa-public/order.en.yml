@@ -1,0 +1,13 @@
+en:
+  order:
+    cheque_fields:
+      number: Cheque number
+      pin: Cheque PIN
+    confirmation:
+      title: Confirmation of the application
+      success:
+        body: 'Application №%{order_id} to withdraw funds successfully created! It will be processed during one day. You can track the status in your account.'
+        button_text: My Account
+      fail:
+        body: 'Application for withdrawal of funds didn''t create. Please contact technical support.'
+        button_text: My account

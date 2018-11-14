@@ -1,0 +1,15 @@
+en:
+  api_errors:
+    api_error/not_authenticated:
+      title: Session is absent
+      detail: User isn't authorized
+
+    api_error/authentication_failed:
+      title: No access
+      detail: Incorrect email or password
+
+    profile_update_denied:
+      title: You unable to update profile. Please, confirm your email
+
+    tech_break:
+      title: Unable to create an order during technical break

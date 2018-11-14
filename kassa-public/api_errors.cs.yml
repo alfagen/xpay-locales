@@ -1,0 +1,15 @@
+cs:
+  api_errors:
+    api_error/not_authenticated:
+      title: Relace chybí
+      detail: Uživatel není autorizován
+
+    api_error/authentication_failed:
+      title: Vstup není
+      detail: Nesprávný e-mail nebo heslo
+
+    profile_update_denied:
+      title: Profil nemůžete aktualizovat, dokud neaktivujete svůj účet
+
+    tech_break:
+      title: Nevzájemně se přihlašujte k technickým časopisům

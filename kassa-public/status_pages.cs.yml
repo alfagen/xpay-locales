@@ -1,0 +1,10 @@
+cs:
+  status_page:
+    success:
+      title: Platba byla úspěšná
+      description: 'Platba na žádosti #%{order_id} je přijata, aplikace byla zaslána na zásilku operátorovi. Stav aplikace můžete vidět na osobním účtu.'
+      button_text: Osobní účet
+    fail:
+      title: Platba se nezdařila
+      description: 'Platba pro objednávku #%{order_id} se nezdařila. Stav aplikace můžete vidět na osobním účtu. Pokud jste zaplatili žádost a viděli tuto stránku - napište technickou podporu.'
+      button_text: Osobní účet

@@ -1,0 +1,7 @@
+cs:
+  public:
+    flashes:
+      welcome: "Vítejte, 1 %{jméno}"
+      not_authenticated: ''
+      wrong_user: Takový uživatel neexistuje nebo heslo není správné.
+      wrong_captcha: Zobrazení na obrázku není správné.

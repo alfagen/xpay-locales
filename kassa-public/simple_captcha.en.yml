@@ -1,0 +1,8 @@
+en:
+  simple_captcha:
+    label: Enter symbols from picture
+    placeholder: ""
+    refresh_button_text: Refresh
+    message:
+      default: "Wrong code from image"
+      user: "Wrong code from image"

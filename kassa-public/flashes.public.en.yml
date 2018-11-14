@@ -1,0 +1,7 @@
+en:
+  public:
+    flashes:
+      welcome: "Welcome,%{name}"
+      not_authenticated: ''
+      wrong_user: User not found or incorrect password
+      wrong_captcha: Invalid image on the picture

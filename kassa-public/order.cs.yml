@@ -1,0 +1,13 @@
+cs:
+  order:
+    cheque_fields:
+      number: Номер чека
+      pin: ПИН чека
+    confirmation:
+      title: Potvrzení požadavku
+      success:
+        body: 'Požadavek №%{order_id}pro výplatu prostředků je úspěšně vytvořen! Během jednoho dne bude zpracován. Sledovat stav můžete v Klientské zóně. '
+        button_text: Klientská zóna
+      fail:
+        body: 'Požadavek pro výplatu prostředků nebyl zadán. Obraťte se prosím na technickou podporu.'
+        button_text: Klientská zóna

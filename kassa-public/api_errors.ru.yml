@@ -1,0 +1,27 @@
+ru:
+  api_errors:
+    api_error/aml_order_done_failure:
+      title: Заявка не может быть отправлена
+      detail: Не хватает документов или не все поля заполнены
+
+    api_error/not_authenticated:
+      title: Сессия отсутствует
+      detail: Пользователь не авторизован
+
+    api_error/current_password_authentication_failed:
+      title: Операция отклонена
+      detail: Неправильно введен текущий пароль
+
+    api_error/authentication_failed:
+      title: Не авторизован
+      detail: Неправильно введен email или пароль
+
+    api_error/forbidden:
+      title: Нет доступа
+      detail: У вас нет возможности делать это действие
+
+    profile_update_denied:
+      title: Вы не можете обновлять свой профиль, пока не активируете аккаунт
+
+    tech_break:
+      title: Невозможно создать заявку во время технического перерыва

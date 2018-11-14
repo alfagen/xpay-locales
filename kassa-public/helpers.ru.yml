@@ -1,0 +1,4 @@
+ru:
+  helpers:
+    not_authenticated: Данный раздел требует авторизации
+    signin: Войдите!

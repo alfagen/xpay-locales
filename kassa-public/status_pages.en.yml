@@ -1,0 +1,10 @@
+en:
+  status_page:
+    success:
+      title: Payment succeed
+      description: 'Payment on the order #%{order_id} is received. Order now passed to moderation. You can check the status of your orders in your personal dashboard.'
+      button_text: Personal dashboard
+    fail:
+      title: Payment failed
+      description: 'Payment on the order #%{order_id} failed. You can check the status of your orders in your personal dashboard. If you are sure that you did the payment - contact support.'
+      button_text: Personal dashboard

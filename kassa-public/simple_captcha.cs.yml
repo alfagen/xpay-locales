@@ -1,0 +1,8 @@
+cs:
+  simple_captcha:
+    label: Zadejte písmena z obrázku
+    placeholder: ""
+    refresh_button_text: Aktualizace
+    message:
+      default: "Špatný kód z obrázku"
+      user: "Špatný kód z obrázku"

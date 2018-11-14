@@ -1,0 +1,4 @@
+ru:
+  public:
+    sms:
+      phone_confirmation: "%{pincode} - пин-код подтверждения телефона на kassa.cc"

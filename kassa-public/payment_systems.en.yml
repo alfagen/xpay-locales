@@ -1,0 +1,47 @@
+en:
+  payment_systems:
+    titles:
+      PMUSD: ""
+      SBERRUB: ""
+      TCSBRUB: ""
+      YAMRUB: ''
+      QWRUB: ''
+      TBRUB: ''
+      BTC: ''
+      ACRUB: ''
+      PRUSD: ''
+      LTC: ''
+      ETH: ''
+      ADVCUSD: ''
+      CARDRUB: ''
+      PRRUB: ''
+      ADVCRUB: ''
+      OKUSD: ''
+      DASH: ''
+      KUKRUB: ''
+      SBERKZT: ''
+      KKBKZT: ''
+      HLKBKZT: ''
+      FRTBKZT: ''
+      CARDKZT: ''
+      XRP: ''
+      ETC: ''
+      XMR: ''
+      BCH: ''
+    default_company: 'kassa.cc'
+    default_product: 'Exchange kassa.cc. Order #%{order_id}'
+    personal_payment: 'Personal payment №%{order_id}'
+    rbk:
+      product: 'Exchange kassa.cc'
+    form_fields:
+      default:
+        outcome_fio: Receiver full name
+        outcome_unk: UNK
+        outcome_account: Account number
+        income_fio: Sender full name
+        income_unk: UNK
+        income_account: Account number
+        payment_id: Payment ID
+        payment_id_checkbox: Without Payment ID
+        destination_tag: Destination Tag
+        destination_tag_checkbox: Without Destination Tag

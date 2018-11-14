@@ -1,0 +1,138 @@
+ru:
+  payment_systems:
+    titles:
+      PMUSD: ""
+      SBERRUB: ""
+      TCSBRUB: ""
+      YAMRUB: ''
+      QWRUB: ''
+      TBRUB: ''
+      BTC: ''
+      ACRUB: ''
+      PRUSD: ''
+      LTC: ''
+      ETH: ''
+      ADVCUSD: ''
+      CARDRUB: ''
+      PRRUB: ''
+      ADVCRUB: ''
+      OKUSD: ''
+      DASH: ''
+      KUKRUB: ''
+      SBERKZT: ''
+      KKBKZT: ''
+      HLKBKZT: ''
+      FRTBKZT: ''
+      CARDKZT: ''
+      XRP: ''
+      ETC: ''
+      XMR: ''
+      BCH: ''
+    default_company: 'kassa.cc'
+    default_product: 'Обмен на kassa.cc. Заявка #%{order_id}'
+    personal_payment: 'Перевод личных средств №%{order_id}'
+    form_fields:
+      default:
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
+        outcome_unk: УНК
+        outcome_unk_label: УНК
+        outcome_account: Номер счета
+        outcome_account_label: Номер счета
+        income_fio: ФИО отправителя
+        income_fio_label: ФИО отправителя
+        income_unk: УНК
+        income_unk_label: УНК
+        income_account: Номер счета
+        income_account_label: Номер счета
+      pmusd:
+        income_account: Кошелек Perfect Money, U1234567
+        outcome_account: Кошелек Perfect Money, U1234567
+        income_account_label: Кошелек Perfect Money
+        outcome_account_label: Кошелек Perfect Money
+      sberrub:
+        outcome_account: Номер карты Сбербанка, 16-18 цифр
+        outcome_account_label: Номер карты Сбербанка
+      yamrub:
+        income_account: Кошелек Яндекс.Денег, 10-16 цифр
+        income_account_label: Кошелек Яндекс.Денег, 10-16 цифр
+        outcome_account: Кошелек Яндекс.Денег, 10-16 цифр
+        outcome_account_label: Кошелек Яндекс.Денег
+      qwrub:
+        income_account: Кошелек QIWI, +7 906 124 76 45
+        income_account_label: Кошелек QIWI, +7 906 124 76 45
+        outcome_account: Кошелек QIWI, +7 906 124 76 45
+        outcome_account_label: Кошелек QIWI
+      btc:
+        outcome_account: Кошелек Bitcoin
+        outcome_account_label: Кошелек Bitcoin
+      prusd:
+        intcome_account: Кошелек Payeer USD, P1234567
+        outcome_account: Кошелек Payeer USD, P1234567
+        outcome_account_label: Кошелек Payeer USD
+      avbrub:
+        outcome_account: Кошелек AdvCash, R 3005 2342 8775
+        outcome_account_label: Кошелек AdvCash
+      ltc:
+        outcome_account: Кошелек Litecoin
+        outcome_account_label: Кошелек Litecoin
+      eth:
+        outcome_account: Кошелек Ethereum
+        outcome_account_label: Кошелек Ethereum
+      advcusd:
+        intcome_account: Кошелек AdvCash USD, U 3005 2342 8775
+        intcome_account_label: Кошелек AdvCash USD
+        outcome_account: Кошелек AdvCash USD, U 3005 2342 8775
+        outcome_account_label: Кошелек AdvCash USD
+      prrub:
+        income_account: Кошелек Payeer RUB, P1234567
+        income_account_label: Кошелек Payeer RUB
+        outcome_account: Кошелек Payeer RUB, P1234567
+        outcome_account_label: Кошелек Payeer RUB
+      advcrub:
+        intcome_account: Кошелек AdvCash RUB, R 3005 2342 8775
+        intcome_account_label: Кошелек AdvCash RUB
+        outcome_account: Кошелек AdvCash RUB, R 3005 2342 8775
+        outcome_account_label: Кошелек AdvCash RUB
+      dash:
+        outcome_account: Кошелек Dash
+        outcome_account_label: Кошелек Dash
+      xrp:
+        outcome_account: Кошелек Ripple
+        outcome_account_label: Кошелек Ripple
+        outcome_unk: Destination Tag
+        outcome_unk_label: Destination Tag
+        outcome_unk_checkbox: Без Destination Tag
+      etc:
+        outcome_account: Кошелек Ethereum Classic
+        outcome_account_label: Кошелек Ethereum Classic
+      xmr:
+        outcome_account: Кошелек Monero
+        outcome_account_label: Кошелек Monero
+        outcome_unk: Payment ID
+        outcome_unk_label: Payment ID
+        outcome_unk_checkbox: Без Payment ID
+      bch:
+        outcome_account: Кошелек Bitcoin Cash
+        outcome_account_label: Кошелек Bitcoin Cash
+      zec:
+        outcome_account: Кошелек Zcash
+        outcome_account_label: Кошелек Zcash
+      neo:
+        outcome_account: Кошелек NEO
+        outcome_account_label: Кошелек NEO
+      pmeur:
+        income_account: Кошелек Perfect Money, E1234567
+        income_account_label: Кошелек Perfect Money
+        outcome_account: Кошелек Perfect Money, E1234567
+        outcome_account_label: Кошелек Perfect Money
+      advceur:
+        income_account: Кошелек AdvCash EUR, E 3005 2342 8775
+        income_account_label: Кошелек AdvCash EUR
+        outcome_account: Кошелек AdvCash EUR, E 3005 2342 8775
+        outcome_account_label: Кошелек AdvCash EUR
+      preur:
+        income_account: Кошелек Payeer EUR, P1234567
+        income_account_label: Кошелек Payeer EUR
+        outcome_account: Кошелек Payeer EUR, P1234567
+        outcome_account_label: Кошелек Payeer EUR

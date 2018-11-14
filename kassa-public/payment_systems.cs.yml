@@ -1,0 +1,47 @@
+cs:
+  payment_systems:
+    titles:
+      PMUSD: ""
+      SBERRUB: ""
+      TCSBRUB: ""
+      YAMRUB: ''
+      QWRUB: ''
+      TBRUB: ''
+      BTC: ''
+      ACRUB: ''
+      PRUSD: ''
+      LTC: ''
+      ETH: ''
+      ADVCUSD: ''
+      CARDRUB: ''
+      PRRUB: ''
+      ADVCRUB: ''
+      OKUSD: ''
+      DASH: ''
+      KUKRUB: ''
+      SBERKZT: ''
+      KKBKZT: ''
+      HLKBKZT: ''
+      FRTBKZT: ''
+      CARDKZT: ''
+      XRP: ''
+      ETC: ''
+      XMR: ''
+      BCH: ''
+    default_company: 'kassa.cc'
+    default_product: 'Výměna pro kassa.cc. Formulář žádosti #%{order_id}'
+    personal_payment: 'Převod osobních prostředků №%{order_id}'
+    rbk:
+      product: 'Směna kassa.cc'
+    form_fields:
+      default:
+        outcome_fio: Celé jméno příjemce
+        outcome_unk: UNK
+        outcome_account: Číslo účtu
+        income_fio: Celé jméno odesílatele
+        income_unk: UNK
+        income_account: Číslo účtu
+        payment_id: Payment ID
+        payment_id_checkbox: Bez Payment ID
+        destination_tag: Destination Tag
+        destination_tag_checkbox: Bez Destination Tag

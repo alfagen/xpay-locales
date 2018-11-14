@@ -1,0 +1,8 @@
+ru:
+  simple_captcha:
+    label: Введите буквы с картинки
+    placeholder: ''
+    refresh_button_text: Обновить
+    message:
+      default: "Неверный код с изображения"
+      user: "Неверный код с изображения"
