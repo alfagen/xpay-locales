@@ -31,6 +31,7 @@ cs:
     default_company: 'kassa.cc'
     default_product: 'Výměna pro kassa.cc. Formulář žádosti #%{order_id}'
     personal_payment: 'Převod osobních prostředků №%{order_id}'
+    bind_card_product: 'Vazba karty'
     rbk:
       product: 'Směna kassa.cc'
     form_fields:
