@@ -98,7 +98,13 @@
       "upload": "Load",
       "changeDocumentsTitle": "Change of documents",
       "changeDocumentsNotice": "You will need to go through the procedure of checking documents again by AML specialists, after changing your documents. Are you sure you want to change the details of your documents?",
-      "statuses": {},
+      "statuses": {
+        "none": "Document is waiting for loading",
+        "loaded": "Document uploaded",
+        "processing": "Document verification",
+        "accepted": "Document approved",
+        "rejected": "Canceled."
+      },
       "orderSendedNotice": "Your application for verification of account status has been sent. Application processing time is 48 hours. Your account will become even more secure after confirming your documents!",
       "save": "Save",
       "uploadTitle": "Loading document"

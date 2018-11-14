@@ -98,7 +98,13 @@
       "upload": "Nahrát",
       "changeDocumentsTitle": "Změna dokladů",
       "changeDocumentsNotice": "Po změně vašich dokladů bude třeba zase dokončit proceduru kontroly dokladů AML-odborníky. Jste jsiti, že chcete změnit údaje vašich dokladů?",
-      "statuses": {},
+      "statuses": {
+        "none": "Doklad očekává nahrávání",
+        "loaded": "Doklad je nahrazen",
+        "processing": "Kontrola dokladu",
+        "accepted": "Doklad je schválen ",
+        "rejected": "Odmítnut."
+      },
       "orderSendedNotice": "Vaše žádost pro ověření stavu účtu byla odeslána. Doba zpracování aplikací je 48 hodin. Po potvrzení vašich dokumentů bude váš účet ještě bezpečnější!",
       "save": "Uložit",
       "uploadTitle": "Nahrávání dokladu"
