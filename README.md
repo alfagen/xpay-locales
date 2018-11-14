@@ -1,2 +1,3 @@
-# locales
-locales
+# Переводы для kassa и aml
+
+
