@@ -24,7 +24,12 @@
         "personal": "Персональный",
         "professional": "Профессиональный"
       },
-      "verificationStatuses": {},
+      "verificationStatuses": {
+        "none": "Ожидание верификации",
+        "pending": "На рассмотрении",
+        "accepted": "Верифицирован",
+        "rejected": "Верификация отклонена"
+      },
       "update": "Обновить",
       "continue": "Продолжить верификацию",
       "statusDescriptions": {

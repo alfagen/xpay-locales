@@ -24,7 +24,12 @@
         "personal": "Osobní",
         "professional": "Profesionální "
       },
-      "verificationStatuses": {},
+      "verificationStatuses": {
+        "none": "Očekávání ověřování ",
+        "pending": "Na posouzení",
+        "accepted": "Ověřen ",
+        "rejected": "Ověřování je odmítnuto"
+      },
       "update": "Obnovit",
       "continue": "Pokračovat ověřování",
       "statusDescriptions": {

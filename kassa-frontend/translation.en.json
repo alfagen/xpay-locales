@@ -24,7 +24,12 @@
         "personal": "Personal",
         "professional": "Professional"
       },
-      "verificationStatuses": {},
+      "verificationStatuses": {
+        "none": "Waiting for verification",
+        "pending": "Under consideration",
+        "accepted": "Verified",
+        "rejected": "Verification rejected"
+      },
       "update": "Refresh",
       "continue": "Continue verification",
       "statusDescriptions": {
