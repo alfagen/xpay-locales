@@ -14,7 +14,7 @@
     "verification": "Card verification",
     "referal": "Referral program",
     "promo": "Promo contributions",
-    "settings": "Settings"
+    "settings": "User Profile"
   },
   "setting": {
     "aml": {
@@ -114,7 +114,7 @@
       "general": "Profile Master Data",
       "documents": "Documents",
       "accountStatus": "Account status",
-      "profile": "Profile settings"
+      "profile": "Settings"
     },
     "rejectedNotifyTitle": "Your application has been canceled!",
     "rejectedNotify": "In the section {{section}}, you can see the reason of the rejection.",

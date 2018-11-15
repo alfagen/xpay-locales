@@ -14,7 +14,7 @@
     "verification": "Ověření platební karty",
     "referal": "Referenční program",
     "promo": "Propagační materiály",
-    "settings": "Nastavení"
+    "settings": "Uživatelský profil"
   },
   "setting": {
     "aml": {
@@ -114,7 +114,7 @@
       "general": "Základní údaje profilu ",
       "documents": "Doklady",
       "accountStatus": "Stav účtu",
-      "profile": "Nastavení profilu"
+      "profile": "Nastavení"
     },
     "rejectedNotifyTitle": "Vaše žádost je odmítnuta!",
     "rejectedNotify": "V sekci {{section}} můžete vidět důvod odmítnutí.",
