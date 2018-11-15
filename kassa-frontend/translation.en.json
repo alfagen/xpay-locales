@@ -76,6 +76,7 @@
       "statusTitle": "Available account statuses:",
       "availableLater": "Will be available later",
       "updateAccountStatusTitle": "Want more",
+      "updateAccountStatusText1": "You can change the status of your account to {{statusName}} status. The status of your account will be confirmed, after successful verification of documents. ",
       "updateAccountStatusText2": "Verification from 2 stages, it does not take much time. If you don't understand something, write to us. We will help :)",
       "verificationSuccessNotice": "You have successfully confirmed your account status! Then you can proceed to exchange operations and take full advantage of your account!",
       "next": "Next",

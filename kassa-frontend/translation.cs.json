@@ -76,6 +76,7 @@
       "statusTitle": "Pro vás jsou dostupné následující stavy účtu:",
       "availableLater": "Bude dostupný pozdějí",
       "updateAccountStatusTitle": "Chcete více",
+      "updateAccountStatusText1": "Můžete změnit stav účtu na  {{statusName}} stav. Po úspěšném ověřování dokladů stav vašeho účtu bude potvrzen. ",
       "updateAccountStatusText2": "Ověřování má 2 etapy, to nepotřebuje mnoho času. Pokud něčemu nerozumíte, nám napište. Pomůžeme :)",
       "verificationSuccessNotice": "Úspěšně jste potvrdili stav účtu! Dále můžete začít operace směny a užívat všechny přednosti vašeho účtu!",
       "next": "Dále",
