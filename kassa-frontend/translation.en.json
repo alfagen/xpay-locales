@@ -90,7 +90,10 @@
       "orderStatuses": {
         "pending": "is pending approval",
         "rejected": "canceled"
-      }
+      },
+      "youPassAnotherStatus": "You are passing verification status \"{{status}}\"",
+      "startVerificationText1": "You have successfully registered in {{status}} status. The status of your account will be confirmed, after successful verification of documents.",
+      "startVerificationText2": "Verification from {{stepCount}}, it does not take much time. If you do not understand something, write to us. We will help :)"
     },
     "documents": {
       "congratulations": "Congratulations!",

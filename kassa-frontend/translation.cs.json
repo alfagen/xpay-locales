@@ -90,7 +90,10 @@
       "orderStatuses": {
         "pending": "na posouzení",
         "rejected": "odmítnuta"
-      }
+      },
+      "youPassAnotherStatus": "Probíhá stav ověřování \"{{status}}\"",
+      "startVerificationText1": "Úspěšně jste se zaregistrovali ve {{status}} stavu . Po úspěšném ověření dokumentů bude stav vašeho účtu potvrzen.",
+      "startVerificationText2": "Ověření {{stepCount}} to netrvá dlouho. Pokud něco nerozumíte, napište nám. Pomůžeme :)"
     },
     "documents": {
       "congratulations": "Gratulujeme!",
