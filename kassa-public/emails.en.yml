@@ -1,0 +1,113 @@
+en:
+  emails:
+    common:
+      slogan: Single currency exchange
+      support: If you have any questions, you can contact our support service on our website
+        or write to us at support@kassa.cc.
+      postscript: Thank you for choosing our service! Best Regards, Your Kassa.
+      contacts: Contacts
+      copyright: 2018, "Kassa.cc" - Single currency exchange
+      _hello: Hello!
+      hello: Hello %{nickname}!
+      goto_lk: Go to My Account
+      contact_operator: Contact the operator
+      reason: 'Reason:'
+      create_ticket: Create an exchange request
+    activation:
+      title: Account activation!
+      signup_success: You have successfully registered at Kassa.cc.
+      access: 'Account access:'
+      login_email: Use your e-mail as your login.
+      password: 'Your password on the site:'
+      change_password: You can change the password in the personal cabinet settings.
+      full_access: 'In order to get full access to your personal account, you need to
+        activate the account. After activation, you can enjoy all the benefits of Kassa:'
+      tracking_orders: Track the status of all your applications,
+      ref_programm: Participate in the referral program and discount systems,
+      promo: Use promo materials to attract referrals.
+      goto_link: 'Please follow the link to activate your account and access full access:'
+      button: Activate account
+    activation_success:
+      title: Your has been activated
+      message: Your account is active now.
+      full_access: 'Now you can enjoy all the benefits of Kassa:'
+    new_tickets_confirmation:
+      title: Confirm the withdrawal of funds.
+      outcome: Withdrawing funds in the amount of %{amount}.
+      warning: If you did this, please click on the button below to confirm the withdrawal
+        of rewards for the current requisites. If this is not done by you, do not click
+        on the button and contact Kassa.cc Technical Support as soon as possible.
+      goto_link: 'Please follow the link to complete the creation of an application for
+        the withdrawal of rewards:'
+      button: Confirm the output
+    new_tickets:
+      title: Your application is accepted!
+      create_order: Dear Customer, You have created an application number %{order_id}.
+      create_output_order: Dear Customer, You have created an application for the withdrawal
+        of wages No. %{order_id}.
+      accepted: 'The status of your application: "Accepted" Our operators will process
+        your application within 20 minutes.'
+      output_accepted: 'The status of your application: "Accepted" Within 24 hours the
+        application will be processed and funds will be transferred to the account or
+        purse specified by you.'
+      none_reserves: Unfortunately, at the time of creating the application, the reserve
+        has run out, so the lead time can be increased from 1 to 6 hours.
+      info_ticket: 'Information on the application:'
+      number_ticket: 'Your application number:'
+      direction: 'Exchange direction:'
+      income_account: 'You transfer from your account / wallet:'
+      income_amount: 'Transfer amount:'
+      outcome_account: 'You get to the account / purse:'
+      outcome_amount: Amount received
+      fio: 'FULL NAME:'
+      create_at: 'Date and time of registration:'
+      payment_system_name: 'Name of PS or Bank:'
+    password_remind:
+      title: Password recovery
+      request: Dear customer, you or someone else has requested a password reminder by
+        e-mail.
+      goto_link: 'In order to recover the password from your personal account, please
+        click on the link below:'
+      expiry: The link is valid for 15 and before the first activation on the site.
+    change_ticket:
+      remove_title: Your application has been deleted!
+      remove_status: 'Status of your application: "Deleted"'
+      check_title: Your check number!
+      check_create: 'A check number has been successfully created for your application:'
+      check_view: Also you can see the information on the application in your personal
+        account. If the check number has not been displayed after processing the application,
+        try refreshing the page.
+      done_title: Your application has been successfully processed!
+      done_status: Your application number %{order_id} has been successfully processed.
+        Funds are transferred to your account.
+      done_feedback: 'Thank you for the perfect exchange! =) We will be very glad if you
+        leave feedback about our service on any site convenient for you:'
+      done_sites: 'On the sites:'
+      done_socials: 'In social networks:'
+      error_title: Your application has been moved to Erroneous!
+      error_status: 'The status of your application: "Erroneous"'
+      restored_title: Your application has been restored!
+      restored_ticket: Dear customer, Your application number %{order_id} has been restored.
+      restored_contact: Please, expect, we will process your application in the near future.
+    pass_change:
+      title: Change Password!
+      change_password: Dear customer, you changed the password from your personal cabinet.
+      access: 'Account access:'
+      new_password: 'New password:'
+      changed_at: 'Date of change:'
+    reserve_add:
+      title: Reserve Replenishment Request Processed!
+      accepted: Your request №%{id} to replenish the service reserve Kassa.cc Processed.
+      info: 'Information on request:'
+      payment_system: 'Payment system:'
+      amount: 'Amount:'
+      create_at: 'Application date:'
+    verification:
+      success_title: 'Succesful verification'
+      fail_title: 'Failure in verification'
+      title: Card verification!
+      request: Dear customer, You just sent an application for card verification number
+        %{num_cart}.
+      fail: Unfortunately we were forced to refuse you = (
+      success: Your card has been successfully verified! =)
+      reason: Reason
