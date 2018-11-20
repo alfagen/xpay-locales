@@ -13,6 +13,8 @@ ru:
       status: Статус
       reject_reason: Причина отклонения
     attributes:
+      aml/notification:
+        title: Наименование
       aml/client_info:
         address: Permanent or other residential address
         card_suffix: Last 4 digits of a bank card
