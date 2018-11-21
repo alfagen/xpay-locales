@@ -47,6 +47,10 @@ ru:
         position: Позиция поля
         title_ru: Название поля документа
       aml/order:
+        card_brand: Брэнд карты (visa/mastercard)
+        card_bin: Первые 4 цифры карты (BIN)
+        card_suffix: Последние 4 цифры карты
+        card_image: Изображение карты
         first_name: Имя
         surname: Фамилия
         patronymic: Отчество
@@ -67,6 +71,7 @@ ru:
         title_ru: Причина отклонения
       aml/status:
         key: Ключ статуса
+        card_required: Требуется холдирование карты
         position: Позиция статуса
         max_amount_limit: Максимальная сумма заявки
         operations_count_limit: Кол-во допустимых заявок
