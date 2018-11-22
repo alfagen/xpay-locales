@@ -14,7 +14,7 @@
     "verification": "Ověření platební karty",
     "referal": "Referenční program",
     "promo": "Propagační materiály",
-    "settings": "Uživatelský profil"
+    "settings": "Profil"
   },
   "setting": {
     "aml": {
@@ -76,7 +76,7 @@
       "statusTitle": "Pro vás jsou dostupné následující stavy účtu:",
       "availableLater": "Bude dostupný pozdějí",
       "updateAccountStatusTitle": "Chcete více",
-      "updateAccountStatusText1": "Můžete změnit stav účtu na  {{statusName}} stav. Po úspěšném ověřování dokladů stav vašeho účtu bude potvrzen. ",
+      "updateAccountStatusText1": "Stav svého účtu můžete změnit na {{statusName}} stav. Po úspěšném ověření dokumentů bude stav vašeho účtu potvrzen.",
       "updateAccountStatusText2": "Ověřování má 2 etapy, to nepotřebuje mnoho času. Pokud něčemu nerozumíte, nám napište. Pomůžeme :)",
       "verificationSuccessNotice": "Úspěšně jste potvrdili stav účtu! Dále můžete začít operace směny a užívat všechny přednosti vašeho účtu!",
       "next": "Dále",
@@ -91,9 +91,10 @@
         "pending": "na posouzení",
         "rejected": "odmítnuta"
       },
-      "youPassAnotherStatus": "Probíhá stav ověřování \"{{status}}\"",
-      "startVerificationText1": "Úspěšně jste se zaregistrovali ve {{status}} stavu . Po úspěšném ověření dokumentů bude stav vašeho účtu potvrzen.",
-      "startVerificationText2": "Ověření {{stepCount}} to netrvá dlouho. Pokud něco nerozumíte, napište nám. Pomůžeme :)"
+      "youPassAnotherStatus": "Děláte ověřování stavu \"{{status}}\"",
+      "startVerificationText1": "Úspěšně jste se zaregistrovali ve {{status}} stavu. Po úspěšném ověření dokumentů bude stav vašeho účtu potvrzen.",
+      "startVerificationText2": "Ověření od {{stepCount}} to netrvá dlouho. Pokud něčemu nerozumíte, napište nám. Pomůžeme :)",
+      "passedAnotherStatus": "Přesunuli jste se do stavu \"{{status}}\""
     },
     "documents": {
       "congratulations": "Gratulujeme!",
@@ -111,7 +112,8 @@
       },
       "orderSendedNotice": "Vaše žádost pro ověření stavu účtu byla odeslána. Doba zpracování aplikací je 48 hodin. Po potvrzení vašich dokumentů bude váš účet ještě bezpečnější!",
       "save": "Uložit",
-      "uploadTitle": "Nahrávání dokladu"
+      "uploadTitle": "Nahrávání dokladu",
+      "tie": "Sloučit"
     },
     "tabs": {
       "general": "Základní údaje profilu ",
@@ -121,6 +123,8 @@
     },
     "rejectedNotifyTitle": "Vaše žádost je odmítnuta!",
     "rejectedNotify": "V sekci {{section}} můžete vidět důvod odmítnutí.",
+    "pendingNotifyTitle": "Vaše žádost pro ziskání stavu byla úspěšně odeslána!",
+    "pendingNotify": "Žádost bude zpracována do 48 hodin.",
     "verificationNotifyTitle": "Musíte odeslat žádost o ověření!",
     "verificationNotify": "Vyplnili jste všechny údaje potřebné k ověření stavu vašeho účtu. Odešlete žádost o ověření stavu účtu v sekci {{section}}.",
     "clientDataNotifyTitle": "Musíte vyplnit vaše osobní údaje!",
@@ -142,7 +146,7 @@
       "notice": "Můžete změnit nastavení vašeho profilu a dát k dispozici vaše kontaktní údaje pro uvědomění:"
     },
     "paymentData": "Uchovávání zadávaných údajů:",
-    "title": "Uživatelský profil",
+    "title": "Profil",
     "basic": "Obecné informace:",
     "password": "Nastavení hesla",
     "error": {
@@ -608,8 +612,6 @@
     "title": "Požadavek č. {{id}}",
     "createdAt": "Vytvořen {{datetime}}",
     "success": "Karta ověřena",
-    "fail": "Karta odmítnuta",
-    "waiting": "Čeká na zpracování",
     "delete": "Odstranit",
     "error": {
       "incorrect": "Něco se nezdařilo...",
@@ -806,5 +808,8 @@
         "code": "Zadejte kód PIN"
       }
     }
+  },
+  "authOverlay": {
+    "text": "Prosím přihlaste se nebo zaregistrujte pro pokračování směny."
   }
 }

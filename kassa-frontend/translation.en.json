@@ -14,7 +14,7 @@
     "verification": "Card verification",
     "referal": "Referral program",
     "promo": "Promo contributions",
-    "settings": "User Profile"
+    "settings": "Profile"
   },
   "setting": {
     "aml": {
@@ -76,7 +76,7 @@
       "statusTitle": "Available account statuses:",
       "availableLater": "Will be available later",
       "updateAccountStatusTitle": "Want more",
-      "updateAccountStatusText1": "You can change the status of your account to {{statusName}} status. The status of your account will be confirmed, after successful verification of documents. ",
+      "updateAccountStatusText1": "You can change your account status to {{statusName}} status. The status of your account will be confirmed after successfull verification of documents. ",
       "updateAccountStatusText2": "Verification from 2 stages, it does not take much time. If you don't understand something, write to us. We will help :)",
       "verificationSuccessNotice": "You have successfully confirmed your account status! Then you can proceed to exchange operations and take full advantage of your account!",
       "next": "Next",
@@ -92,8 +92,9 @@
         "rejected": "canceled"
       },
       "youPassAnotherStatus": "You are passing verification status \"{{status}}\"",
-      "startVerificationText1": "You have successfully registered in {{status}} status. The status of your account will be confirmed, after successful verification of documents.",
-      "startVerificationText2": "Verification from {{stepCount}}, it does not take much time. If you do not understand something, write to us. We will help :)"
+      "startVerificationText1": "You have successfully regisftered in {{status}} status. The status of your account will be confirmed after successfull verification of documents. ",
+      "startVerificationText2": "Verification from {{stepCount}}. It does not take much time. If you do not understand something, write to us. We will help :)",
+      "passedAnotherStatus": "You have moved to the status of \"{{status}}\""
     },
     "documents": {
       "congratulations": "Congratulations!",
@@ -111,16 +112,19 @@
       },
       "orderSendedNotice": "Your application for verification of account status has been sent. Application processing time is 48 hours. Your account will become even more secure after confirming your documents!",
       "save": "Save",
-      "uploadTitle": "Loading document"
+      "uploadTitle": "Loading document",
+      "tie": "Bind"
     },
     "tabs": {
       "general": "Profile Master Data",
       "documents": "Documents",
       "accountStatus": "Account status",
-      "profile": "Settings"
+      "profile": "Settings "
     },
     "rejectedNotifyTitle": "Your application has been canceled!",
     "rejectedNotify": "In the section {{section}}, you can see the reason of the rejection.",
+    "pendingNotifyTitle": "Your application for status has been successfully sent!",
+    "pendingNotify": "The application will be processed within 48 hours.",
     "verificationNotifyTitle": "You need to send a request for verification!",
     "verificationNotify": "You have filled in all the data necessary to verify the status of your account. Send your application for verification of account status in the section {{section}}.",
     "clientDataNotifyTitle": "You need to fill in your personal data!",
@@ -142,7 +146,7 @@
       "notice": "You can change the settings of your profile and leave the information for notifications:"
     },
     "paymentData": "Saving entered data:",
-    "title": "User Profile",
+    "title": "Profile",
     "basic": "Main data:",
     "password": "Password settings:",
     "error": {
@@ -608,8 +612,6 @@
     "title": "Application №{{id}}",
     "createdAt": "Created {{datetime}}",
     "success": "Card has verify",
-    "fail": "Card hasn't accepted",
-    "waiting": "Waiting process",
     "delete": "Delete",
     "error": {
       "incorrect": "Something went wrong...",
@@ -806,5 +808,8 @@
         "code": "Enter pin code"
       }
     }
+  },
+  "authOverlay": {
+    "text": "Please login or register to continue exchange."
   }
 }
