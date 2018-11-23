@@ -136,6 +136,8 @@
     "confirmMailNotify": "To confirm your account status, please confirm your e-mail by clicking on the link in the letter, which was sent to your email.",
     "confirmPhoneNotifyTitle": "Link your phone number to your account!",
     "confirmPhoneNotify": "To receive notifications from the service and for further verification of the status of your account, link your phone number to your account in the settings. {{fillLink}}.",
+    "needVerificationNotifyTitle": "Your account requires verification!",
+    "needVerificationNotify": "To remove restrictions on exchange transactions and secure your funds, please go through verification in the Account Status section.",
     "bindNow": "Link a Card",
     "notice": "You can change main account settings and write data for communication:",
     "userAgreements": {

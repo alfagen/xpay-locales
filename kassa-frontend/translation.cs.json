@@ -136,6 +136,8 @@
     "confirmMailNotify": "Pro potvrzení stavu účtu, prosím, potvrd'te poštu pomocí následování odkazu v dopisu, který je odeslan do vaší pošty. ",
     "confirmPhoneNotifyTitle": "Ověření telefonu!",
     "confirmPhoneNotify": "Chcete-li obdržet oznámení od služby a provést další ověření stavu vašeho účtu, propojte telefonní číslo s účtem v nastavení. {{fillLink}}.",
+    "needVerificationNotifyTitle": "Váš účet vyžaduje ověření!",
+    "needVerificationNotify": "Chcete-li odstranit omezení týkající se směnných transakcí a zabezpečit své prostředky, projděte prosím ověření v části Stav účtu.",
     "bindNow": "Propojení bankovní karta",
     "notice": "Můžete změnit obecná nastavení Vašeho účtu a dát k dispozici Vaše kontaktní údaje:",
     "userAgreements": {
