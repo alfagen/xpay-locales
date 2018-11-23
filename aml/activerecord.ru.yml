@@ -32,6 +32,7 @@ ru:
       aml/document_field:
         value: Значение поля
       aml/document_group:
+        card_required: Требуется холдирование карты
         title_ru: Название группы документов
         details_ru: Описание группы документов
         position: Позиция группы документов
@@ -71,7 +72,6 @@ ru:
         title_ru: Причина отклонения
       aml/status:
         key: Ключ статуса
-        card_required: Требуется холдирование карты
         position: Позиция статуса
         max_amount_limit: Максимальная сумма заявки
         operations_count_limit: Кол-во допустимых заявок
