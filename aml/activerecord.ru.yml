@@ -86,4 +86,4 @@ ru:
 
   errors:
     messages:
-      extension_whitelist_error: Неверный формат файла (должен быть pdf)
+      extension_whitelist_error: "Неверный формат файла, должен быть %{allowed_types}"
