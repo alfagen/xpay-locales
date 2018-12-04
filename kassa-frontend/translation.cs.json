@@ -94,7 +94,17 @@
       "youPassAnotherStatus": "Děláte ověřování stavu \"{{status}}\"",
       "startVerificationText1": "Úspěšně jste se zaregistrovali ve {{status}} stavu. Po úspěšném ověření dokumentů bude stav vašeho účtu potvrzen.",
       "startVerificationText2": "Ověření od {{stepCount}} to netrvá dlouho. Pokud něčemu nerozumíte, napište nám. Pomůžeme :)",
-      "passedAnotherStatus": "Přesunuli jste se do stavu \"{{status}}\""
+      "passedAnotherStatus": "Přesunuli jste se do stavu \"{{status}}\"",
+      "cardHolding": {
+        "title": "Přidání karty",
+        "label": "Zadejte údaje o kartě",
+        "bind": "Přidat",
+        "statuses": {
+          "none": "Přidání je v procesu",
+          "success": "Přidáná"
+        },
+        "modalTitle": "Přidání karty pro směnu "
+      }
     },
     "documents": {
       "congratulations": "Gratulujeme!",
@@ -136,8 +146,10 @@
     "confirmMailNotify": "Pro potvrzení stavu účtu, prosím, potvrd'te poštu pomocí následování odkazu v dopisu, který je odeslan do vaší pošty. ",
     "confirmPhoneNotifyTitle": "Ověření telefonu!",
     "confirmPhoneNotify": "Chcete-li obdržet oznámení od služby a provést další ověření stavu vašeho účtu, propojte telefonní číslo s účtem v nastavení. {{fillLink}}.",
-    "needVerificationNotifyTitle": "Je třeba zvýšit úroveň stavu vašeho účtu",
-    "needVerificationNotify": "Od 1. prosince 2018 začne společnost Kassa.cc pracovat na základě licence od České národní banky. Proveďte jednoduché ověření účtu a získejte nové funkce.",
+    "needVerificationNotifyTitle": "Musíte zvýšit stav účtu",
+    "needVerificationNotify": "Od 1. ledna 2019 začne společnost Kassa.cc pracovat pod evropskou licencí. Proveďte jednoduché ověření účtu a získejte nové funkce.",
+    "notAuthorizedNotifyTitle": "Aktualizace služby",
+    "notAuthorizedNotify": "Европейской лицензии. Пройдите простую верификацию аккаунта, чтобы получить новые возможности. Od 1. ledna 2019 začne společnost Kassa.cc pracovat pod evropskou licencí. Proveďte jednoduché ověření účtu a získejte nové funkce.",
     "bindNow": "Propojení bankovní karta",
     "notice": "Můžete změnit obecná nastavení Vašeho účtu a dát k dispozici Vaše kontaktní údaje:",
     "userAgreements": {
@@ -283,8 +295,8 @@
     "secondDescription2": "Zaregistrujte se na naší stránce a získejte Váš speciální referenční odkaz.",
     "monitoring": "Připojte svůj monitorovací systém.",
     "thirdTitle": "Příjem plateb pro Vaši stránku. ",
-    "thirdSubtitle": "přijímejte platby a vydělávejte",
-    "thirdDescription": "Máte svůj internetový obchod či webovou prezentaci nebo prodávate zboží či služby ale nemáte možnost přijímat platby? S naší pomocí můžete přijímat platby z různých bank a platebních systému za výhodných podmínek pro Vaše klienty! Za každou platbu provedenou naším prostřednictvím budete získávát odměny. Pro více informací nás můžete kontaktovat na adrese kassa.today@gmail.com.",
+    "thirdSubtitle": "Přijmejte platby a vydělávejte",
+    "thirdDescription": "Máte vlastní internetový obchod, lending, nebo prodáváte produkt nebo službu, ale nemáte možnost přijímat platby? S námi můžete přijímat platby od různých bank a platebních systémů za výhodné ceny pro vaše zákazníky! Při každé realizované platbě prostřednictvím naší služby obdržíte odměny. Podrobnosti lze zjistit přes e-mail kassa.today@gmail.com.",
     "request": "Podat žádost o propojení"
   },
   "Captcha": {

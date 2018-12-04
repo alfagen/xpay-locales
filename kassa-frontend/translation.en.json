@@ -94,7 +94,17 @@
       "youPassAnotherStatus": "You are passing verification status \"{{status}}\"",
       "startVerificationText1": "You have successfully regisftered in {{status}} status. The status of your account will be confirmed after successfull verification of documents. ",
       "startVerificationText2": "Verification from {{stepCount}}. It does not take much time. If you do not understand something, write to us. We will help :)",
-      "passedAnotherStatus": "You have moved to the status of \"{{status}}\""
+      "passedAnotherStatus": "You have moved to the status of \"{{status}}\"",
+      "cardHolding": {
+        "title": "Link a bank card",
+        "label": "Enter card details",
+        "bind": "Link",
+        "statuses": {
+          "none": "Expected to bind the card",
+          "success": "Linked"
+        },
+        "modalTitle": "Adding a card for exchange"
+      }
     },
     "documents": {
       "congratulations": "Congratulations!",
@@ -136,8 +146,10 @@
     "confirmMailNotify": "To confirm your account status, please confirm your e-mail by clicking on the link in the letter, which was sent to your email.",
     "confirmPhoneNotifyTitle": "Link your phone number to your account!",
     "confirmPhoneNotify": "To receive notifications from the service and for further verification of the status of your account, link your phone number to your account in the settings. {{fillLink}}.",
-    "needVerificationNotifyTitle": "You need to raise the level of your account status",
-    "needVerificationNotify": "Starting from December 1, 2018 Kassa.cc begins to work on the license of the Czech National Bank. Complete a simple verification of the account to get the new features.",
+    "needVerificationNotifyTitle": "You need to boost your account status",
+    "needVerificationNotify": "Kassa.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
+    "notAuthorizedNotifyTitle": "Service update",
+    "notAuthorizedNotify": "Kassa.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
     "bindNow": "Link a Card",
     "notice": "You can change main account settings and write data for communication:",
     "userAgreements": {
@@ -157,7 +169,7 @@
       "phone": "Enter correct phone number",
       "onlyCharacters": "The field must contain only letters."
     },
-    "learnMore": "Learn more"
+    "learnMore": "Read more"
   },
   "exform": {
     "exchangeNow": "Exchange now",
@@ -283,8 +295,8 @@
     "secondDescription2": "Register in our site and you wil get special\nreferal link.",
     "monitoring": "Connect my monitoring",
     "thirdTitle": "Reception payment for your sire",
-    "thirdSubtitle": "take payment and earn",
-    "thirdDescription": "You have got your internet-shop, landing\nor you are selling something product or service, but you have no way\nto accept payment? With us you can accept payments from different banks\nand payment system at favourable rates for your cleints! With every\npayment the channeling through our service you will recieve remunerations.\nHave any questions? Write us on mail kassa.today@gmail.com.",
+    "thirdSubtitle": "accept payments and earn",
+    "thirdDescription": "You have your own online store, landing,\n     or you sell some product or service, but you do not have the opportunity\n     to accept payments? With our help you will accept payments from different banks.\n     and payment systems at favorable rates for your customers! With each\n     payment made through our service, you will receive rewards.\n     Learn more at kassa.today@gmail.com.",
     "request": "Keep application for connection"
   },
   "Captcha": {
