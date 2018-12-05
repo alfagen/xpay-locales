@@ -137,3 +137,8 @@ ru:
         income_account_label: Кошелек Payeer EUR
         outcome_account: Кошелек Payeer EUR, P1234567
         outcome_account_label: Кошелек Payeer EUR
+      cardrub:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
