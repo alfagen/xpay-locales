@@ -4,8 +4,9 @@ en:
     not_allowed_amount: 'We can not accept this amount from you, change it by a few kopecks'
     wrong_rate: "The course doesn't correspond to the current one. Required to issue%{user_outcome_amount}, but should be%{authorized_outcome_amount}"
     not_allowed_income: "We can not accept this sum (%{income_amount}), write to technical support"
-    wrong_minimal_income_amount: "The minimum allowed amount for admission is: %{amount}"
-    wrong_maximal_income_amount: "The minimum allowed amount for admission is: %{amount}"
+    wrong_minimal_income_amount: "The minimum allowed amount for admission is %{amount}"
+    wrong_maximal_income_amount: "The minimum allowed amount for admission is %{amount}"
+    wrong_minimal_outcome_amount: "The minimum allowed outcome amount is %{amount}"
     password_format: "must contain a number, lowercase letter and capital letter"
     old_rate: 'The course has changed. Create a new ticket'
     old_rate2: 'The course has changed. Create a new ticket'
@@ -33,7 +34,7 @@ en:
         ETH: 'You have entered the wrong Ethereum wallet number. Example: 0x54065a7b2b86274D52A755F73E534DcD7d522886'
         ADVCUSD: 'You have entered the wrong AdvCash USD wallet number. The wallet number must match the pattern U 3005 2342 8775'
         ADVCEUR: 'You have entered the wrong AdvCash EUR wallet number. The wallet number must match the pattern E 3005 2342 8775'
-        CARDRUB: 'You entered the wrong сard тumber in Visa/MasterCard RUB, the card number must contain from 16 to 22 digits'
+        CARDRUB: 'You entered the wrong сard number in Visa/MasterCard RUB, the card number must contain from 16 to 22 digits'
         PRRUB: 'You have entered the wrong Payeer RUB wallet. The wallet number must match the pattern P1234567, P1234567890'
         ADVCRUB: 'You have entered the wrong AdvCash RUB wallet number. The wallet number must match the pattern R 3005 2342 8775'
         OKUSD: 'You have entered the wrong OKPay wallet number. The wallet number must match the pattern OK370835665'

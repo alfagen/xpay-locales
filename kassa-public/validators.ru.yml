@@ -4,8 +4,9 @@ ru:
     not_allowed_amount: 'Мы не можем от Вас принять данную сумму, измените ее на несколько копеек'
     wrong_rate: "Курс не соответствует актуальному. Требуют выдать %{user_outcome_amount}, а должно быть %{authorized_outcome_amount}"
     not_allowed_income: "Мы не можем принять такую сумму (%{income_amount}), напишите в тех поддержку"
-    wrong_minimal_income_amount: "Минимальная разрешенная сумма для приёма: %{amount}"
-    wrong_maximal_income_amount: "Максимальная разрешенная сумма для приёма: %{amount}"
+    wrong_minimal_income_amount: "Минимальная разрешенная сумма для приёма %{amount}"
+    wrong_maximal_income_amount: "Максимальная разрешенная сумма для приёма %{amount}"
+    wrong_minimal_outcome_amount: "Минимальная разрешенная сумма для вывода %{amount}"
     password_format: "должен содержать цифру, строчную и заглавную букву"
     old_rate: 'Курс изменился (%{interval} секунд назад). Создайте новую заявку'
     old_rate2: 'Курс устарел. Создайте новую заявку'
