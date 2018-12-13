@@ -58,6 +58,13 @@ ru:
         birth_date: Дата рождения
         workflow_state: Состояние заявки
         reject_reason_details: Подробности отклонения заявки
+      aml/payment_card_order:
+        card_brand: Брэнд карты (visa/mastercard)
+        card_bin: Первые 4 цифры карты (BIN)
+        card_suffix: Последние 4 цифры карты
+        image: Изображение карты
+        workflow_state: Состояние заявки
+        reject_reason_details: Подробности отклонения заявки
       aml/operator:
         password: Пароль
         password_confirmation: Подтверждение пароля

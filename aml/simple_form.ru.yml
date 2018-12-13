@@ -7,6 +7,8 @@ ru:
         aml_reject_reason_id: Причина отклонения документа
       order:
         aml_reject_reason_id: Причина отклонения заявки
+      payment_card_order:
+        aml_reject_reason_id: Причина отклонения заявки
       change_password_form:
         password: Пароль
         password_confirmation: Подтверждение пароля
