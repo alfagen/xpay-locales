@@ -15,6 +15,11 @@ ru:
     attributes:
       aml/notification:
         title: Наименование
+        key: Ключ уведомления
+        payment_card_rejected: Заявка на привязку карты отклонена
+        payment_card_pending: Заявка на привязку карты отправлена
+        payment_card_accepted: Заявка на привязку карты принята
+        no_key: Ключ отсутствует
       aml/client_info:
         address: Permanent or other residential address
         card_suffix: Last 4 digits of a bank card
