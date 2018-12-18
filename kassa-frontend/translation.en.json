@@ -104,7 +104,13 @@
           "success": "Linked"
         },
         "modalTitle": "Adding a card for exchange"
-      }
+      },
+      "pendingVerificationTitle": "Тайтл модалки о том что ваша заявка на рассмотрении",
+      "pendingVerificationText": "текст о том что ваша заявка на рассмотрении",
+      "continueVerificationTitle": "Тайтл модалки о том что надо продолжить верификацию",
+      "continueVerificationText": "текст о том что надо продолжить верификацию",
+      "rejectedVerificationTitle": "Тайтл модалки о том что заявка отклонена",
+      "rejectedVerificationText": "текст о том что заявка отклонена и нужно продолжить верификацию"
     },
     "documents": {
       "congratulations": "Congratulations!",
@@ -826,5 +832,44 @@
   },
   "authOverlay": {
     "text": "Please login or register to continue exchange."
+  },
+  "verificationCard": {
+    "confirm": {
+      "title": "Attention! Card verification.",
+      "content": "You must verify your card to complete the exchange. {{br}} Verification of the card will take from 1 to 5 minutes.",
+      "next": "Go to verification",
+      "cancel": "Cancel and exit"
+    },
+    "upload": {
+      "title": "Verification of cards",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.{{br}}This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "requirementLabel": "Photo Requirement:",
+      "requirement1": "On the photo card number and the name of the owner should be readable.",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "control": "Select a file...",
+      "error": "Download error. Please try again",
+      "uploading": "Photo upload - {{progress}}%"
+    },
+    "wait": {
+      "title": "Waiting for card verification application processing",
+      "content": "We are awaiting the processing of an application for card verification. As soon as the application will be processed. We will automatically alert you."
+    },
+    "failure": {
+      "title": "Verification Failure",
+      "reasonLabel": "You were canceled verification of the card because of:",
+      "repeatNotice": "Try to verify the card again!",
+      "repeat": "Repeat"
+    }
+  },
+  "accountPage": {
+    "title": "My cards and accounts",
+    "notice": "List of accounts available for exchange",
+    "currentAccounts": "Express Exchange Accounts",
+    "addAccount": "Add bills",
+    "statuses": {
+      "none": "Waiting for verification",
+      "rejected": "Canceled",
+      "accepted": "Linked"
+    }
   }
 }
