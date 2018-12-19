@@ -15,7 +15,7 @@ ru:
     attributes:
       aml/notification:
         title: Наименование
-        key: Ключ уведомления
+        key: Ключ для заявок на приемку карт
         on_reject_notification: Заявка на привязку карты отклонена
         on_pending_notification: Заявка на привязку карты отправлена
         on_accept_notification: Заявка на привязку карты принята
