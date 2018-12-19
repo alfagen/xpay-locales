@@ -16,9 +16,9 @@ ru:
       aml/notification:
         title: Наименование
         key: Ключ уведомления
-        payment_card_rejected: Заявка на привязку карты отклонена
-        payment_card_pending: Заявка на привязку карты отправлена
-        payment_card_accepted: Заявка на привязку карты принята
+        on_reject_notification: Заявка на привязку карты отклонена
+        on_pending_notification: Заявка на привязку карты отправлена
+        on_accept_notification: Заявка на привязку карты принята
         no_key: Ключ отсутствует
       aml/client_info:
         address: Permanent or other residential address
