@@ -29,9 +29,10 @@ cs:
       XMR: ''
       BCH: ''
     default_company: 'kassa.cc'
+    fill_details: ' Vložte data do formátu'
     default_product: 'Výměna pro kassa.cc. Formulář žádosti #%{order_id}'
     personal_payment: 'Převod osobních prostředků №%{order_id}'
-    bind_card_product: 'Vazba karty'
+    bind_card_product: 'Přijazka karty k akkuntu'
     rbk:
       product: 'Směna kassa.cc'
     form_fields:
