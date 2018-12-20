@@ -49,7 +49,7 @@
     "SBERRUB": "You entered the wrong Sberbank card number, the card number must contain 16 - 18 digits",
     "TCSBRUB": "You have entered the wrong Tinkoff card number, the card number must contain 16 digits",
     "YAMRUB": "You have entered the incorrect Yandex.Money wallet number. The wallet should contain from 10 to 16 digits",
-    "QWRUB": "You entered an incorrect QIWI wallet number. The wallet number must match the pattern of +7 999 777 66 11",
+    "QWRUB": "You entered an incorrect QIWI wallet number.",
     "TBRUB": "You entered an incorrect account number in Telebank, the account number must contain 20 digits",
     "BTC": "You have entered the incorrect Bitcoin wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV",
     "ACRUB": "You have entered the wrong account number in AlfaClick, the account number must contain 20 digits",
