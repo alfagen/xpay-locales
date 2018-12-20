@@ -53,6 +53,8 @@ ru:
         income_account_label: Кошелек Perfect Money
         outcome_account_label: Кошелек Perfect Money
       sberrub:
+        income_account: Номер карты Сбербанка, 16-18 цифр
+        income_account_label: Номер карты Сбербанка
         outcome_account: Номер карты Сбербанка, 16-18 цифр
         outcome_account_label: Номер карты Сбербанка
       yamrub:
