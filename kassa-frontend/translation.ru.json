@@ -191,7 +191,9 @@
     "selectSystem": "Выберите систему:",
     "columnOutput": "2. Получите",
     "currencyOutput": "Валюта получения:",
-    "currencyReserves": "Резервы валют"
+    "currencyReserves": "Резервы валют",
+    "fetchingCards": "Загружаем ваши карты...",
+    "addCard": "Привязать новую карту"
   },
   "settingForm": {
     "labelSurname": "Фамилия",
