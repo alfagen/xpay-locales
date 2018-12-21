@@ -29,7 +29,7 @@ en:
       XMR: ''
       BCH: ''
     default_company: 'kassa.cc'
-    fill_details: 'Fill card details below'
+    fill_details: '1 step. Fill card details below'
     default_product: 'Exchange kassa.cc. Order #%{order_id}'
     personal_payment: 'Personal payment №%{order_id}'
     bind_card_product: 'Bind card to your account'

@@ -29,7 +29,7 @@ ru:
       XMR: ''
       BCH: ''
     default_company: 'kassa.cc'
-    fill_details: 'Введите данные карты в форму ниже'
+    fill_details: '1 этап. Введите данные карты в форму ниже'
     default_product: 'Обмен на kassa.cc. Заявка #%{order_id}'
     personal_payment: 'Перевод личных средств №%{order_id}'
     bind_card_product: 'Привязка карты к аккаунту'
