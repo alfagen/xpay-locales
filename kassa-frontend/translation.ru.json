@@ -193,7 +193,9 @@
     "currencyOutput": "Валюта получения:",
     "currencyReserves": "Резервы валют",
     "fetchingCards": "Загружаем ваши карты...",
-    "addCard": "Привязать новую карту"
+    "addCard": "Привязать новую карту",
+    "raiseStatus": "Для выбора данного направления вам необходимо повысить ваш статус аккаунта.{br}{link}",
+    "raiseStatusLink": "Повысить статус"
   },
   "settingForm": {
     "labelSurname": "Фамилия",
