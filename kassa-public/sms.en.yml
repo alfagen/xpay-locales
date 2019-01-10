@@ -1,0 +1,4 @@
+en:
+  public:
+    sms:
+      phone_confirmation: "%{pincode} - PIN confirmation phone on kassa.cc"
