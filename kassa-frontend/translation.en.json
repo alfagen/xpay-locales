@@ -191,7 +191,11 @@
     "selectSystem": "Choose system:",
     "columnOutput": "2. Take",
     "currencyOutput": "Currency for output:",
-    "currencyReserves": "Currency reserves "
+    "currencyReserves": "Currency reserves ",
+    "fetchingCards": "Loading your cards...",
+    "addCard": "Link a new card",
+    "raiseStatus": "You need to increase your account status to select this direction. {{br}} {{link}}",
+    "raiseStatusLink": "Upgrade the status"
   },
   "settingForm": {
     "labelSurname": "Surname",
@@ -367,7 +371,8 @@
     "rest": "Dear clients, our service is on technical break. Come back in {{icon}} {{time}}",
     "copied": "Copied!",
     "copiedText": "Data copied to the clipboard.",
-    "saved": "Saved!"
+    "saved": "Saved!",
+    "removed": "Deleted!"
   },
   "MonitoringModal": {
     "title": "For monitorings",
@@ -697,11 +702,11 @@
   },
   "instructionRequisites": {
     "copy": "Copy",
-    "description": "Make a transfer to the bank details:",
+    "description": "Make a transfer to the following details:",
     "to": "Help: translation instructions"
   },
   "requisitesLabel": {
-    "card": "Card number",
+    "card": "Yandex.Money Wallet Number",
     "account": "Bill №",
     "wallet": "Wallet",
     "sum": "Amount"
@@ -852,7 +857,7 @@
     },
     "wait": {
       "title": "Waiting for card verification application processing",
-      "content": "We are awaiting the processing of an application for card verification. As soon as the application will be processed. We will automatically alert you."
+      "content": "We are awaiting the processing of an application for card verification. We will automatically notify you as soon as the application will be processed."
     },
     "failure": {
       "title": "Verification Failure",
@@ -864,12 +869,27 @@
   "accountPage": {
     "title": "My cards and accounts",
     "notice": "List of accounts available for exchange",
+    "categoriesTitle": "System categories:",
     "currentAccounts": "Express Exchange Accounts",
-    "addAccount": "Add bills",
+    "addAccount": "Add bank account",
     "statuses": {
-      "none": "Waiting for verification",
+      "none": "Upload a photo",
+      "pending": "Waiting for verification",
       "rejected": "Canceled",
-      "accepted": "Linked"
-    }
+      "accepted": "Verified"
+    },
+    "accountEmptyNotice": "Link your first bank card. You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "addAccountTitle": "Verification of your bank card",
+    "addAccountNotice": "You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "cardImage": {
+      "label": "Upload a photo of the front side of a bank card"},
+    "pendingCardVerificationNotice": "We are checking your card details. Usually the test takes 2-3 minutes, but it can take up to 24 hours.",
+    "successCardVerificationNotice": "Your bank card has been successfully verified. Now you can start to exchange transactions.",
+    "rejectedCardVerificationNotice": "Your application for verification of a bank card has been rejected.",
+    "restartVerification": "Try again"
+  },
+  "instructionLink": {
+    "description": "Go to your Sberbank account and log in. You can read the instructions on how to transfer funds from Sberbank to Yandex.Money accounts in the FAQ section.",
+    "to": "Go to the website"
   }
 }
