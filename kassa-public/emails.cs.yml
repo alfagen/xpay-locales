@@ -9,7 +9,7 @@ cs:
         Vaše Kassa</i>
       contacts: Kontakty
       copyright: 2018, Kassa.cc — Směna valut na jednom místě
-      _hello: Dobrý den,
+      generic_hello: Dobrý den,
       hello: Dobrý den, <b>%{nickname}</b>,
       goto_lk: Přejít do Klientské zóny
       contact_operator: Kontaktovat operátora
