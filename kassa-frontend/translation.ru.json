@@ -111,7 +111,7 @@
       "continueVerificationText": "текст о том что надо продолжить верификацию",
       "rejectedVerificationTitle": "Тайтл модалки о том что заявка отклонена",
       "rejectedVerificationText": "текст о том что заявка отклонена и нужно продолжить верификацию",
-      "moreReason": "Подробне о причинах"
+      "moreReason": "Подробнее о причинах"
     },
     "documents": {
       "congratulations": "Поздравляем!",
