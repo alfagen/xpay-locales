@@ -34,34 +34,47 @@
       "continue": "Продолжить верификацию",
       "statusDescriptions": {
         "guest": "Идеально подходит для ознакомления с возможностями сервиса",
-        "personal": "Идеально подходит для начинающих трейдеров или людей знакомящихся с миром криптовалют",
-        "professional": "Идеально подходит для людей погруженных в мир криптовалют, и опытных трейдеров"
+        "personal": "Идеально подходит для начинающих трейдеров или людей, знакомящихся с миром криптовалют",
+        "professional": "Идеально подходит для людей, погруженных в мир криптовалют и опытных трейдеров"
       },
       "conditions": {
-        "notAvailable": "Не доступны",
-        "exchange": "Заявки на обмен",
-        "referralProgram": "Реферальная программа",
-        "withoutPayout": "без вывода средств",
-        "limitedPayments": "До 5-ти платежей",
-        "paymentCount": "Кол-во платежей",
-        "limitedExchange": "До 1000 евро",
-        "oneExchangeSum": "Сумма одного обмена",
-        "unlimitedPayout": "без ограничений вывода средств",
-        "unlimited": "Без ограничений"
+        "amountNotice": "Криптовалюты и Платежные системы",
+        "bankOperationNotice": "Банковские карты",
+        "guest": {
+          "amountLimit": "До 1000 € за операцию",
+          "bankOperationLimit": "Не доступны"
+        },
+        "personal": {
+          "amountLimit": "До 5000 € за операцию",
+          "bankOperationLimit": "До 1000 € за операцию"
+        },
+        "professional": {
+          "amountLimit": "Без ограничений",
+          "bankOperationLimit": "До 10000 € за операцию"
+        }
       },
       "verificationConditions": {
-        "emailVerification": "Подтверждение почты",
-        "byEmailLink": "По ссылке в письме",
-        "instantly": "Моментально",
-        "afterEmailVerification": "После подтверждения почты",
-        "documentCount": "{{count}} документа",
-        "two": "Два",
-        "passportAndAddress": "паспорт и подтверждение адреса",
-        "upToHours": "до {{hours}} часов",
-        "documentVerification": "проверка документов",
-        "three": "Три",
-        "andCardBinding": "и привязка карты",
-        "title": "Для верификации требуется"
+        "title": "Для верификации требуется:",
+        "guest": {
+          "first": "Подтверждение почты",
+          "firstNotice": "по ссылке в письме",
+          "second": "ФИО и адрес",
+          "secondNotice": "без подтверждения"
+        },
+        "personal": {
+          "first": "Два документа",
+          "firstNotice": "паспорт и подтверждение адреса",
+          "second": "До 15 минут",
+          "secondNotice": "проверка документов",
+          "secondHelpText": "В редких случаях возможны задержки до 24 часов"
+        },
+        "professional": {
+          "first": "Дополнительный документ",
+          "firstNotice": "и подтверждение карты",
+          "second": "До 15 минут",
+          "secondNotice": "проверка документов",
+          "secondHelpText": "В редких случаях возможны задержки до 24 часов"
+        }
       },
       "in": {
         "personal": "Персональном",

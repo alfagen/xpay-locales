@@ -37,30 +37,7 @@
         "personal": "Ideal for beginner traders or people acquainted with the world of cryptocurrency",
         "professional": "Ideal for people immersed in the world of cryptocurrency, and experienced traders"
       },
-      "conditions": {
-        "notAvailable": "Not available",
-        "exchange": "Requests for exchange",
-        "referralProgram": "Referral program",
-        "withoutPayout": "without withdrawal of funds",
-        "limitedPayments": "Up to 5 payments",
-        "paymentCount": "Number of payments",
-        "limitedExchange": "Up to 1000 Euro",
-        "oneExchangeSum": "Amount of one exchange",
-        "unlimitedPayout": "without restrictions for withdrawing of funds",
-        "unlimited": "No limits"
-      },
       "verificationConditions": {
-        "emailVerification": "Confirm mail",
-        "byEmailLink": "By link in the letter",
-        "instantly": "Instantly",
-        "afterEmailVerification": "After confirming the e-mail",
-        "documentCount": "{{count}} of the document",
-        "two": "Two",
-        "passportAndAddress": "passport and address confirmation",
-        "upToHours": "up to {{hours}} hours",
-        "documentVerification": "verification of documents",
-        "three": "Three",
-        "andCardBinding": "and card binding",
         "title": "Verification requires"
       },
       "in": {

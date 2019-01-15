@@ -37,30 +37,7 @@
         "personal": "Ideálně se hodí pro začínající tradery nebo lidi, seznamující se světem kryptoměn",
         "professional": "Ideální pro lidi, kteří jsou ponořeni do světa kryptoměn, a zkušení obchodníci"
       },
-      "conditions": {
-        "notAvailable": "Nejsou dostupné",
-        "exchange": "Žádost o směnu",
-        "referralProgram": "Referenční program",
-        "withoutPayout": "bez získání prostředků",
-        "limitedPayments": "Do 5 plateb",
-        "paymentCount": "Počet plateb",
-        "limitedExchange": "Do 1000 eur",
-        "oneExchangeSum": "Částka jedné směny",
-        "unlimitedPayout": "bez omezení získání prostředků",
-        "unlimited": "Bez omezení"
-      },
       "verificationConditions": {
-        "emailVerification": "Potvrzení pošty",
-        "byEmailLink": "Na odkaz v dopisu",
-        "instantly": "Okamžitě",
-        "afterEmailVerification": "Po potvrzení pošty",
-        "documentCount": "{{count}} dokladu",
-        "two": "Dva",
-        "passportAndAddress": "pas  a potvrzení adresy",
-        "upToHours": "do {{hours}} hodin",
-        "documentVerification": "kontrola dokladů",
-        "three": "Tři",
-        "andCardBinding": "a navázání karty",
         "title": "Pro ověřování je třeba"
       },
       "in": {
