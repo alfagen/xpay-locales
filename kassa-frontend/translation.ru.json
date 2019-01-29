@@ -41,7 +41,7 @@
         "amountNotice": "Криптовалюты и Платежные системы",
         "bankOperationNotice": "Банковские карты",
         "guest": {
-          "amountLimit": "До 1000 € за операцию",
+          "amountLimit": "До 100 € за операцию",
           "bankOperationLimit": "До 1000€ за все операции"
         },
         "personal": {
