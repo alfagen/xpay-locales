@@ -47,6 +47,8 @@ ru:
         income_unk_label: УНК
         income_account: Номер счета
         income_account_label: Номер счета
+        payment_card_exp_date: Окончание срока действия карты
+        payment_card_exp_date_label: Окончание срока действия карты
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567

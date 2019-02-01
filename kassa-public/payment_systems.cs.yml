@@ -47,3 +47,5 @@ cs:
         payment_id_checkbox: Bez Payment ID
         destination_tag: Destination Tag
         destination_tag_checkbox: Bez Destination Tag
+        payment_card_exp_date: Datum vypršení platnosti karty
+        payment_card_exp_date_label: Datum vypršení platnosti karty

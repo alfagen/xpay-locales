@@ -47,3 +47,5 @@ en:
         payment_id_checkbox: Without Payment ID
         destination_tag: Destination Tag
         destination_tag_checkbox: Without Destination Tag
+        payment_card_exp_date: Card expiration date
+        payment_card_exp_date_label: Card expiration date
