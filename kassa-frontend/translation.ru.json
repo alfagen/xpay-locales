@@ -351,7 +351,9 @@
     "vk": "ВКонтакте",
     "twitter": "Twitter",
     "facebook": "Facebook",
-    "telegram": "Telegram"
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "odnoklassniki": "Одноклассники"
   },
   "rest": {
     "news": "А пока почитайте новости",
