@@ -19,6 +19,8 @@ ru:
   validators:
     phone_validator:
       invalid_phone: Неверный номер телефона
+    payment_card_exp_date:
+      invalid_date: Неверная дата
 
     account_format:
       wrong:
