@@ -126,8 +126,10 @@
       "rejectedVerificationText": "Ваша заявка на верификацию отклонена. Перейдите в \"Личный кабинет\" -  раздел \"Документы\" и проверьте причины отклонения.",
       "moreReason": "Подробнее о причинах",
       "viewReasons": "Посмотреть причины",
-      "waitingForEmailConfirmationTitle": "Подтвердите вашу почту",
-      "waitingForEmailConfirmationNotice": "Вам необходимо подтвердить почту для создания заявки. Откройте ваш почтовый клиент и перейдите по ссылке в письме от нашего сайта."
+      "waitingForEmailConfirmationTitle": "Активируйте почту",
+      "waitingForEmailConfirmationNotice": "Мы выслали Вам письмо с ссылкой на активацию. Перейдите по ней и завершите создание заявки.",
+      "goToMailService": "Перейти в почту",
+      "mailHasNotArrived": "Письмо не пришло?"
     },
     "documents": {
       "congratulations": "Поздравляем!",
