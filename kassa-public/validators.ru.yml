@@ -60,3 +60,6 @@ ru:
 
     cheque_format:
       invalid: 'Неверный номер чеков: %{invalid_cheques}'
+
+    fio_out:
+      only_latin: 'Только латинские буквы'

@@ -56,3 +56,6 @@ cs:
 
     cheque_format:
       invalid: 'Nesprávné číslo šeku'
+
+    fio_out:
+      only_latin: 'Pouze latinské písmeny'

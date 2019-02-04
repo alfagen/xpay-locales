@@ -57,3 +57,6 @@ en:
 
     cheque_format:
       invalid: 'The wrong check number'
+
+    fio_out:
+      only_latin: 'Only latin characters'
