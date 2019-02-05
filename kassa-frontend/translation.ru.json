@@ -252,8 +252,8 @@
     "again": "еще раз",
     "yes": "Да",
     "no": "Нет",
-    "labelFio": "Как к вам обращаться?",
-    "holderFio": "Введите имя"
+    "labelFio": "Ваше ФИО",
+    "holderFio": "Введите ваше ФИО"
   },
   "userpanel": {
     "logout": "Выйти"
