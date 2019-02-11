@@ -7,6 +7,7 @@ en:
     wrong_minimal_income_amount: "The minimum allowed amount for admission is %{amount}"
     wrong_maximal_income_amount: "The minimum allowed amount for admission is %{amount}"
     wrong_minimal_outcome_amount: "The minimum allowed outcome amount is %{amount}"
+    wrong_minimal_accrual_outcome_amount: "The minimum outcome amount is %{amount}"
     password_format: "must contain a number, lowercase letter and capital letter"
     old_rate: 'The course has changed. Create a new ticket'
     old_rate2: 'The course has changed. Create a new ticket'

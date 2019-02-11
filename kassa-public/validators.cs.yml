@@ -7,6 +7,7 @@ cs:
     wrong_minimal_income_amount: "Minimální povolená částka pro přijetí %{amount}"
     wrong_maximal_income_amount: "Maximální povolená částka pro přijetí %{amount}"
     wrong_minimal_outcome_amount: "Minimální povolená částka k odběru: %{amount}"
+    wrong_minimal_accrual_outcome_amount: "Minimální povolená k odběru: %{amount}"
     password_format: "musí obsahovat číslo, malé a velké písmeno"
     old_rate: 'Kurz se změnil. Vytvořte nový požadavek'
     old_rate2: 'Kurz zastaral. Vytvořte nový požadavek'

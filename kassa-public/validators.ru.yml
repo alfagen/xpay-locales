@@ -7,6 +7,7 @@ ru:
     wrong_minimal_income_amount: "Минимальная разрешенная сумма для приёма %{amount}"
     wrong_maximal_income_amount: "Максимальная разрешенная сумма для приёма %{amount}"
     wrong_minimal_outcome_amount: "Минимальная разрешенная сумма для вывода %{amount}"
+    wrong_minimal_accrual_outcome_amount: "Минимальная сумма для вывода: %{amount}"
     password_format: "должен содержать цифру, строчную и заглавную букву"
     old_rate: 'Курс изменился (%{interval} секунд назад). Создайте новую заявку'
     old_rate2: 'Курс устарел. Создайте новую заявку'
