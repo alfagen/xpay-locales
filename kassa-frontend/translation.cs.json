@@ -273,7 +273,7 @@
     "monitoring": "Připojte svůj monitorovací systém.",
     "thirdTitle": "Příjem plateb pro Vaši stránku. ",
     "thirdSubtitle": "Přijmejte platby a vydělávejte",
-    "thirdDescription": "Máte vlastní internetový obchod, lending, nebo prodáváte produkt nebo službu, ale nemáte možnost přijímat platby? S námi můžete přijímat platby od různých bank a platebních systémů za výhodné ceny pro vaše zákazníky! Při každé realizované platbě prostřednictvím naší služby obdržíte odměny. Podrobnosti lze zjistit přes e-mail kassa.today@gmail.com.",
+    "thirdDescription": "Máte vlastní internetový obchod, lending, nebo prodáváte produkt nebo službu, ale nemáte možnost přijímat platby? S námi můžete přijímat platby od různých bank a platebních systémů za výhodné ceny pro vaše zákazníky! Při každé realizované platbě prostřednictvím naší služby obdržíte odměny. Podrobnosti lze zjistit přes e-mail {{email}}.",
     "request": "Podat žádost o propojení"
   },
   "Captcha": {
@@ -352,7 +352,7 @@
     "title": "Příjem plateb pro Vaši stránku",
     "site": "Máte svůj internetový obchod či webovou prezentaci nebo prodávate zboží či služby ale nemáte možnost přijímat platby? ",
     "payment": "S naší pomocí můžete přijímat platby z různých bank a platebních systému za výhodných podmínek pro Vaše klienty! Za každou platbu provedenou naším prostřednictvím budete získávát odměny. ",
-    "contact": "Pro více informací nás můžete kontaktovat na adrese kassa.today@gmail.com.",
+    "contact": "Pro více informací nás můžete kontaktovat na adrese {{email}}.",
     "sendMail": "Napsat e-mail"
   },
   "authpanel": {
