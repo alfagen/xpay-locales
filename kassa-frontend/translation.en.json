@@ -757,7 +757,8 @@
     "bitcointalkLink": "feddback on bitcointalk.org",
     "mmgp": "Check out with feedbacks and write its on {{mmgpLink}}",
     "mmgpLink": "MMGP.ru",
-    "reviews": "Your support is very important for us and every your feedback will help us getting better! Thank you for choosing us!"
+    "reviews": "Your support is very important for us and every your feedback will help us getting better! Thank you for choosing us!",
+    "reviewsOn": "Feedback on"
   },
   "forbiddenPage": {
     "title": "Access to your account is denied",
