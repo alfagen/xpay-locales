@@ -225,7 +225,7 @@
     "currencies": {
       "ruble": "Rublů",
       "dollar": "Amerických dolarů",
-      "bitcoin": "Bitcoin"
+      "bitcoin": "BTC"
     },
     "earnedMoney": "Celkový výdělek:",
     "aboutReferalFundsTitle": "O našem referenčním programu",
@@ -494,7 +494,7 @@
   },
   "ReferalList": {
     "title": "Seznam Vašich referencí",
-    "content": "Popis našeho referenčního programu: Jsme přední mezinárodní poskytovatel směnárenských služeb v oblasti elektronických peněz. Zajišťujeme směnu, vklady a výběry následujících valut: Perfect Money, Bitcoin, kódy BTC-e, Payeer, QIWI, Yandex.Money. Zajišťujeme rovněž provádění bankovních převodů. Spolupracujeme s takovými bankami jako jsou Sberbank, Alfa Bank, VTB24 a Tinkoff."
+    "content": "Popis našeho referenčního programu: Jsme přední mezinárodní poskytovatel směnárenských služeb v oblasti elektronických peněz. Zajišťujeme směnu, vklady a výběry následujících valut: Perfect Money, BTC, kódy BTC-e, Payeer, QIWI, Yandex.Money. Zajišťujeme rovněž provádění bankovních převodů. Spolupracujeme s takovými bankami jako jsou Sberbank, Alfa Bank, VTB24 a Tinkoff."
   },
   "rewardsHistory": {
     "title": "Historie odměn"
