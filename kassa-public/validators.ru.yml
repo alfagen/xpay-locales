@@ -33,7 +33,7 @@ ru:
         YAMRUB: 'Вы ввели неверный Номер кошелька Яндекс.Деньги. Кошелек должен содержать от 10 до 16 цифр'
         QWRUB: 'Вы ввели неверный Номер QIWI кошелька. Номер кошелька должен соответствовать шаблону +7 999 777 66 11'
         TBRUB: 'Вы ввели неверный Номер счета в Телебанке, номер счета должен содержать 20 цифр'
-        BTC: 'Вы ввели неверный Номер кошелька Bitcoin. Пример: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV'
+        BTC: 'Вы ввели неверный Номер кошелька BTC. Пример: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV'
         ACRUB: 'Вы ввели неверный Номер счета в АльфаКлик, номер счета должен содержать 20 цифр'
         PRUSD: 'Вы ввели неверный Номер кошелька Payeer. Номер кошелька должен соответствовать шаблону P1234567, P1234567890'
         PREUR: 'Вы ввели неверный Номер кошелька Payeer. Номер кошелька должен соответствовать шаблону P1234567, P1234567890'
@@ -55,7 +55,7 @@ ru:
         XRP: 'Вы ввели неверный Номер кошелька Ripple. Пример: 50dc2d6de07e8c76ab25a2cca4b4a9bf9f'
         ETC: 'Вы ввели неверный Номер кошелька Ethereum Classic. Пример: 0x0C93dCc706A5A33DD61A620444EB0B20D4c26754'
         XMR: 'Вы ввели неверный Номер кошелька Monero. Пример: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j'
-        BCH: 'Вы ввели неверный Номер кошелька Bitcoin Cash. Пример: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV,bitcoincash:qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z'
+        BCH: 'Вы ввели неверный Номер кошелька BCH. Пример: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV,bitcoincash:qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z'
         ZEC: 'Вы ввели неверный Номер кошелька Zcash. Пример: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz'
         NEO: 'Вы ввели неверный Номер кошелька Neo. Пример: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte'
 

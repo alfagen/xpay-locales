@@ -1,9 +1,9 @@
 ru:
   meta_tags:
     title: "Kassa.cc - Единый обмен валют"
-    description: "Единый обмен электронных валют с качественным сервисом. Производим обмен: Qiwi, Bitcoin, Perfect Money, Payeer, Альфа Банк, Тинькофф, ВТБ 24"
+    description: "Единый обмен электронных валют с качественным сервисом. Производим обмен: Qiwi, BTC, Perfect Money, Payeer, Альфа Банк, Тинькофф, ВТБ 24"
     og:
       title: "Kassa.cc - Единый обмен валют"
-      description: "Единый обмен электронных валют с качественным сервисом. Производим обмен: Qiwi, Bitcoin, Perfect Money, Payeer, Альфа Банк, Тинькофф, ВТБ 24"
+      description: "Единый обмен электронных валют с качественным сервисом. Производим обмен: Qiwi, BTC, Perfect Money, Payeer, Альфа Банк, Тинькофф, ВТБ 24"
       image: "http://kassa.cc/images/main_og_image.jpg"
     json_ld_title: "Единый обмен валют - %{title}"

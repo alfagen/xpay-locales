@@ -70,8 +70,8 @@ ru:
         outcome_account: Кошелек QIWI, +7 906 124 76 45
         outcome_account_label: Кошелек QIWI
       btc:
-        outcome_account: Кошелек Bitcoin
-        outcome_account_label: Кошелек Bitcoin
+        outcome_account: Кошелек BTC
+        outcome_account_label: Кошелек BTC
       prusd:
         intcome_account: Кошелек Payeer USD, P1234567
         outcome_account: Кошелек Payeer USD, P1234567
@@ -119,8 +119,8 @@ ru:
         outcome_unk_label: Payment ID
         outcome_unk_checkbox: Без Payment ID
       bch:
-        outcome_account: Кошелек Bitcoin Cash
-        outcome_account_label: Кошелек Bitcoin Cash
+        outcome_account: Кошелек BCH
+        outcome_account_label: Кошелек BCH
       zec:
         outcome_account: Кошелек Zcash
         outcome_account_label: Кошелек Zcash
