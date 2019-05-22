@@ -235,7 +235,7 @@
     "currencies": {
       "ruble": "Rubles ",
       "dollar": "Dollars",
-      "bitcoin": "Bitcoin"
+      "bitcoin": "BTC"
     },
     "earnedMoney": " Funds earned:",
     "aboutReferalFundsTitle": "About our referral program",
@@ -505,7 +505,7 @@
   },
   "ReferalList": {
     "title": "Referral list",
-    "content": "Discription of referral program: this is leading international exchange service of electronic currencies. We make the exchange, entering and withdrawal: Perfect Money, Bitcoin, BTC cods, Payeer, Qiwi, Yandex. Money and also carry out bank transfer orders. We working with banks like Sberbank, Alfa Bank, VTB24 and Tinkoff."
+    "content": "Discription of referral program: this is leading international exchange service of electronic currencies. We make the exchange, entering and withdrawal: Perfect Money, BTC, BTC cods, Payeer, Qiwi, Yandex. Money and also carry out bank transfer orders. We working with banks like Sberbank, Alfa Bank, VTB24 and Tinkoff."
   },
   "rewardsHistory": {
     "title": "History of remunerations"
