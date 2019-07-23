@@ -944,5 +944,43 @@
   },
   "seoMeta": {
     "title": "Единый обмен валют"
+  },
+  "referralUsers": {
+    "title": "Партнерская программа",
+    "cashback": "Кешбек",
+    "program": "Реферальная программа",
+    "cashbackBlock": {
+      "title": "Получите кешбек с каждой операции",
+      "description": "Кешбек - это возврат суммы обмена на Ваш счет. Процент возврата зависит от объема обменов",
+      "start": "Начать использовать"
+    },
+    "howTitle": "Как получить кешбэк?",
+    "howFirstTitle": "Регистрация",
+    "howFirstDescription": "Зарегистрируйтесь на сайте",
+    "howSecondTitle": "Совершите обмен",
+    "howSecondDescription": "По любому актуальному направлению",
+    "howThirdTitle": "Получите кешбэк*",
+    "howThirdDescription": "Сумма кешбэка зависит от суммы обмена",
+    "withdrawTitle": "Как вывести средства?",
+    "withdrawContentTitle": "Выводите деньги удобным способом",
+    "withdrawDescription": "Платежные системы, криптовалют или фиат",
+    "getTitle": "Что я получу?",
+    "getFirstTitle": "от 5%",
+    "getFirstDescription": "После регистрации",
+    "getSecondTitle": "Экономия времени",
+    "getSecondDescription": "Вывод в течении 20 минут",
+    "getThirdTitle": "Удобный вывод",
+    "getThirdDescription": "Выберите способ и вывод денег",
+    "conditionsTitle": "Условия кешбэка",
+    "conditionFirstTitle": "Начальный",
+    "conditionFirstLimit": "Обмен до 1 000$",
+    "conditionFirstCashback": "Размер кешбека 5%",
+    "conditionSecondTitle": "Персональный",
+    "conditionSecondLimit": "Обмен до 10 000$",
+    "conditionSecondCashback": "Размер кешбека 10%",
+    "conditionThirdTitle": "Профессиональный",
+    "conditionThirdLimit": "Обмен от 10 000$",
+    "conditionThirdCashback": "Размер кешбека 15%",
+    "explanation": "* Обратите внимание, что Вы получаете процент от заработка сервиса с каждой Вашей обменной операции. Кэшбэк начисляется только если комиссия сервиса за обмен составила больше 0%. Если комиссия сервиса по данному направлению обмена отсутствует, кэшбэк не начисляется."
   }
 }
