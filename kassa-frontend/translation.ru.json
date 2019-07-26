@@ -1016,5 +1016,12 @@
     "referralConditionsSeventhItem": "0,5% от суммы обмена",
     "referralConditionsEighthTitle": "10 рефералов",
     "referralConditionsEighthItem": "USB Флешка"
+  },
+  "oauth": {
+    "sectionTitle": "Привязка аккаунта к социальным сетям",
+    "connectVk": "привязать ВКонтакте  аккаунт",
+    "connectFacebook": "привязать Facebook аккаунт",
+    "connectGoogle": "привязать Google аккаунт",
+    "alreadyConnected": "Привязан"
   }
 }
