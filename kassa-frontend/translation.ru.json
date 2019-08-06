@@ -1018,10 +1018,12 @@
     "referralConditionsEighthItem": "USB Флешка"
   },
   "oauth": {
-    "sectionTitle": "Привязка аккаунта к социальным сетям",
-    "connectVk": "привязать ВКонтакте  аккаунт",
-    "connectFacebook": "привязать Facebook аккаунт",
-    "connectGoogle": "привязать Google аккаунт",
-    "alreadyConnected": "Привязан"
+    "sectionTitle": "Авторизация через соц.сети",
+    "sectionNotice": "Подключите свои социальные сети для удобства моментальной авторизации в Личном кабинете Kassa.cc",
+    "connect": "Привязать",
+    "disconnect": "Отвязать",
+    "google": "google.com",
+    "facebook": "Facebook",
+    "vk": "VKontakte"
   }
 }
