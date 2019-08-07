@@ -1,0 +1,6 @@
+ru:
+  public:
+    oauth:
+      bind_success: Nyní se můžete přihlásit pomocí %{provider}
+      already_binded: Už jste propojili %{provider} s jiným účtem
+      binding_needed: Přihlaste se a propojte účet v %{provider} s profilem. https://kassa.cc/settings

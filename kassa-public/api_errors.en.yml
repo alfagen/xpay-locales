@@ -13,3 +13,6 @@ en:
 
     tech_break:
       title: Unable to create an order during technical break
+
+    authentications:
+      not_found: Authentication throug %{provider} is not binded

@@ -13,3 +13,9 @@ cs:
 
     tech_break:
       title: Nevzájemně se přihlašujte k technickým časopisům
+
+    authentications:
+      not_found: Авторизация через %{provider} не привязана
+
+    authentications:
+      not_found: Autorizace prostřednictvím %{provider} není vázána
