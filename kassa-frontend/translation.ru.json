@@ -1024,6 +1024,7 @@
     "disconnect": "Отвязать",
     "google": "google.com",
     "facebook": "Facebook",
-    "vk": "VKontakte"
+    "vk": "VKontakte",
+    "errorWithDisconnect": "Пользователь не привязан"
   }
 }
