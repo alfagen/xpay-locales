@@ -22,6 +22,7 @@ cs:
       login_email: Jako uživatelské jméno použijte Vaši e-mailovou adresu.
       password: 'Vaše heslo na stránce:'
       change_password: Změnit své heslo můžete prostřednictvím nastavení v Klientské zóně.
+      change_password_link: Nastavte heslo pro zadání svého účtu.
       full_access: 'Pro získání úplného přístupu do Klientské zóny je potřeba aktivovat
         Váš účet. Po aktivaci budete moci využívat všech výhod služby Kassa:'
       tracking_orders: 'Sledovat stav Vašich požadavků, '

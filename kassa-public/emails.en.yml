@@ -20,6 +20,7 @@ en:
       login_email: Use your e-mail as your login.
       password: 'Your password on the site:'
       change_password: You can change the password in the personal cabinet settings.
+      change_password_link: Set password for your account.
       full_access: 'In order to get full access to your personal account, you need to
         activate the account. After activation, you can enjoy all the benefits of Kassa:'
       tracking_orders: Track the status of all your applications,
