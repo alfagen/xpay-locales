@@ -4,3 +4,4 @@ ru:
       bind_success: Nyní se můžete přihlásit pomocí %{provider}
       already_binded: Už jste propojili %{provider} s jiným účtem
       binding_needed: Přihlaste se a propojte účet v %{provider} s profilem. https://kassa.cc/settings
+      empty_email: %{provider} nedává pryč vaši e-mailovou adresu. Litujeme, nemůžeme vás zaregistrovat bez e-mailu, zaregistrujte se https://kassa.cc/registration.

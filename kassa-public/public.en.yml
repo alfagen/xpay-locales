@@ -4,3 +4,4 @@ ru:
       bind_success: You can use %{provider} for authentication
       already_binded: You already binded %{provider} to account
       binding_needed: Please, sign in and bind %{provider} to your account. https://kassa.cc/settings
+      empty_email: %{provider} does not provide an email. Unfortunately, we can't complete the registration without an email address. Please register at https://kassa.cc/registration.
