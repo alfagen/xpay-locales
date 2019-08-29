@@ -820,14 +820,18 @@
   "contactPage": {
     "bestchange": "Отзывы о нас на мониторинге {{bestchangeLink}}",
     "bestchangeLink": "Bestchange.ru",
+    "bestchangeText": "Отзывы о нас на персональной странице мониторинга BestChange",
     "bitsmedia": "Отзывы на {{bitsmediaLink}}",
-    "bitsmediaLink": "bits.media",
+    "bitsmediaLink": "Bits.media",
     "bitcointalk": "Ознакомьтесь с {{bitcointalkLink}}",
     "bitcointalkLink": "отзывами на bitcointalk.org",
     "mmgp": "Ознакомьтесь с отзывами и оставьте свой на {{mmgpLink}}",
     "mmgpLink": "MMGP.ru",
+    "mmgpText": "Отзывы о нас в ветке форума о заработке MMGP",
     "reviews": "Нам очень важна Ваша поддержка и каждый ваш отзыв поможет нам становиться лучше! Спасибо, что выбрали нас!",
-    "reviewsOn": "Отзывы на"
+    "reviewsOn": "Отзывы на",
+    "monitoring": "Мониторинг",
+    "forum": "Форум"
   },
   "forbiddenPage": {
     "title": "Доступ в личный кабинет запрещен",
