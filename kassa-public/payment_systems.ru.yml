@@ -65,9 +65,9 @@ ru:
         outcome_account: Кошелек Яндекс.Денег, 10-16 цифр
         outcome_account_label: Кошелек Яндекс.Денег
       qwrub:
-        income_account: Кошелек QIWI, +7 906 124 76 45
-        income_account_label: Кошелек QIWI, +7 906 124 76 45
-        outcome_account: Кошелек QIWI, +7 906 124 76 45
+        income_account: Кошелек QIWI
+        income_account_label: Кошелек QIWI
+        outcome_account: Кошелек QIWI
         outcome_account_label: Кошелек QIWI
       btc:
         outcome_account: Кошелек BTC
