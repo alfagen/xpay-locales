@@ -65,10 +65,10 @@ ru:
         outcome_account: Кошелек Яндекс.Денег, 10-16 цифр
         outcome_account_label: Кошелек Яндекс.Денег
       qwrub:
-        income_account: Кошелек QIWI
-        income_account_label: Кошелек QIWI
-        outcome_account: Кошелек QIWI
-        outcome_account_label: Кошелек QIWI
+        income_account: Кошелек QIWI, +79999999999
+        income_account_label: Кошелек QIWI, +79999999999
+        outcome_account: Кошелек QIWI, +79999999999
+        outcome_account_label: Кошелек QIWI, +79999999999
       btc:
         outcome_account: Кошелек BTC
         outcome_account_label: Кошелек BTC

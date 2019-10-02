@@ -22,7 +22,7 @@ en:
     account_format:
       wrong:
         default: "Wrong wallet address"
-        PMUSD: "You have entered the wrong Purple Money wallet number. The purse number must match the template U123456"
+        PMUSD: "You have entered the wrong Purple Money wallet number. The purse number must match the template U1234567"
         PMEUR: "You have entered the wrong Purple Money wallet number. The purse number must match the template E123456"
         SBERRUB: "You entered the wrong Sberbank card number, the card number must contain 16 - 18 digits"
         TCSBRUB: "You have entered the wrong Tinkoff card number, the card number must contain 16 digits"

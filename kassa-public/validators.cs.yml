@@ -22,7 +22,7 @@ cs:
     account_format:
       wrong:
         default: "Nesprávná adresa peněženky"
-        PMUSD: "Zadali jste nesprávné číslo peněženky Perfect Money. Číslo peněženky musí odpovídat šabloně U123456"
+        PMUSD: "Zadali jste nesprávné číslo peněženky Perfect Money. Číslo peněženky musí odpovídat šabloně U1234567"
         PMEUR: "Zadali jste nesprávné číslo peněženky Perfect Money. Číslo peněženky musí odpovídat šabloně E123456"
         SBERRUB: "Napsaly jste nesprávné Číslo karty Sberbanku, číslo karty musí obsahovat 16 - 18 číslic"
         TCSBRUB: "Zadali jste nesprávné číslo karty Tinkoff. Číslo karty musí obsahovat 16 číslic."
