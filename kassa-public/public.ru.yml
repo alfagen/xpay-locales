@@ -3,6 +3,6 @@ ru:
     oauth:
       bind_success: Теперь вы можете входить с помощью %{provider}
       already_binded: Вы уже привязали %{provider} к другому аккаунту
-      binding_needed: Авторизуйтесь и привяжите аккаунт в %{provider} к профилю. https://kassa.cc/settings
+      login_and_bind: Войдите, чтобы привязать %{provider} аккаунт
       empty_email: '%{provider} не отдает ваш адрес электронной почты. К сожалению, мы не можем зарегистировать вас без электронной почты, пройдите регистрацию https://kassa.cc/registration'
       error: 'Ошибка при попытке получить данные от %{provider}, попробуйте еще раз'
