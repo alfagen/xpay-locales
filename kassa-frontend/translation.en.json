@@ -659,7 +659,8 @@
       "reserveNoPayment": "You chose wrong payment system. Choose payment system again.",
       "phone": "Enter correct phone number",
       "sum": "Enter correct amount"
-    }
+    },
+    "neoNotice": "When exchanging from any direction to NEO, you can specify the amount of exchange convertible to the whole NEO. You can indicate the amount of exchange in the next column, or select the amount that suits you below:"
   },
   "exchangeSafeInput": {
     "attention": "Warning!",
