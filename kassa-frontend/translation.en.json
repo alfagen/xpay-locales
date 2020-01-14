@@ -436,7 +436,9 @@
     "freezeHelp": "Why first payment need to freeze?",
     "adopted": "Your application is accepted.",
     "adoptedReff": "Your apoplication on withdrawal earning fund is accepted!",
-    "adoptedReffConfirm": "Сonfirming the withdrawal rewards!"
+    "adoptedReffConfirm": "Сonfirming the withdrawal rewards!",
+    "hold": "Transfer is holded",
+    "holdReason": "Transfer is holded for 48 hours until {{time}}"
   },
   "passwordForm": {
     "labelOldPass": "Old password:",
@@ -739,7 +741,8 @@
     "besure": "Please make sure that you not only click on button \"I have paid\", but really sent funds to us.",
     "support": "On all matters or in case of exchange delay, write us to technical support.",
     "sign": "Respectfully, website administration!",
-    "showRequests": "View my applications"
+    "showRequests": "View my applications",
+    "hold": "We hold your transfer for 48 hours. It's a payment system rules. An operator will process your order in 20 minutes afterward."
   },
   "paymentWaiting": {
     "title": "Waiting for application payment №{{id}}",
@@ -861,7 +864,8 @@
     "addAccountTitle": "Verification of your bank card",
     "addAccountNotice": "You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
     "cardImage": {
-      "label": "Upload a photo of the front side of a bank card"},
+      "label": "Upload a photo of the front side of a bank card"
+    },
     "pendingCardVerificationNotice": "We are checking your card details. Usually the test takes 2-3 minutes, but it can take up to 24 hours.",
     "successCardVerificationNotice": "Your bank card has been successfully verified. Now you can start to exchange transactions.",
     "rejectedCardVerificationNotice": "Your application for verification of a bank card has been rejected.",
