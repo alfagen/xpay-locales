@@ -51,6 +51,7 @@ cs:
         prostředků <b>č. %{order_id}</b>.
       accepted: 'Stav Vašeho požadavku: "Přijat" <br>Naši operátoři zpracují Váš požadavek
         během 20 minut.'
+      hold: "Převod jsme drželi 48 hodin. To jsou požadavky platebního systému. Poté operátoři žádost zpracují do 20 minut."
       output_accepted: 'Stav Vašeho požadavku: "Přijat" <br>Během 24 hodin bude Váš požadavek
         zpracován a prostředku budou převedeny na účet či do peněženky dle Vašeho výběru.'
       none_reserves: Je nám líto, ale k okamžiku zadání okamžiku zadání požadavku nebyla

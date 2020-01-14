@@ -48,6 +48,7 @@ en:
         of wages No. %{order_id}.
       accepted: 'The status of your application: "Accepted" Our operators will process
         your application within 20 minutes.'
+      hold: "We hold your transfer for 48 hours. It's a payment system rules. An operator will process your order in 20 minutes afterward."
       output_accepted: 'The status of your application: "Accepted" Within 24 hours the
         application will be processed and funds will be transferred to the account or
         purse specified by you.'
