@@ -75,6 +75,8 @@
     "XMR": "You have entered thw wrong Monero wallet number. Example: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j",
     "BCH": "You have entered the wrong BCH wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV, bitcoincash: qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z",
     "ZEC": "You have entered the wrong Zcash wallet number. Example: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz",
-    "NEO": "You have entered the wrong Neo wallet number. Example: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte"
+    "NEO": "You have entered the wrong Neo wallet number. Example: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte",
+    "USDT": "Вы ввели неверный номер кошелька USDT OMNI",
+    "USDTERC": "Вы ввели неверный номер кошелька USDT ERC20"
   }
 }

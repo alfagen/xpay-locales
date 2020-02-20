@@ -75,6 +75,8 @@
     "XMR": "Napsaly jste nesprávné Číslo peněženky Monero. Příklad: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j",
     "BCH": "Zadali jste nesprávné Číslo peněženky BCH. Příklad: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV,bitcoincash:qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z",
     "ZEC": "Zadali jste nesprávné Číslo peněženky Zcash. Příklad: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz",
-    "NEO": "Zadali jste nesprávné Číslo peněženky Neo. Příklad: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte"
+    "NEO": "Zadali jste nesprávné Číslo peněženky Neo. Příklad: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte",
+    "USDT": "Вы ввели неверный номер кошелька USDT OMNI",
+    "USDTERC": "Вы ввели неверный номер кошелька USDT ERC20"
   }
 }
