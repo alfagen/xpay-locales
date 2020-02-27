@@ -673,6 +673,7 @@
     "RUB": "RUB",
     "USD": "USD",
     "EUR": "EUR",
+    "UAH": "UAH",
     "coin": "Coin"
   },
   "error": "Error",
