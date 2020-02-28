@@ -30,7 +30,7 @@ ru:
       BCH: ''
     default_company: 'kassa.cc'
     fill_details: '1 этап. Введите данные карты в форму ниже'
-    default_product: 'Обмен на kassa.cc. Заявка #%{order_id}'
+    default_product: 'Вы оплачиваете обменную операцию на сайте kassa.cc. Номер заявки: %{order_id}'
     personal_payment: 'Перевод личных средств №%{order_id}'
     bind_card_product: 'Привязка карты к аккаунту'
     form_fields:
