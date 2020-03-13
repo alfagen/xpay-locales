@@ -476,7 +476,25 @@
     },
     "widget": "Widget",
     "title": "Propagační materiály",
-    "banner": "Banner"
+    "banner": "Banner",
+    "logo": "Logo",
+    "logoFuture": "Do budoucna plánujeme přidat reklamní obrázky, loga a PDF prezentaci pro rychlé seznámení se službou.",
+    "logoAbout": "Vice o affiliate programu",
+    "logoRefProgram": "Program doporučení",
+    "logoNotice": "Chcete-li vyvinout vysoce kvalitní propagační materiály, použijte jednu z možností loga služeb. Podmínky používání jsou podrobně uvedeny ve značce. Logo lze také použít k umístění na váš web v sekci \"Partneři\". Loga jsou k dispozici ve třech formátech - .ai, .png, .jpeg",
+    "logoSubtitle": "Dostupné velikosti loga:",
+    "audio": "Zvuk",
+    "audioNotice": "Příklad hlasu pro reklamní materiály je upraven pro vytváření reklamních zpráv prostřednictvím zvukových a obrazových zpráv pro publikum. Doporučujeme používat ženský hlas, přirozeně smyslný a energický s jasným slovníkem.",
+    "audioFuture": "Podrobná pravidla pro používání prvků jsou popsána v",
+    "audioFutureLink": "«Knihaznaček»‎",
+    "audioSizeTitle": "Velikost souboru",
+    "audioTimeSeconds": "Délka {{seconds}} sec.",
+    "audioSizeMb": "mb",
+    "sizeKb": "kb",
+    "audioFirstTitle": "Ženský hlas Kassa",
+    "audioFirstSubtitle": "Servisní reklama",
+    "audioSecondTitle": "Ženský hlas Kassa",
+    "audioSecondSubtitle": "Servisní reklama"
   },
   "RewardsRequestForm": {
     "withdrawFunds": "Jaké prostředky vyplatit:",
@@ -745,14 +763,18 @@
   "contactPage": {
     "bestchange": "Naše recenze na stránkách provozovatele monitoringového systému {{bestchangeLink}}",
     "bestchangeLink": "Bestchange.ru",
+    "bestchangeText": "Recenze o nás na osobní monitorovací stránce BestChange",
     "bitsmedia": "Naše recenze na {{bitsmediaLink}}",
     "bitsmediaLink": "bits.media",
     "bitcointalk": "Prohlédněte si {{bitcointalkLink}}",
     "bitcointalkLink": "naše recenze na bitcointalk.org",
     "mmgp": "Seznamte se s recenzemi na {{mmgpLink}} a zanechte nám svoji!",
     "mmgpLink": "MMGP.ru",
+    "mmgpText": "Recenze o nás ve vlákně fóra o příjmech MMGP",
     "reviews": "Vaše podpora je pro nás velmi důležitá a jakákoli Vaše recenze nám pomůže lépe dělat naši práci! Děkujeme, že jste si vybrali právě nás!",
-    "reviewsOn": "Naše recenze na"
+    "reviewsOn": "Naše recenze na",
+    "monitoring": "Monitorování",
+    "forum": "Fórum"
   },
   "forbiddenPage": {
     "title": "Vstup do Klientské zóny znemožněn",
@@ -809,5 +831,147 @@
   },
   "authOverlay": {
     "text": "Prosím přihlaste se nebo zaregistrujte pro pokračování směny."
+  },
+  "verificationCard": {
+    "confirm": {
+      "title": "Attention! Card verification.",
+      "content": "You must verify your card to complete the exchange. {{br}} Verification of the card will take from 1 to 5 minutes.",
+      "next": "Go to verification",
+      "cancel": "Cancel and exit"
+    },
+    "upload": {
+      "title": "Verification of cards",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.{{br}}This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "requirementLabel": "Photo Requirement:",
+      "requirement1": "On the photo card number and the name of the owner should be readable.",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "control": "Select a file...",
+      "error": "Download error. Please try again",
+      "uploading": "Photo upload - {{progress}}%"
+    },
+    "wait": {
+      "title": "Waiting for card verification application processing",
+      "content": "We are awaiting the processing of an application for card verification. We will automatically notify you as soon as the application will be processed."
+    },
+    "failure": {
+      "title": "Verification Failure",
+      "reasonLabel": "You were canceled verification of the card because of:",
+      "repeatNotice": "Try to verify the card again!",
+      "repeat": "Repeat"
+    }
+  },
+  "accountPage": {
+    "title": "My cards and accounts",
+    "notice": "List of accounts available for exchange",
+    "categoriesTitle": "System categories:",
+    "currentAccounts": "Express Exchange Accounts",
+    "addAccount": "Add bank account",
+    "statuses": {
+      "none": "Upload a photo",
+      "pending": "Waiting for verification",
+      "rejected": "Canceled",
+      "accepted": "Verified"
+    },
+    "accountEmptyNotice": "Link your first bank card. You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "addAccountTitle": "Verification of your bank card",
+    "addAccountNotice": "You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "cardImage": {
+      "label": "Upload a photo of the front side of a bank card"
+    },
+    "pendingCardVerificationNotice": "We are checking your card details. Usually the test takes 2-3 minutes, but it can take up to 24 hours.",
+    "successCardVerificationNotice": "Your bank card has been successfully verified. Now you can start to exchange transactions.",
+    "rejectedCardVerificationNotice": "Your application for verification of a bank card has been rejected.",
+    "restartVerification": "Try again"
+  },
+  "instructionLink": {
+    "description": "Go to your Sberbank account and log in. You can read the instructions on how to transfer funds from Sberbank to Yandex.Money accounts in the FAQ section.",
+    "to": "Go to the website"
+  },
+  "referralUsers": {
+    "title": "Referral program",
+    "cashback": "Cashback",
+    "program": "Referral program",
+    "cashbackBlock": {
+      "title": "Get cashback on each operation",
+      "description": "Cashback is a refund of the exchange amount to your account. The percentage of return depends on the volume of exchanges",
+      "start": "Start"
+    },
+    "howTitle": "How to get a cashback?",
+    "howFirstTitle": "Registration",
+    "howFirstDescription": "Register on the site",
+    "howSecondTitle": "Make an exchange",
+    "howSecondDescription": "In any current direction",
+    "howThirdTitle": "Get cashback*",
+    "howThirdDescription": "The amount of cashback depends on the exchange amount",
+    "withdrawTitle": "How to withdraw the funds?",
+    "withdrawContentTitle": "Withdraw money in a convenient way",
+    "withdrawDescription": "Payment systems, cryptocurrency or fiat",
+    "getTitle": "What do I get?",
+    "getFirstTitle": "From 5%",
+    "getFirstDescription": "After registration",
+    "getSecondTitle": "Time saving",
+    "getSecondDescription": "Withdrawal for next 20 minutes",
+    "getThirdTitle": "Convenient withdraw",
+    "getThirdDescription": "Select a withdrawal method",
+    "conditionTitle": "Cashback term",
+    "conditionFirstTitle": "Initial",
+    "conditionFirstLimit": "Exchange up to $ 1,000",
+    "conditionFirstCashback": "Cashback amount 5%",
+    "conditionSecondTitle": "Personal",
+    "conditionSecondLimit": "Exchange up to $ 10,000",
+    "conditionSecondCashback": "Cashback amount 10%",
+    "conditionThirdTitle": "Professional",
+    "conditionThirdLimit": "Exchange up to $ 10,000",
+    "conditionThirdCashback": "Cashback amount 15%",
+    "explanation": "* Please note, that you get a percentage of the service's earnings from each of your exchange transactions. Cashback is charged only if the service commission for the exchange was more than 0%. If there is no service commission for this exchange direction, no cashback is charged.",
+    "referralBlock": {
+      "title": "Earn money on the referral program Kassa.cc.",
+      "description": " The referral program is your income from all user exchanges registered with your referral link.",
+      "descriptionSecond": "Register on the site and participate in the program.",
+      "start": "Start work"
+    },
+    "howItWorkTitle": "How it works??",
+    "howItWorkFirstTitle": "Copy the link",
+    "howItWorkFirstNotice": "In the section of your personal account - Referral program",
+    "howItWorkSecondTitle": "Place on the site",
+    "howItWorkSecondNotice": "Share with your friends in social networks",
+    "howItWorkThirdTitle": "Convenient withdraw",
+    "howItWorkThirdNotice": "Select a withdrawal method",
+    "gonnaGetTitle": "What do I get??",
+    "gonnaGetFirst": "Higher percentage of referral charges",
+    "gonnaGetSecond": "Gifts from our service",
+    "referralConditionsTitle": "Terms",
+    "referralConditionsFirstTitle": "150 referrals",
+    "referralConditionsFirstItem": "Apple AirPods",
+    "referralConditionsExchangePercent": "or {{percent}} of the exchange amount",
+    "referralConditionsSecondTitle": "300 referrals",
+    "referralConditionsSecondItem": "iPhone",
+    "referralConditionsThirdTitle": "50 referrals",
+    "referralConditionsThirdItem": "Mi Band 3",
+    "referralConditionsFourthTitle": "100 referrals",
+    "referralConditionsFourthItem": "JBL Charge 3",
+    "referralConditionsFifthTitle": "20 referrals",
+    "referralConditionsFifthItem": "Gift from Kassa.сс",
+    "referralConditionsSixthTitle": "30 referrals",
+    "referralConditionsSixthItem": "Power bank",
+    "referralConditionsSeventhTitle": "Registration on the site",
+    "referralConditionsSeventhItem": "0,5% of the exchange amount",
+    "referralConditionsEighthTitle": "10 referrals",
+    "referralConditionsEighthItem": "USB Flash drive"
+  },
+  "oauth": {
+    "sectionTitle": "Authorization by social network",
+    "sectionNotice": "Connect your social networks for the convenience of instant authorization in нour personal account Kassa.cc",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "google": "google.com",
+    "facebook": "Facebook",
+    "vk": "VKontakte",
+    "errorWithDisconnect": "The user is not tied"
+  },
+  "signInOauth": {
+    "title": "Login confirmation",
+    "notice": "Confirm the entrance to your account by entering a password and we will automatically link your social network",
+    "submit": "Confirm"
   }
 }
