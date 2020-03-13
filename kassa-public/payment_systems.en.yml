@@ -49,3 +49,101 @@ en:
         destination_tag_checkbox: Without Destination Tag
         payment_card_exp_date: Card expiration date
         payment_card_exp_date_label: Card expiration date
+      pmusd:
+        income_account: Perfect Money wallet, U1234567
+        outcome_account: Perfect Money wallet, U1234567
+        income_account_label: Perfect Money wallet
+        outcome_account_label: Perfect Money wallet
+      sberrub:
+        income_account: Sberbank card number, 16-18 digits
+        income_account_label: Sberbank card number
+        outcome_account: Sberbank card number, 16-18 digits
+        outcome_account_label: Sberbank card number
+      yamrub:
+        income_account: Yandex.Money wallet, 10-16 digits
+        income_account_label: Yandex.Money wallet, 10-16 digits
+        outcome_account: Yandex.Money wallet, 10-16 digits
+        outcome_account_label: Yandex.Money wallet
+      qwrub:
+        income_account: QIWI wallet, +79999999999
+        income_account_label: QIWI wallet, +79999999999
+        outcome_account: QIWI wallet, +79999999999
+        outcome_account_label: QIWI wallet, +79999999999
+      btc:
+        outcome_account: BTC address
+        outcome_account_label: BTC address
+      prusd:
+        intcome_account: Payeer USD wallet, P1234567
+        outcome_account: Payeer USD wallet, P1234567
+        outcome_account_label: Payeer USD wallet
+      avbrub:
+        outcome_account: AdvCash wallet, R 3005 2342 8775
+        outcome_account_label: AdvCash wallet
+      ltc:
+        outcome_account: Litecoin address
+        outcome_account_label: Litecoin address
+      eth:
+        outcome_account: Ethereum address
+        outcome_account_label: Ethereum address
+      advcusd:
+        intcome_account: AdvCash USD wallet, U 3005 2342 8775
+        intcome_account_label: AdvCash USD wallet
+        outcome_account: AdvCash USD wallet, U 3005 2342 8775
+        outcome_account_label: AdvCash USD wallet
+      prrub:
+        income_account: Payeer RUB wallet, P1234567
+        income_account_label: Payeer RUB wallet
+        outcome_account: Payeer RUB wallet, P1234567
+        outcome_account_label: Payeer RUB wallet
+      advcrub:
+        intcome_account: AdvCash RUB  wallet, R 3005 2342 8775
+        intcome_account_label: AdvCash RUB  wallet
+        outcome_account: AdvCash RUB  wallet, R 3005 2342 8775
+        outcome_account_label: AdvCash RUB wallet
+      dash:
+        outcome_account: Dash address
+        outcome_account_label: Dash address
+      xrp:
+        outcome_account: Ripple address
+        outcome_account_label: Ripple address
+        outcome_unk: Destination Tag
+        outcome_unk_label: Destination Tag
+        outcome_unk_checkbox: No Destination Tag
+      etc:
+        outcome_account: Ethereum Classic address
+        outcome_account_label: Ethereum Classic address
+      xmr:
+        outcome_account: Monero address
+        outcome_account_label: Monero address
+        outcome_unk: Payment ID
+        outcome_unk_label: Payment ID
+        outcome_unk_checkbox: No Payment ID
+      bch:
+        outcome_account: BCH address
+        outcome_account_label: BCH address
+      zec:
+        outcome_account: Zcash address
+        outcome_account_label: Zcash address
+      neo:
+        outcome_account: NEO address
+        outcome_account_label: NEO address
+      pmeur:
+        income_account: Perfect Money wallet, E1234567
+        income_account_label: Perfect Money wallet
+        outcome_account: Perfect Money wallet, E1234567
+        outcome_account_label: Perfect Money wallet
+      advceur:
+        income_account: AdvCash EUR wallet, E 3005 2342 8775
+        income_account_label: AdvCash EUR wallet
+        outcome_account: AdvCash EUR wallet, E 3005 2342 8775
+        outcome_account_label: AdvCash EUR wallet
+      preur:
+        income_account: Payeer EUR wallet, P1234567
+        income_account_label: Payeer EUR wallet
+        outcome_account: Payeer EUR wallet, P1234567
+        outcome_account_label: Payeer EUR wallet
+      cardrub:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
