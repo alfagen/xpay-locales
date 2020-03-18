@@ -19,6 +19,19 @@ ru:
       use_email_as_login: В качестве логина используйте Ваш e-mail.
       set_password_link: Установите пароль для входа в личный кабинет.
       you_can_change_pasword: Пароль Вы можете самостоятельно изменить в настройках личного кабинета.
+    order_complete:
+      title: Ваша заявка успешно обработана!
+      hello: Здравствуйте, %{nickname}!
+      order_complete: Ваша заявка №%{public_id} успешно обработана. Средства перечислены на Ваши реквизиты.
+      thanks: Благодарим Вас за совершенный обмен!
+      laeve_feedback: Оставьте отзыв о нас
+      laeve_feedback_please: Мы будем очень рады, если Вы оставите отзыв о нашем сервисе на любом удобном для Вас сайте.
+      social_media: 'Соц. сети:'
+      sites: 'Сайты:'
+      leave_feedback_vk: Оставить отзыв в ВКонтакте
+      leave_feedback_facebook: Оставить отзыв в ВКонтакте
+      leave_feedback_bestchange: BestChange - написать отзыв
+      leave_feedback_mmgp: Оставить отзыв в ВКонтакте
     common:
       slogan: Единый обмен валюты
       updates: 'C 1 декабря 2018 года Kassa.cc начинает работу по лицензии Чешского национального
