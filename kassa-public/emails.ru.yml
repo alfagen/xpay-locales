@@ -32,6 +32,14 @@ ru:
       leave_feedback_facebook: Оставить отзыв в ВКонтакте
       leave_feedback_bestchange: BestChange - написать отзыв
       leave_feedback_mmgp: Оставить отзыв в ВКонтакте
+    order_cheque_complete:
+      title: Ваш номер чека!
+      hello: Здравствуйте, %{nickname}!
+      order_cheque: 'По Вашей заявке №%{public_id} был успешно создан номер чека:'
+      order_info: Данные по заявке
+      details_in_profile: Подробная информация по Вашей заявке также доступна в личном кабинете.
+      go_to_profile: Перейти в Личный кабинет
+
     common:
       slogan: Единый обмен валюты
       updates: 'C 1 декабря 2018 года Kassa.cc начинает работу по лицензии Чешского национального
