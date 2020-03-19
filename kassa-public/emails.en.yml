@@ -1,14 +1,60 @@
 en:
   emails:
+    layout:
+      need_help: Need help?
+      message_support: Message support
+      have_questions: 'Do you have questions? <br /> We help you!'
+      contact_support: Contact the support service on our website or by mail at support@kassa.cc.
+      final_slogan: 'With warmth and soul,<br /> Your Kassa!'
+      contact_operator: Contact operator
+      contact_support_if_needed: If you have any questions, write to Technical Support. Our team will be happy to help you sort out the issues.
+    activation_needed:
+      welcome: Welcome to our family!
+      congrats:  Congrats, %{nickname}!
+      success_registration: 'You have successfully registered on the site of the exchange service Kassa.cc. In order to get full access to your personal account, you need to activate your account. After activation, you can enjoy all the benefits of the Kassa service.'
+      activate_title: Activate your account
+      follow_the_link: 'Please follow the link to activate your account and open full access.:'
+      activate_link_title: Activate account
+      profile_access: 'Access to your account:'
+      use_email_as_login: Use your e-mail as login.
+      set_password_link: Set a password to enter your account.
+      you_can_change_pasword: You can change the password by yourself in the settings of your personal account.
+    order_complete:
+      title: Your application has been processed successfully!
+      hello: Greetings, %{nickname}!
+      order_complete: Your application №%{public_id} has been processed successfully. Funds are transferred to your details.
+      thanks: Thank you for your perfect exchange!
+      laeve_feedback: Leave a review about us
+      laeve_feedback_please: We will be very happy if you leave a review about our service on any site convenient for you.
+      social_media: 'Social networks:'
+      sites: 'Sites:'
+      leave_feedback_vk: Leave review on VK
+      leave_feedback_facebook: Leave review on Facebook
+      leave_feedback_bestchange: BestChange - write a review
+      leave_feedback_mmgp: Leave review on VK
+    order_cheque_complete:
+      title: Your check number!
+      hello: Greetings, %{nickname}!
+      order_cheque: 'According to your request №%{public_id} check number was created successfully:'
+      order_info: Application Data
+      details_in_profile: Detailed information on your application is also available in your account.
+      go_to_profile: Go to profile
+
     common:
       slogan: Single currency exchange
+      updates: 'From December 1, 2018, Kassa.cc begins work under a license from the Czech National
+        bank. The update will allow you to exchange currencies with a bank card or through
+        payment systems, for example: Apple Pay, Google Pay and Samsung Pay. Walk simple
+        account verification to get new features.'
+      receive: Get status
       support: If you have any questions, you can contact our support service on our website
         or write to us at support@kassa.cc.
-      postscript: Thank you for choosing our service! Best Regards, Your Kassa.
+      postscript: "Thank you for choosing our service! Best Regards,
+        Your Kassa.</i>"
       contacts: Contacts
       copyright: 2018, "Kassa.cc" - Single currency exchange
       generic_hello: Hello!
-      hello: Hello %{nickname}!
+      hello: Hello<b>%{nickname}</b>!
       goto_lk: Go to My Account
       contact_operator: Contact the operator
       reason: 'Reason:'
@@ -43,13 +89,13 @@ en:
       button: Confirm the output
     new_tickets:
       title: Your application is accepted!
-      create_order: Dear Customer, You have created an application number %{order_id}.
+      create_order: Dear Customer, You have created an application number <b>№%{order_id}</b>.
       create_output_order: Dear Customer, You have created an application for the withdrawal
-        of wages No. %{order_id}.
-      accepted: 'The status of your application: "Accepted" Our operators will process
+        of wages No. <b>№%{order_id}</b>.
+      accepted: 'The status of your application: "Accepted".<br /> Our operators will process
         your application within 20 minutes.'
       hold: "We hold your transfer for 48 hours. It's a payment system rules. An operator will process your order in 20 minutes afterward."
-      output_accepted: 'The status of your application: "Accepted" Within 24 hours the
+      output_accepted: 'The status of your application: "Accepted" <br>Within 24 hours the
         application will be processed and funds will be transferred to the account or
         purse specified by you.'
       none_reserves: Unfortunately, at the time of creating the application, the reserve
@@ -80,16 +126,16 @@ en:
         account. If the check number has not been displayed after processing the application,
         try refreshing the page.
       done_title: Your application has been successfully processed!
-      done_status: Your application number %{order_id} has been successfully processed.
+      done_status: Your application number <b>№ %{order_id}</b> has been successfully processed.
         Funds are transferred to your account.
-      done_feedback: 'Thank you for the perfect exchange! =) We will be very glad if you
+      done_feedback: 'Thank you for the perfect exchange! =)<br>We will be very glad if you
         leave feedback about our service on any site convenient for you:'
       done_sites: 'On the sites:'
       done_socials: 'In social networks:'
       error_title: Your application has been moved to Erroneous!
       error_status: 'The status of your application: "Erroneous"'
       restored_title: Your application has been restored!
-      restored_ticket: Dear customer, Your application number %{order_id} has been restored.
+      restored_ticket: Dear customer, Your application number <b>№ %{order_id}</b> has been restored.
       restored_contact: Please, expect, we will process your application in the near future.
     pass_change:
       title: Change Password!
@@ -99,7 +145,7 @@ en:
       changed_at: 'Date of change:'
     reserve_add:
       title: Reserve Replenishment Request Processed!
-      accepted: Your request №%{id} to replenish the service reserve Kassa.cc Processed.
+      accepted: Your request <b>№ %{id}</b> to replenish the service reserve Kassa.cc Processed.
       info: 'Information on request:'
       payment_system: 'Payment system:'
       amount: 'Amount:'
@@ -108,8 +154,16 @@ en:
       success_title: 'Succesful verification'
       fail_title: 'Failure in verification'
       title: Card verification!
-      request: Dear customer, You just sent an application for card verification number
-        %{num_cart}.
+      request: Dear customer, You just sent an application for card verification number <b>№
+        %{num_cart}</b>.
       fail: Unfortunately we were forced to refuse you = (
       success: Your card has been successfully verified! =)
       reason: Reason
+    reserve_request_complete:
+      title: 'Reserve replenishment request processed!'
+      hello: Greetings!
+      complete_message: 'Your request №%{id} to replenish the reserve of the Kassa.cc service.'
+      request_info: 'Information on request'
+      payment_system: 'Payment system'
+      amount: Amount
+      link_text: 'Create exchange order'
