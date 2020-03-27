@@ -147,3 +147,23 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
+      acrub:
+        income_account: Номер карты Альфа банка, 16 цифр
+        income_account_label: Номер карты Альфа банка
+        outcome_account: Номер карты Альфа банка, 16 цифр
+        outcome_account_label: Номер карты Альфа банка
+      tcsbrub:
+        income_account: Номер карты Тинькофф банка, 16 цифр
+        income_account_label: Номер карты Тинькофф банка
+        outcome_account: Номер карты Тинькофф банка, 16 цифр
+        outcome_account_label: Номер карты Тинькофф банка
+      p24uah:
+        income_account: Номер карты Приват банка, 16 цифр
+        income_account_label: Номер карты Приват банка
+        outcome_account: Номер карты Приват банка, 16 цифр
+        outcome_account_label: Номер карты Приват банка
+      carduah:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
