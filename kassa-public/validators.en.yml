@@ -30,7 +30,7 @@ en:
         QWRUB: 'You entered an incorrect QIWI wallet number. The wallet number must match the pattern of +7 999 777 66 11'
         TBRUB: 'You entered an incorrect account number in Telebank, the account number must contain 20 digits'
         BTC: 'You have entered the incorrect BTC wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV'
-        ACRUB: 'You have entered the wrong account number in AlfaClick, the account number must contain 20 digits'
+        ACRUB: 'You entered the wrong Alfa bank card number, the card number must contain 16 - 18 digits'
         PRUSD: 'You have entered the wrong Payeer wallet number. The purse number must match the template P1234567, P1234567890'
         PREUR: 'You have entered the wrong Payeer wallet number. The purse number must match the template P1234567, P1234567890'
         LTC: 'You entered an incorrect LiteCoin wallet number. Example: Lchanger9aqdHS5KKFz322FVH74LnzkoYJ'
@@ -54,6 +54,8 @@ en:
         BCH: 'You have entered the wrong BCH wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV, bitcoincash: qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z'
         ZEC: 'You have entered the wrong Zcash wallet number. Example: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz'
         NEO: 'You have entered the wrong Neo wallet number. Example: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte'
+        P24UAH: 'You entered the wrong сard number Privat24, the card number must contain 16 - 18 digits'
+        CARDUAH: 'You entered the wrong сard number in Visa/MasterCard UAH, the card number must contain 16 - 18 digits'
 
 
     cheque_format:
