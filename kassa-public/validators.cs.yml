@@ -30,7 +30,7 @@ cs:
         QWRUB: 'Zadali jste nesprávné číslo peněženky QIWI. Číslo peněženky musí odpovídat šabloně +7 999 777 66 11'
         TBRUB: 'Zadali jste nesprávné číslo účtu v Telebanku. Číslo účtu musí obsahovat 20 číslic.'
         BTC: 'Zadali jste nesprávné číslo BTC peněženky. Příklad: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV'
-        ACRUB: 'Zadali jste nesprávné číslo účtu v AlfaClick. Číslo účtu musí obsahovat 20 číslic.'
+        ACRUB: 'Zadali jste nesprávné číslo karty Alfa Bank. Číslo karty musí obsahovat 16 - 18 číslic.'
         PRUSD: 'Zadali jste nesprávné Číslo peněženky Payeer. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890'
         PREUR: 'Zadali jste nesprávné Číslo peněženky Payeer. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890'
         LTC: 'Zadali jste nesprávné číslo Litecoin peněženky. Příklad: Lchanger9aqdHS5KKFz322FVH74LnzkoYJ'
@@ -54,6 +54,8 @@ cs:
         BCH: 'Zadali jste nesprávné Číslo peněženky BCH. Příklad: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV,bitcoincash:qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z'
         ZEC: 'Zadali jste nesprávné Číslo peněženky Zcash. Příklad: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz'
         NEO: 'Zadali jste nesprávné Číslo peněženky Neo. Příklad: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte'
+        P24UAH: 'Zadali jste nesprávné číslo karty Privat24, Číslo karty musí obsahovat 16-18 číslic.'
+        CARDUAH: 'Zadali jste nesprávné číslo karty Visa/MasterCard UAH, Číslo karty musí obsahovat 16-18 číslic.'
 
     cheque_format:
       invalid: 'Nesprávné číslo šeku'
