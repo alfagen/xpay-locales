@@ -843,7 +843,7 @@
   "verificationCard": {
     "confirm": {
       "title": "Attention! Card verification.",
-      "content": "You must verify your card to complete the exchange. {{br}} Verification of the card will take from 1 to 5 minutes.",
+      "content": "To make an exchange in this direction, for the safety of your funds, verification of the Card is required. The procedure is one-time for each new card and takes from 1 to 5 minutes.",
       "next": "Go to verification",
       "cancel": "Cancel and exit"
     },
