@@ -166,4 +166,31 @@ ru:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
-        outcome_account_label: Номер карты
+        outcome_account_label: Номер карты   
+      cardeur:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты   
+      usdt:
+        outcome_account: Кошелек Tether OMNI
+        outcome_account_label: Кошелек Tether OMNI
+      usdterc:
+        outcome_account: Кошелек Tether ERC20
+        outcome_account_label: Кошелек Tether ERC20
+      eos:
+        outcome_account: Кошелек EOS
+        outcome_account_label: Кошелек EOS
+      xem:
+        outcome_account: Кошелек NEM
+        outcome_account_label: Кошелек NEM        
+      ada:
+        outcome_account: Кошелек Cardano
+        outcome_account_label: Кошелек Cardano       
+      trx:
+        outcome_account: Кошелек Tron
+        outcome_account_label: Кошелек Tron        
+      waves:
+        outcome_account: Кошелек Waves
+        outcome_account_label: Кошелек Waves            
+  
