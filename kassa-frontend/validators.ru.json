@@ -75,7 +75,13 @@
     "BCH": "Вы ввели неверный Номер кошелька BCH. Пример: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV,bitcoincash:qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z",
     "ZEC": "Вы ввели неверный Номер кошелька Zcash. Пример: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz",
     "NEO": "Вы ввели неверный Номер кошелька Neo. Пример: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte",
-    "USDT": "Вы ввели неверный номер кошелька USDT OMNI",
-    "USDTERC": "Вы ввели неверный номер кошелька USDT ERC20"
+    "USDT": "Вы ввели неверный Номер кошелька Tether OMNI. Пример: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU",
+    "USDTERC": "Вы ввели неверный Номер кошелька Tether ERC20. Пример: 0x754d555efacc1a2446c0c897b0e8e43234d2575d",
+    "EOS": "Вы ввели неверный Номер кошелька EOS. Пример: EOS8dUSkq29YwV3DueZeqr7Bpw1nyLEbquqFqiW5D95ijV7LQARoN",
+    "XEM": "Вы ввели неверный Номер кошелька NEM. Пример: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY",
+    "ADA": "Вы ввели неверный Номер кошелька Cardano. Пример: DdzFFzCqrhsrUjfMwJrzuQF8DeXJMgrmxFxMUE6tcLKpyA3YvAptZEFBgBo14a5qWMR8xrNEckqf9AG9VP7ofDketqXCPeSztCizzkEN",
+    "TRX": "Вы ввели неверный Номер кошелька Tron. Пример: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt",
+    "WAVES": "Вы ввели неверный Номер кошелька Waves. Пример: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
+    "CARDEUR": "Вы ввели неверный Номер карты Visa/Mastercard EUR, номер карты должен содержать 16 - 22 цифр" 
   }
 }
