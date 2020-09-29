@@ -76,7 +76,13 @@
     "BCH": "You have entered the wrong BCH wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV, bitcoincash: qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z",
     "ZEC": "You have entered the wrong Zcash wallet number. Example: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz",
     "NEO": "You have entered the wrong Neo wallet number. Example: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte",
-    "USDT": "Вы ввели неверный номер кошелька USDT OMNI",
-    "USDTERC": "Вы ввели неверный номер кошелька USDT ERC20"
+    "USDT": "You entered an incorrect Tether OMNI wallet number. Example: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU",
+    "USDTERC": "You entered an incorrect Tether ERC20 wallet number. Example: 0x754d555efacc1a2446c0c897b0e8e43234d2575d",
+    "EOS": "You entered an incorrect EOS wallet number. Example: EOS8dUSkq29YwV3DueZeqr7Bpw1nyLEbquqFqiW5D95ijV7LQARoN",
+    "XEM": "You entered an incorrect NEM wallet number. Example: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY",
+    "ADA": "You entered an incorrect Cardano wallet number. Example: DdzFFzCqrhsrUjfMwJrzuQF8DeXJMgrmxFxMUE6tcLKpyA3YvAptZEFBgBo14a5qWMR8xrNEckqf9AG9VP7ofDketqXCPeSztCizzkEN",
+    "TRX": "You entered an incorrect Tron wallet number. Example: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt",
+    "WAVES": "You entered an incorrect Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
+    "CARDEUR": "You have entered the wrong Visa/Mastercard EUR card number, the card number must contain 16 - 18 digits" 
   }
 }
