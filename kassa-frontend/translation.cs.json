@@ -674,11 +674,12 @@
   },
   "currencyFilter": {
     "all": "Vše",
-    "RUB": "RUB",
-    "USD": "USD",
-    "EUR": "EUR",
-    "UAH": "UAH",
-    "coin": "Coin"
+    "RUB": "₽",
+    "USD": "$",
+    "EUR": "€",
+    "UAH": "₴",
+    "KZT": "₸",
+    "coin": "₿"
   },
   "error": "Chyba",
   "instructionSubmit": {
