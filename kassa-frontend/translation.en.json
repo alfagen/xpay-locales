@@ -685,11 +685,12 @@
   },
   "currencyFilter": {
     "all": "All",
-    "RUB": "RUB",
-    "USD": "USD",
-    "EUR": "EUR",
-    "UAH": "UAH",
-    "coin": "Coin"
+    "RUB": "₽",
+    "USD": "$",
+    "EUR": "€",
+    "UAH": "₴",
+    "KZT": "₸",
+    "coin": "₿"
   },
   "error": "Error",
   "instructionSubmit": {
