@@ -757,7 +757,8 @@
     "card": "Номер счета Яндекс.Деньги",
     "account": "Сч. №",
     "wallet": "Кошелек",
-    "sum": "Сумма"
+    "sum": "Сумма",
+    "invoiceId": "Invoice Id"
   },
   "instructionData": {
     "hideData": "Скрыть данные реквизитов обмена",

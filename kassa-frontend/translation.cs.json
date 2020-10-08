@@ -695,7 +695,8 @@
     "card": "Číslo karty",
     "account": "Č. ú.",
     "wallet": "Peněženka",
-    "sum": "Částka"
+    "sum": "Částka",
+    "invoiceId": "Invoice Id"
   },
   "instructionData": {
     "hideData": "Skrýt vlastnosti směny",

@@ -706,7 +706,8 @@
     "card": "Yandex.Money Wallet Number",
     "account": "Bill №",
     "wallet": "Wallet",
-    "sum": "Amount"
+    "sum": "Amount",
+    "invoiceId": "Invoice Id"
   },
   "instructionData": {
     "hideData": "Hide information details for exchange",
