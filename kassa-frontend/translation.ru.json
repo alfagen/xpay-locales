@@ -758,7 +758,7 @@
     "account": "Сч. №",
     "wallet": "Кошелек",
     "sum": "Сумма",
-    "invoiceId": "Invoice Id"
+    "invoiceId": "Обязательно укажите invoice id"
   },
   "instructionData": {
     "hideData": "Скрыть данные реквизитов обмена",
