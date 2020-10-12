@@ -707,7 +707,7 @@
     "account": "Bill №",
     "wallet": "Wallet",
     "sum": "Amount",
-    "invoiceId": "Invoice Id"
+    "invoiceId": "Must be included invoice id"
   },
   "instructionData": {
     "hideData": "Hide information details for exchange",
