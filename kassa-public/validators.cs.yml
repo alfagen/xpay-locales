@@ -73,4 +73,4 @@ cs:
       only_latin: 'Pouze latinské písmeny'
 
     card_country:
-      mismatch: 'Vaše karta není přijata'
+      mismatch: 'Kartu této země nepřijímáme, zadejte prosím jiné číslo karty. Přečtěte si více o povoleném seznamu zemí v sekci FAQ.'
