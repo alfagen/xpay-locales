@@ -73,4 +73,4 @@ cs:
       only_latin: 'Pouze latinské písmeny'
 
     card_country:
-      mismatch: 'Přijímáme karty ze zemí: %{countries}'
+      mismatch: 'Vaše karta není přijata'

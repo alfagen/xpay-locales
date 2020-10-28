@@ -76,4 +76,4 @@ ru:
       only_latin: 'Только латинские буквы'
 
     card_country:
-      mismatch: 'Только карты из стран: %{countries}'
+      mismatch: 'Ваша карта не принимается'

@@ -72,4 +72,4 @@ en:
       only_latin: 'Only latin characters'
 
     card_country:
-      mismatch: 'Accept cards only from %{countries}'
+      mismatch: 'Your card is not accepted'
