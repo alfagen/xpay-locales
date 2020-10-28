@@ -70,3 +70,6 @@ en:
 
     fio_out:
       only_latin: 'Only latin characters'
+
+    card_country:
+      mismatch: 'Accept cards only from %{countries}'

@@ -74,3 +74,6 @@ ru:
 
     fio_out:
       only_latin: 'Только латинские буквы'
+
+    card_country:
+      mismatch: 'Только карты из стран: %{countries}'
