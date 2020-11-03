@@ -211,7 +211,13 @@
     "emptyListTitle": "Сохраненных кошельков еще нет",
     "emptyListNotice": "Чтобы добавить кошелек, Вам необходимо совершить обмен",
     "settingSaveOn": "Вкл",
-    "settingSaveOff": "Выкл"
+    "settingSaveOff": "Выкл",
+    "removeWalletTitle": "Удаление кошелька",
+    "removeWalletNotice": "Вы уверены, что хотите удалить кошелёк? Восстановить кошелёк нельзя, только создать новый.",
+    "remove": "Удалить",
+    "removeCancel": "Отменить и выйти",
+    "fieldNamefio": "ФИО",
+    "fieldNameaccount": "Номер кошелька"
   },
   "exform": {
     "exchangeNow": "Обменять сейчас",
