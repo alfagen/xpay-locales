@@ -63,11 +63,14 @@ cs:
         XEM: 'You have entered the wrong NEM wallet number. Example: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY'
         ADA: 'You have entered the wrong Cardano wallet number. Example: DdzFFzCqrhsrUjfMwJrzuQF8DeXJMgrmxFxMUE6tcLKpyA3YvAptZEFBgBo14a5qWMR8xrNEckqf9AG9VP7ofDketqXCPeSztCizzkEN'
         TRX: 'You have entered the wrong Tron wallet number. Example: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt'
-        WAVES: 'You have entered the wrong Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i' 
-        
+        WAVES: 'You have entered the wrong Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i'
+
 
     cheque_format:
       invalid: 'Nesprávné číslo šeku'
 
     fio_out:
       only_latin: 'Pouze latinské písmeny'
+
+    card_country:
+      mismatch: 'Kartu této země nepřijímáme, zadejte prosím jiné číslo karty. Přečtěte si více o povoleném seznamu zemí v sekci FAQ.'
