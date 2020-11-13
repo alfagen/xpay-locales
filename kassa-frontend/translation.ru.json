@@ -217,7 +217,8 @@
     "remove": "Удалить",
     "removeCancel": "Отменить и выйти",
     "fieldNamefio": "ФИО",
-    "fieldNameaccount": "Номер кошелька"
+    "fieldNameaccount": "Номер кошелька",
+    "linkToSetting": "Настройки сохранения кошельков"
   },
   "exform": {
     "exchangeNow": "Обменять сейчас",
