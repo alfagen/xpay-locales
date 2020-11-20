@@ -14,7 +14,7 @@
     "verification": "Card verification",
     "referal": "program",
     "promo": "Promo contributions",
-    "settings": "Profile"
+    "settings": "Settings"
   },
   "setting": {
     "aml": {
@@ -110,6 +110,10 @@
     },
     "tabs": {
       "general": "Profile Master Data",
+      "auth": "Authorization",
+      "wallets": "My wallets",
+      "language": "Language",
+      "security": "Security",
       "documents": "Documents",
       "accountStatus": "Account status",
       "profile": "Settings "
@@ -143,7 +147,7 @@
       "notice": "You can change the settings of your profile and leave the information for notifications:"
     },
     "paymentData": "Saving entered data:",
-    "title": "Profile",
+    "title": "Settings",
     "basic": "Main data:",
     "password": "Password settings:",
     "error": {
@@ -153,6 +157,24 @@
       "onlyCharacters": "The field must contain only letters."
     },
     "learnMore": "Read more"
+  },
+  "wallet": {
+    "choosePaymentSystem": "Select PS:",
+    "wallets": "Wallets",
+    "setting": "Wallet settings:",
+    "settingNotice": "Disable automatic saving of maps and wallets",
+    "settingInfo": "Your wallets are saved automatically after you create an order. To get your wallet in this list, just make an exchange.",
+    "emptyListTitle": "No purses saved yet",
+    "emptyListNotice": "To add a purse, you need to make a trade",
+    "settingSaveOn": "On",
+    "settingSaveOff": "Off",
+    "removeWalletTitle": "Removing your wallet",
+    "removeWalletNotice": "Are you sure you want to remove your wallet? You can't restore your wallet, you just need to create a new one",
+    "remove": "Delete",
+    "removeCancel": "Cancel and exit",
+    "fieldNamefio": "Full name",
+    "fieldNameaccount": "Wallet number",
+    "linkToSetting": "Wallets saving settings"
   },
   "exform": {
     "exchangeNow": "Exchange now",
