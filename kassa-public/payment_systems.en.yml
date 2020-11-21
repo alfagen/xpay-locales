@@ -185,7 +185,9 @@ en:
         outcome_fio_label: Memo (Invoice)
       xem:
         outcome_account: NEM address
-        outcome_account_label: NEM address        
+        outcome_account_label: NEM address
+        outcome_fio: Memo (Invoice)
+        outcome_fio_label: Memo (Invoice)
       ada:
         outcome_account: Cardano address
         outcome_account_label: Cardano address       
