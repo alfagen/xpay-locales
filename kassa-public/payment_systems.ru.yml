@@ -185,7 +185,9 @@ ru:
         outcome_fio_label: Memo получателя (Invoice)
       xem:
         outcome_account: Кошелек NEM
-        outcome_account_label: Кошелек NEM        
+        outcome_account_label: Кошелек NEM
+        outcome_fio: Memo получателя (Invoice)
+        outcome_fio_label: Memo получателя (Invoice)        
       ada:
         outcome_account: Кошелек Cardano
         outcome_account_label: Кошелек Cardano       
