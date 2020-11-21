@@ -181,6 +181,8 @@ cs:
       eos:
         outcome_account: EOS address
         outcome_account_label: EOS address
+        outcome_fio: Memo (Invoice)
+        outcome_fio_label: Memo (Invoice)
       xem:
         outcome_account: NEM address
         outcome_account_label: NEM address        
