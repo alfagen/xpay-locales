@@ -181,6 +181,8 @@ ru:
       eos:
         outcome_account: Кошелек EOS
         outcome_account_label: Кошелек EOS
+        outcome_fio: Memo получателя (Invoice)
+        outcome_fio_label: Memo получателя (Invoice)
       xem:
         outcome_account: Кошелек NEM
         outcome_account_label: Кошелек NEM        
