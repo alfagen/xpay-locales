@@ -916,7 +916,7 @@
     "restartVerification": "Try again"
   },
   "instructionLink": {
-    "description": "Go to your Sberbank account and log in. You can read the instructions on how to transfer funds from Sberbank to Yandex.Money accounts in the FAQ section.",
+    "description": "To pay for the application, go to the payment form by clicking on the button below.",
     "to": "Go to the website"
   },
   "referralUsers": {
