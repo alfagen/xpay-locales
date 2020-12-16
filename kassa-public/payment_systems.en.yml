@@ -190,10 +190,19 @@ en:
         outcome_fio_label: Memo (Invoice)
       ada:
         outcome_account: Cardano address
-        outcome_account_label: Cardano address       
+        outcome_account_label: Cardano address
       trx:
         outcome_account: Tron address
-        outcome_account_label: Tron address       
+        outcome_account_label: Tron address
       waves:
         outcome_account: Waves address
-        outcome_account_label: Waves address           
+        outcome_account_label: Waves address
+      mwrub:
+        income_account: Phone
+        income_account_label: Phone
+        outcome_account: Phone
+        outcome_account_label: Phone
+        income_operator: Mobile operator
+        income_operator_label: Mobile operator
+        outcome_operator: Mobile operator
+        outcome_operator_label: Mobile operator

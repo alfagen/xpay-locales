@@ -49,6 +49,10 @@ ru:
         income_account_label: Номер счета
         payment_card_exp_date: Окончание срока действия карты
         payment_card_exp_date_label: Окончание срока действия карты
+        income_operator: Оператор
+        income_operator_label: Оператор
+        outcome_operator: Оператор
+        outcome_operator_label: Оператор
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
@@ -166,12 +170,12 @@ ru:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
-        outcome_account_label: Номер карты   
+        outcome_account_label: Номер карты
       cardeur:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
-        outcome_account_label: Номер карты   
+        outcome_account_label: Номер карты
       usdt:
         outcome_account: Кошелек Tether OMNI
         outcome_account_label: Кошелек Tether OMNI
@@ -187,14 +191,22 @@ ru:
         outcome_account: Кошелек NEM
         outcome_account_label: Кошелек NEM
         outcome_fio: Memo получателя (Invoice)
-        outcome_fio_label: Memo получателя (Invoice)        
+        outcome_fio_label: Memo получателя (Invoice)
       ada:
         outcome_account: Кошелек Cardano
-        outcome_account_label: Кошелек Cardano       
+        outcome_account_label: Кошелек Cardano
       trx:
         outcome_account: Кошелек Tron
-        outcome_account_label: Кошелек Tron        
+        outcome_account_label: Кошелек Tron
       waves:
         outcome_account: Кошелек Waves
-        outcome_account_label: Кошелек Waves            
-  
+        outcome_account_label: Кошелек Waves
+      mwrub:
+        income_account: Номер телефона
+        income_account_label: Номер телефона
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_operator: Оператор сотовой связи
+        income_operator_label: Оператор сотовой связи
+        outcome_operator: Оператор сотовой связи
+        outcome_operator_label: Оператор сотовой связи
