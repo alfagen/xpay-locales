@@ -192,6 +192,11 @@ ru:
         outcome_account_label: Кошелек NEM
         outcome_fio: Memo получателя (Invoice)
         outcome_fio_label: Memo получателя (Invoice)
+      bnb:
+        outcome_account: Кошелек BNB
+        outcome_account_label: Кошелек BNB
+        outcome_fio: Memo получателя
+        outcome_fio_label: Memo получателя
       ada:
         outcome_account: Кошелек Cardano
         outcome_account_label: Кошелек Cardano
