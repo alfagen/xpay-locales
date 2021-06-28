@@ -188,6 +188,11 @@ en:
         outcome_account_label: NEM address
         outcome_fio: Memo (Invoice)
         outcome_fio_label: Memo (Invoice)
+      bnb:
+        outcome_account: BNB address
+        outcome_account_label: BNB address
+        outcome_fio: Memo
+        outcome_fio_label: Memo
       ada:
         outcome_account: Cardano address
         outcome_account_label: Cardano address
