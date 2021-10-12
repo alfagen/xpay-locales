@@ -215,3 +215,17 @@ ru:
         income_operator_label: Оператор сотовой связи
         outcome_operator: Оператор сотовой связи
         outcome_operator_label: Оператор сотовой связи
+      xlm:
+        outcome_account: Кошелек Stellar (XLM)
+        outcome_account_label: Кошелек Stellar (XLM)
+        outcome_fio: Memo получателя
+        outcome_fio_label: Memo получателя
+      dot:
+        outcome_account: Кошелек Polkadot
+        outcome_account_label: Кошелек Polkadot
+      doge:
+        outcome_account: Кошелек Doge
+        outcome_account_label: Кошелек Doge
+      usdttrc:
+        outcome_account: Кошелек USDT TRC20
+        outcome_account_label: Кошелек USDT TRC20
