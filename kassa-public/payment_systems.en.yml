@@ -211,3 +211,18 @@ en:
         income_operator_label: Mobile operator
         outcome_operator: Mobile operator
         outcome_operator_label: Mobile operator
+      xlm:
+        outcome_account: Stellar (XLM) address
+        outcome_account_label: Stellar (XLM) address
+        outcome_fio: Memo 
+        outcome_fio_label: Memo 
+      dot:
+        outcome_account: Polkadot address
+        outcome_account_label: Polkadot address
+      doge:
+        outcome_account: Doge address
+        outcome_account_label: Doge address
+      usdttrc:
+        outcome_account: USDT TRC20 address
+        outcome_account_label: USDT TRC20 address
+        
