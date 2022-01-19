@@ -1,22 +1,20 @@
 {
-  "links": {
-    "about": "О сервисе",
-    "gifts": "Подарки от сайта",
-    "rulesFooter": "Правила сервиса",
-    "contacts": "Контакты",
-    "rulesMobile": "Правила и условия сервиса",
-    "rules": "Правила сервиса",
-    "partners": "Партнерам",
-    "news": "Новости",
-    "faq": "FAQ",
-    "signOut": "Выход",
-    "requests": "Мои заявки",
-    "verification": "Верификация карты",
-    "referal": "Реферальная программа",
-    "promo": "Промо материалы",
-    "settings": "Настройки"
+  "menu": {
+    "exchange": "Обмен",
+    "orders": "Подарки от сайта",
+    "profile": "Правила сервиса"
   },
-  "setting": {
+  "exchange": {
+    "firstStep": {
+      "youGive": "Вы отдаете",
+      "youTake": "Получаете",
+      "statuses": {
+        "guest": "Гостевой",
+        "personal": "Персональный",
+        "professional": "Профессиональный"
+      },
+   },
+  "orders": {
     "aml": {
       "stateTitle": "Состояние вашего акканута:",
       "statuses": {
@@ -24,4 +22,5 @@
         "personal": "Персональный",
         "professional": "Профессиональный"
       },
-
+   },
+}
