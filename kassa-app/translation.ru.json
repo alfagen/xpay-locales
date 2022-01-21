@@ -88,7 +88,7 @@
     "dateCreate": "Дата и время создания",
     "writeToTech": "Написать в тех. поддержку",
   },
-  "done":"Выполнена", {
+  "done": "Выполнена", {
     "orderNubmer": "Номер заявки",
     "status": "Статус",
     "walletIncome": "Кошелек {income}",
