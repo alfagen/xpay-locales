@@ -1,6 +1,8 @@
 ru:
   emails:
     layoutnew:
+      need_help: Требуется помощь?
+      message_support: Написать в поддержку
       have_questions: 'У Вас остались вопросы? <br /> Мы поможем Вам!'
       contact_support: Обратитесь в службу поддержки на нашем сайте или на почту support@kassa.cc.
       final_slogan: 'С теплотой и душой,<br /> Ваша Kassa!'
