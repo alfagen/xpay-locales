@@ -29,6 +29,7 @@
     }
   },
   "exchange": {
+    "title": "Обмен",
     "firstStep": {
       "title": "Первый этап",
       "youGive": "Вы отдаете",
