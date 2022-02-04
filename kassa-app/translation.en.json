@@ -1,1 +1,315 @@
-{}
+{
+  "buttons": {
+    "goBack": "Back",
+    "enter": "Enter",
+    "save": "Save",
+    "next": "Exchange now",
+    "exchange": "Exchange",
+    "continue": "Continue",
+    "iPay": "I have paid",
+    "cancel": "Cancel",
+    "roger": "Okay"
+  },
+  "menu": {
+    "exchange": "Exchange",
+    "orders": "Applications",
+    "profile": "Profile"
+  },
+  "modalWindows": {
+    "neo": {
+      "title": "When exchanging from any direction to NEO, you can specify the exchange amount to be converted into whole NEO. Choose the amount that suits you below"
+    },
+    "photoMW": {
+      "shot": "Take a photo",
+      "upload": "Upload from device"
+    },
+    "statusMW": {
+      "title": "Applicaton №{{order_number}} успешно создана и принята в обработку!",
+      "subtitle": "You can track the status of the application in your Personal Account. Please make sure that the funds have been successfully debited from your account. If you have any questions, we will be happy to help you in the online chat or by e-mail of our technical support support@kassa.cc. Sincerely, Your Kassa!"
+    }
+  },
+  "exchange": {
+    "title": "Exchange",
+    "firstStep": {
+      "title": "First staep",
+      "youGive": "You give",
+      "youTake": "You take",
+      "exchangeCourse": "Exchange course",
+      "further": "Further"
+    },
+    "secondStep": {
+      "title": "Second step",
+      "fillIn": "Fill in details",
+      "changeCurrency": "Exchange now",
+      "policy": "I agree with conditoins and terms",
+      "inputEmail": "Enter your E-mail"
+    },
+    "cardVerification": {
+      "title": "Verification card",
+      "vefirDescription": "This is the first time you make an exchange with this card on our service. For the security of your funds, verification of the Card is required. The procedure is one-time and takes from 1 to 5 minutes.",
+      "verifPause": "In period from 11:00 PM to 7:00 PM (GMT+3) there may be delays in verification",
+      "goToVerification": "Go to verification",
+      "rejectAndCancel": "Cancel and exit",
+      "selectFile": "Select file",
+      "waiting": "Wait until the process of card verification unfinished",
+      "info": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.",
+      "instructions": {
+        "first": "The photo of the card with nubmer and name should be readable",
+        "second": "На заднем фоне (за картой) должен быть монитор с открытой вкладкой сайта Kassa.cc"
+      },
+      "weChecking": "Мы проверяем Вашу карту. Сервис автоматически отправит вам уведомление, как только процесс верификации закончится",
+      "success": "Верификация карты пройдена успешно",
+      "error": "Ошибка верификации карты. Попробуйте еще раз соблюдая инструкцию"
+    },
+    "thirdStepPaymentSystem": {
+      "systemType=payment_system": "Платежная система",
+      "title": "Третий этап",
+      "agreeConditions": "I agree with conditoins and terms",
+      "translition": "Switching to the payment form",
+      "clickToGo": "Click «Go now» to go to the payment page. Attention! You need to pay for the application within 20 minutes. If during this time you cannot make a payment, just create a new application",
+      "checkRequisites": "Check the payment details and pay for the application in {время}",
+      "orderNum": "Application",
+      "goNow": "Go now",
+      "cancel": "Cancel"
+    },
+    "thirdStepCrypto": {
+      "checkRequisites": "Check the payment details and pay for the application in {время}",
+      "min": "min",
+      "invoiceId": "Invoice ID",
+      "transferToWallet": "Переведите на кошелек {{wallet_name}}",
+      "correctCost": "Точная сумма для перевода в {{wallet_name}}",
+      "tapToPay": "После перевода нажмите на кнопку ниже «Я оплатил»",
+      "iPay": "Я оплатил"
+    },
+    "thirdStepCheque": {
+      "info": "Вставьте номер {{wallet_name}} и код активации. Если нужно добавить еще один код нажмите “Добавить еще один чек“",
+      "transactionInfo": "Перевести {{wallet_name}} на сумму {{sum}}{{currency}}",
+      "wrongChequeNum": "Неверный номер чека",
+      "requireCheque": "Обязательно укажите один или несколько чеков",
+      "addCheque": "Добавить чек"
+    },
+    "finalStep": {
+      "title": "Финальный этап",
+      "orderNumCopied": "Номер заявки скопирован!",
+      "waitPay": "Ожидание оплаты по заявке",
+      "waitText": "Ожидаем зачисление средств наш счет. Как только средства будут зачислены мы автоматически перенаправим Вас в Личный кабинет.",
+      "detailed": "Подробнее",
+      "orderNum": "Заявка №{{order_number}} успешно создана и принята в обработку!",
+      "payNotConfirm": "Оплата по заявке №${{order_number}} не поступила",
+      "trackStatus": "Отслеживать статус заявки Вы сможете в Личном кабинете. Пожалуйтса убедитесь что средства были успешно списаны с Вашего счета. Если у Вас возникнут вопросы, мы с радостью поможем Вам в онлайн-чате или на почте нашей технической поддержки support@kassa.cc. С уважением, Ваша Kassa!",
+      "gotU": "Понятно",
+      "goToPc": "Перейти в ЛК",
+      "textUs": "Написать в чат",
+      "more": "Подробнее",
+      "statusTxt": {
+        "paid": "Мы обработаем Вашу заявку в течение 20 минут после зачисления средств на наш счет.",
+        "waiting": "Ожидаем зачисление средств на наш счет. Как только средства будут зачислены мы автоматически перенаправим Вас в Личный кабинет.",
+        "payNotConfirm": "Платеж по заявке №{{order_number}} не прошел. Статус заявки вы можете посмотреть в личном кабинете. Если вы оплатили заявку и видите эту страницу напишите в техподдержку."
+      }
+    },
+    "emptyData": "Empty data"
+  },
+  "profile": {
+    "title": "My profile",
+    "profileData": {
+      "title": "Main profile data",
+      "canChange": "You can change main account settings and write out data for communication",
+      "fio": "Enter your name",
+      "mail": "E-mail",
+      "mailNotVerified": "Your e-mail is not verified. A confirmation message has been sent to your email",
+      "mailVerified": "Your e-mail is verified",
+      "mailSended": "E-mail sent!",
+      "sendAgain": "Send again",
+      "editSuccess": "Data edited!",
+      "editError": "Edit error!"
+    },
+    "myWallets": {
+      "title": "My wallets",
+      "choosePs": "Choose PS:",
+      "wallets": "Wallets",
+      "saveWallets": "No saved wallets yet",
+      "addWallet": "To add a wallet, you need to make an exchange"
+    },
+    "safety": {
+      "title": "Safety",
+      "passwordSettings": "Password settings",
+      "changePassword": "To change your password, enter your old password and repeat your new password twice",
+      "oldPassword": "Old password",
+      "newPassword": "New password",
+      "repeatPassword": "Repeat new password",
+      "wrongCurrentPassword": "Неправильно введен текущий пароль",
+      "newPasswordNotValid": "The password must contain 8 symbols and include numbers, lowercase and uppercase letters of English alphabet",
+      "passwordNotEqual": "Password mismatch",
+      "passwordChanged": "Password changed!"
+    },
+    "exit": "Exit",
+    "serviceRules": {
+      "title": "The Terms and Conditions",
+      "privatePolicy": "Private policy",
+      "policyComplaints": "Complaint policy",
+      "amlRules": "AML/KYC Rules",
+      "legalInfo": "Legal information"
+    },
+    "contacts": {
+      "title": "Contacts",
+      "techSupp": "Technical support",
+      "ifQuestions": "If you have got any technical or financial questions, write us and we will help you. We answer on questions queries within 15-60 minutes depending on load service.",
+      "workHours": "Working hours",
+      "workHoursValue": "from 7:00 AM to 11:00 PM (GMT+3)",
+      "mailSupport": "Support on mail",
+      "openChat": "Open online chat",
+      "writeOperator": "Write to operator",
+      "cooperation": "Cooperation and PR",
+      "cooperationText": "If you have a proposal for cooperation, connection of monitoring, questions about advertising, adding a new currency - write, we are always open for cooperation!",
+      "cooperationWorkHoursValue": "from 10:00 AM to 5:00 PM (GMT+3)",
+      "telegramSupport": "Support in Telegram",
+      "socialNetwork": "We are in cocial networks",
+      "writeNow": "Write us now"
+    },
+    "lang": {
+      "title": "Language",
+      "selectLang": "Select language",
+      "rus": "Russian",
+      "eng": "English",
+      "cz": "Czech"
+    },
+    "chat": {
+      "title": "Online chat"
+    },
+    "newPassword": {
+      "title": "New password",
+      "passNotEqual": "Password mismatch",
+      "passNotCorrect": "Incorrect password",
+      "enterNewPassword": "Enter a new password",
+      "info": "The password must contain 8 symbols and include numbers, lowercase and uppercase letters of English alphabet",
+      "repeatPass": "Repeat password",
+      "savePass": "Save password"
+    }
+  },
+  "ordersList": {
+    "title": "My applications",
+    "emptyOrdersList": "You don't have any applications yet",
+    "today": "Todat",
+    "yesterday": "Yesterday",
+    "rejected": {
+      "title": "Rejected",
+      "orderNumber": "Request number",
+      "status": "Status",
+      "costIncome": "Amount {Монета}",
+      "wallet": "Wallet {Название колешька}",
+      "costOutcome": "Amount {Монета}",
+      "dateCreate": "Date and time of creation",
+      "writeToTech": "Write to technical support"
+    },
+    "done": {
+      "title": "Completed",
+      "orderNubmer": "Request number",
+      "status": "Status",
+      "walletIncome": "Income amount {income}",
+      "costIncome": "Wallet {Монета}",
+      "walletOutcome": "Wallet {outcome}",
+      "costOutcome": "Outcome amount {Монета}",
+      "dateCreate": "Date and time of creation"
+    },
+    "processing": {
+      "title": "In processing"
+    },
+    "checkPayment": {
+      "title": "Payment verification"
+    }
+  },
+  "order": {
+    "title": "Application",
+    "orderNumber": "Request number",
+    "status": "Status",
+    "orderStatus": {
+      "rejected": "Rejected",
+      "success": "Completed",
+      "processing": "Being processed",
+      "checkPayment": "Payment verification"
+    },
+    "orderStatusTxt": {
+      "rejected": "Reason not specified",
+      "processing": "Your application is being processed. Processing time takes from 10 to 20 minutes",
+      "checkPayment": "We check your translation. As soon as the verification is completed, we will begin processing your application."
+    },
+    "sum": "Amount {{wallet_name}}",
+    "wallet": "Wallet {{wallet_name}}",
+    "dateTime": "Date and time of creation",
+    "writeSupport": "Write to technical support",
+    "copied": "Copied!",
+    "notFound": "Application not found"
+  },
+  "auth": {
+    "title": "Authorization",
+    "writeLogin": "Enter login or e-mail",
+    "writePassword": "Enter password",
+    "forgotPassword": "Forgot password?",
+    "recoveryPassword": "Restore password",
+    "writeEmail": "Enter e-mail",
+    "writeEmailText": "Enter the email address you used when registering. We will send you an email with a link to reset your password",
+    "imageCode": "Enter the code from the image",
+    "wrongImageCode": "Invalid code from image",
+    "recoverPassword": "Restore password",
+    "wrongWritenEmailOrPassword": "Incorrect email or password",
+    "register": "Register",
+    "recoveryMailSended": "Email with link to reset password successfully sent!",
+    "recoveryMailSendedSubtitle": "Follow the link in the email to continue"
+  },
+  "registration": {
+    "title": "Registration",
+    "writeFio": "Enter your name",
+    "writeEmail": "Enter e-mail",
+    "needToAuth": "Using for authorization",
+    "writePassword": "Enter password",
+    "conditions": "The password must contain 8 symbols and include numbers, lowercase and uppercase letters of English alphabet. ",
+    "repeatPassword": "Repeat password",
+    "agreeWithStatement": "I agree with conditoins and terms",
+    "register": "Sign in",
+    "alreadyHave": "Already has",
+    "account": "account",
+    "passNotEqual": "Password mismatch",
+    "passNotCorrect": "Incorrect password",
+    "info": "The password must contain 8 symbols and include numbers, lowercase and uppercase letters of English alphabet. ",
+    "repeatPass": "Repeat password",
+    "emptyFio": "Name is a required field",
+    "emptyEmail": "Email is a required field"
+  },
+  "errorsAndPopups": {
+    "title": "Errors and popups",
+    "oftenMail": "Frequently used email address",
+    "wrongData": "Wrong email or password",
+    "wrongImageCode": "Invalid cone from image",
+    "wrongEmail": "Write correct e-mail",
+    "incrorrectPassword": "Incorrect password",
+    "nomatchPassword": "Password mismatch",
+    "increaseCost": "Amount less than minimum - {{sum}}",
+    "decreaseCost": "Amount is greater than the maximum - {{sum}}",
+    "textCopied": "Text copied!",
+    "cantAccept": "We cannot accept this amount from you, change it to a few coins",
+    "notConnectedToServer": "Failed to connect with server"
+  },
+  "technicalBreakInExchange": {
+    "title": "Technical break",
+    "breakDescriptionPopUp": "Our service is on a technical break"
+  },
+  "technicalBreak": {
+    "title": "Technical break",
+    "breakDescription": "- this is the time that we allocate on the site in order to quickly recalculate the entire system for further work at current rates and profitable offers",
+    "apology": "We try to reduce the time of a technical break or remove it altogether",
+    "endIn": "Ends in",
+    "min": "min",
+    "sec": "sec"
+  },
+  "orders": {
+    "aml": {
+      "stateTitle": "Account status",
+      "statuses": {
+        "guest": "Guest",
+        "personal": "Personal",
+        "professional": "Professional"
+      }
+    }
+  }
+}
+
