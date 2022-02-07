@@ -24,7 +24,7 @@
       "upload": "Upload from device"
     },
     "statusMW": {
-      "title": "Applicaton №{{order_number}} успешно создана и принята в обработку!",
+      "title": "Applicaton №{{order_number}} successfully created and accepted for processing!",
       "subtitle": "You can track the status of the application in your Personal Account. Please make sure that the funds have been successfully debited from your account. If you have any questions, we will be happy to help you in the online chat or by e-mail of our technical support support@kassa.cc. Sincerely, Your Kassa!"
     }
   },
@@ -55,15 +55,15 @@
       "info": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.",
       "instructions": {
         "first": "The photo of the card with nubmer and name should be readable",
-        "second": "На заднем фоне (за картой) должен быть монитор с открытой вкладкой сайта Kassa.cc"
+        "second": "In the background (behind the card) there should be a monitor with an open tab of the site Kassa.cc"
       },
-      "weChecking": "Мы проверяем Вашу карту. Сервис автоматически отправит вам уведомление, как только процесс верификации закончится",
-      "success": "Верификация карты пройдена успешно",
-      "error": "Ошибка верификации карты. Попробуйте еще раз соблюдая инструкцию"
+      "weChecking": "We are checking your card. The service will automatically send you a notification as soon as the verification process is over",
+      "success": "Card verification completed successfully",
+      "error": "Card verification error. Try again following the instructions"
     },
     "thirdStepPaymentSystem": {
-      "systemType=payment_system": "Платежная система",
-      "title": "Третий этап",
+      "systemType=payment_system": "Payment system",
+      "title": "Third step",
       "agreeConditions": "I agree with conditoins and terms",
       "translition": "Switching to the payment form",
       "clickToGo": "Click «Go now» to go to the payment page. Attention! You need to pay for the application within 20 minutes. If during this time you cannot make a payment, just create a new application",
@@ -76,35 +76,35 @@
       "checkRequisites": "Check the payment details and pay for the application in {время}",
       "min": "min",
       "invoiceId": "Invoice ID",
-      "transferToWallet": "Переведите на кошелек {{wallet_name}}",
-      "correctCost": "Точная сумма для перевода в {{wallet_name}}",
-      "tapToPay": "После перевода нажмите на кнопку ниже «Я оплатил»",
-      "iPay": "Я оплатил"
+      "transferToWallet": "Transfer to wallet {{wallet_name}}",
+      "correctCost": "Exact amount to transfer to {{wallet_name}}",
+      "tapToPay": "After the transfer, click on the button below «I paid»",
+      "iPay": "I paid"
     },
     "thirdStepCheque": {
-      "info": "Вставьте номер {{wallet_name}} и код активации. Если нужно добавить еще один код нажмите “Добавить еще один чек“",
-      "transactionInfo": "Перевести {{wallet_name}} на сумму {{sum}}{{currency}}",
-      "wrongChequeNum": "Неверный номер чека",
-      "requireCheque": "Обязательно укажите один или несколько чеков",
-      "addCheque": "Добавить чек"
+      "info": "Enter the number {{wallet_name}} and the activation code. If you need to add another code, click «Add another check»",
+      "transactionInfo": "Transfer {{wallet_name}} to the amount {{sum}}{{currency}}",
+      "wrongChequeNum": "Incorrect check number",
+      "requireCheque": "Be sure to include one or more checks",
+      "addCheque": "Add another check"
     },
     "finalStep": {
-      "title": "Финальный этап",
-      "orderNumCopied": "Номер заявки скопирован!",
-      "waitPay": "Ожидание оплаты по заявке",
-      "waitText": "Ожидаем зачисление средств наш счет. Как только средства будут зачислены мы автоматически перенаправим Вас в Личный кабинет.",
-      "detailed": "Подробнее",
-      "orderNum": "Заявка №{{order_number}} успешно создана и принята в обработку!",
-      "payNotConfirm": "Оплата по заявке №${{order_number}} не поступила",
-      "trackStatus": "Отслеживать статус заявки Вы сможете в Личном кабинете. Пожалуйтса убедитесь что средства были успешно списаны с Вашего счета. Если у Вас возникнут вопросы, мы с радостью поможем Вам в онлайн-чате или на почте нашей технической поддержки support@kassa.cc. С уважением, Ваша Kassa!",
-      "gotU": "Понятно",
-      "goToPc": "Перейти в ЛК",
-      "textUs": "Написать в чат",
-      "more": "Подробнее",
+      "title": "Final step",
+      "orderNumCopied": "Application number copied!",
+      "waitPay": "Waiting for payment on application",
+      "waitText": "We are waiting for the funds to be credited to our account. As soon as the funds are credited, we will automatically redirect you to your Personal Account.",
+      "detailed": "Detailed",
+      "orderNum": "Application №{{order_number}} successfully created and accepted for processing",
+      "payNotConfirm": "Application payment №${{order_number}} not received",
+      "trackStatus": "You can track the status of the application in your Personal Account. Please make sure that the funds have been successfully debited from your account. If you have any questions, we will be happy to help you in the online chat or by e-mail of our technical support support@kassa.cc. Sincerely, Your Kassa!",
+      "gotU": "Clear",
+      "goToPc": "Go to PA",
+      "textUs": "Write to chat",
+      "more": "More",
       "statusTxt": {
-        "paid": "Мы обработаем Вашу заявку в течение 20 минут после зачисления средств на наш счет.",
-        "waiting": "Ожидаем зачисление средств на наш счет. Как только средства будут зачислены мы автоматически перенаправим Вас в Личный кабинет.",
-        "payNotConfirm": "Платеж по заявке №{{order_number}} не прошел. Статус заявки вы можете посмотреть в личном кабинете. Если вы оплатили заявку и видите эту страницу напишите в техподдержку."
+        "paid": "We will process your application within 20 minutes after the funds are credited to our account.",
+        "waiting": "We are waiting for the funds to be credited to our account. As soon as the funds are credited, we will automatically redirect you to your Personal Account.",
+        "payNotConfirm": "Application payment №${{order_number}} not received. You can see the status of the application in your personal account. If you paid for the application and see this page, write to technical support."
       }
     },
     "emptyData": "Empty data"
@@ -137,7 +137,7 @@
       "oldPassword": "Old password",
       "newPassword": "New password",
       "repeatPassword": "Repeat new password",
-      "wrongCurrentPassword": "Неправильно введен текущий пароль",
+      "wrongCurrentPassword": "Current password entered incorrectly",
       "newPasswordNotValid": "The password must contain 8 symbols and include numbers, lowercase and uppercase letters of English alphabet",
       "passwordNotEqual": "Password mismatch",
       "passwordChanged": "Password changed!"
