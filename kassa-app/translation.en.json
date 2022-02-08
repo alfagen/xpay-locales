@@ -79,7 +79,7 @@
       "transferToWallet": "Transfer to wallet {{wallet_name}}",
       "correctCost": "Exact amount to transfer to {{wallet_name}}",
       "tapToPay": "After the transfer, click on the button below «I paid»",
-      "iPay": "I paid"
+      "iPay": "I have paid"
     },
     "thirdStepCheque": {
       "info": "Enter the number {{wallet_name}} and the activation code. If you need to add another code, click «Add another check»",
