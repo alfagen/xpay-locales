@@ -189,7 +189,7 @@
   "ordersList": {
     "title": "My applications",
     "emptyOrdersList": "You don't have any applications yet",
-    "today": "Todat",
+    "today": "Today",
     "yesterday": "Yesterday",
     "rejected": {
       "title": "Rejected",
