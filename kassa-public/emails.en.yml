@@ -32,7 +32,7 @@ en:
       leave_feedback_facebook: Leave review on Facebook
       leave_feedback_bestchange: BestChange - write a review
       leave_feedback_mmgp: Leave review on VK
-      outcome_transaction: 'Transaction: <a href="%{outcome_transaction}">'
+      outcome_transaction: 'Transaction: <a href="%{outcome_transaction}">%{outcome_transaction}</a>'
     order_cheque_complete:
       title: Your check number!
       hello: Greetings, %{nickname}!
