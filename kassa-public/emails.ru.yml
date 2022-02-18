@@ -45,6 +45,7 @@ ru:
       leave_feedback_facebook: Оставить отзыв в Фейсбук
       leave_feedback_bestchange: BestChange - написать отзыв
       leave_feedback_mmgp: Оставить отзыв в ВКонтакте
+      outcome_transaction: "Транзакция: %{link}"
     order_cheque_complete:
       title: Ваш номер чека!
       hello: Здравствуйте, %{nickname}!
