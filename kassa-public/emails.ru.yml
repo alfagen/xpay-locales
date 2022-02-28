@@ -1,5 +1,18 @@
 ru:
   emails:
+    layoutnew:
+      need_help: Требуется помощь?
+      message_support: Написать в поддержку
+      have_questions: 'У Вас остались вопросы? <br /> Мы поможем Вам!'
+      contact_support: Обратитесь в службу поддержки на нашем сайте или на почту support@kassa.cc.
+      final_slogan: 'С теплотой и душой,<br /> Ваша Kassa!'
+      contact_in_chat: Написать в чат
+    footer:
+      still_have_questions: 'Есть вопросы? Ответьте в этом письме. <br /> Напишите в Telegram или в чат на сайте'
+      if_wrong_address: 'Если это сообщение было доставлено Вам случайно, пожалуйста, <br /> удалите его. Если Вы хотите изменить настройки уведомлений <br /> нажмите здесь. Если вы хотите отписаться от писем или рассылок <br /> нажмите здесь.'
+      private_policy: 'Политика конфиденциальности'
+      exchange_rules: 'Правила обмена'
+      contacts: 'Контакты'
     layout:
       need_help: Требуется помощь?
       message_support: Написать в поддержку
@@ -32,6 +45,7 @@ ru:
       leave_feedback_facebook: Оставить отзыв в Фейсбук
       leave_feedback_bestchange: BestChange - написать отзыв
       leave_feedback_mmgp: Оставить отзыв в ВКонтакте
+      outcome_transaction: "Транзакция: %{link}"
     order_cheque_complete:
       title: Ваш номер чека!
       hello: Здравствуйте, %{nickname}!
@@ -115,7 +129,7 @@ ru:
       request: Уважаемый клиент, Вы, либо кто-то еще запросил напоминание пароля по e-mail.
       goto_link: 'Для того, чтобы восстановить пароль от вашего личного кабинета, пожалуйста,
         пройдите по ссылке:'
-      expiry: Ссылка действительна в течение 15 и до первой активации на сайте.
+      reset_password: 'Восстановление пароля'
     change_ticket:
       remove_title: Ваша заявка удалена!
       remove_status: 'Статус Вашей заявки: «Удалена»'

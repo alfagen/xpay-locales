@@ -32,6 +32,7 @@ cs:
       leave_feedback_facebook: Zanechte recenzi na Facebooku
       leave_feedback_bestchange: BestChange - napsat recenzi
       leave_feedback_mmgp: Napište recenzi na VK
+      outcome_transaction: "Transakce: %{link}"
     order_cheque_complete:
       title: Vaše kontrolní číslo!
       hello: Pozdravy, %{nickname}!
