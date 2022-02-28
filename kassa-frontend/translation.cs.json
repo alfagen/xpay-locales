@@ -427,7 +427,8 @@
     "adoptedReff": "Váš požadavek na výplatu vydělaných prostředků byl přijat!",
     "adoptedReffConfirm": "Výplata odměn byla potvrzena!",
     "hold": "Prostředky jsou zmrazeny",
-    "holdReason": "Prostředky jsou zmrazeny po dobu 48 hodin {{time}}"
+    "holdReason": "Prostředky jsou zmrazeny po dobu 48 hodin {{time}}",
+    "processing":"Zpracovává se"
   },
   "passwordForm": {
     "labelOldPass": "Původní heslo:",

@@ -460,7 +460,8 @@
     "adoptedReff": "Your apoplication on withdrawal earning fund is accepted!",
     "adoptedReffConfirm": "Сonfirming the withdrawal rewards!",
     "hold": "Transfer is holded",
-    "holdReason": "Transfer is holded for 48 hours until {{time}}"
+    "holdReason": "Transfer is holded for 48 hours until {{time}}",
+    "processing": "Processing"
   },
   "passwordForm": {
     "labelOldPass": "Old password:",
