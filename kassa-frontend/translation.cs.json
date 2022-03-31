@@ -407,7 +407,7 @@
     "start": "Zahájit směnu"
   },
   "requestStatus": {
-    "waitingDescr": "Váš požadavek bude zpracován v nejbližší době. {{br}} Máte-li otázky {{chat}}. ",
+    "waitingDescr": "Máte-li otázky {{chat}}. ",
     "chat": "napište prosím na naši technickou podporu.",
     "waitingDescrMinute": "Váš požadavek bude zpracován během {{minute}} minut.",
     "success": "Požadavek vyplněn",
