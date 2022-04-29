@@ -445,7 +445,7 @@
     "waitingDescrMinute": "Your application will process in {{minute}} minutes.",
     "success": "The application is done",
     "wrong": "The application misspelled",
-    "fail": "The application has not been accepted",
+    "fail": "The application was rejected",
     "freeze": "The application had been frozen",
     "waiting": "Expects processing",
     "waitingPayment": "Checking payment",
