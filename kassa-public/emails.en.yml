@@ -55,7 +55,7 @@ en:
       contacts: Contacts
       copyright: 2022, "Kassa.cc" - Single currency exchange
       generic_hello: Hello!
-      hello: Hello<b>%{nickname}</b>!
+      hello: Hello, <b>%{nickname}</b>!
       goto_lk: Go to My Account
       contact_operator: Contact the operator
       reason: 'Reason:'
