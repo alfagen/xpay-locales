@@ -53,7 +53,7 @@ en:
       postscript: "Thank you for choosing our service! Best Regards,
         Your Kassa.</i>"
       contacts: Contacts
-      copyright: 2018, "Kassa.cc" - Single currency exchange
+      copyright: 2022, "Kassa.cc" - Single currency exchange
       generic_hello: Hello!
       hello: Hello<b>%{nickname}</b>!
       goto_lk: Go to My Account

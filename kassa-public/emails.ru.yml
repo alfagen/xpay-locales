@@ -66,7 +66,7 @@ ru:
       postscript: "<br><i>Спасибо, что выбрали наш сервис!</i><br><i>С наилучшими пожеланиями,
         Ваша Kassa.</i>"
       contacts: Контакты
-      copyright: 2018, «Kassa.cc» - Единый обмен валюты
+      copyright: 2022, «Kassa.cc» - Единый обмен валюты
       generic_hello: Здравствуйте!
       hello: Здравствуйте, <b>%{nickname}</b>!
       goto_lk: Перейти в личный кабинет

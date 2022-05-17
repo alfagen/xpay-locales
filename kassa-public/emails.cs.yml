@@ -50,7 +50,7 @@ cs:
           nebo nám napište na support@kassa.cc.
       postscript: "Děkujeme, že jste si vybrali naši službu! S pozdravem, Vaše Kassa."
       contacts: Kontakty
-      copyright: 2018, Kassa.cc — Směna valut na jednom místě
+      copyright: 2022, Kassa.cc — Směna valut na jednom místě
       generic_hello: Dobrý den,
       hello: Dobrý den, <b>%{nickname}</b>,
       goto_lk: Přejít do Klientské zóny
