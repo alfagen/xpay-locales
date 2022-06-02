@@ -188,11 +188,6 @@ cs:
         outcome_account_label: NEM address
         outcome_fio: Memo (Invoice)
         outcome_fio_label: Memo (Invoice)
-      bnb:
-        outcome_account: BNB address
-        outcome_account_label: BNB address
-        outcome_fio: Memo
-        outcome_fio_label: Memo
       ada:
         outcome_account: Cardano address
         outcome_account_label: Cardano address
@@ -225,4 +220,18 @@ cs:
       usdttrc:
         outcome_account: USDT TRC20 address
         outcome_account_label: USDT TRC20 address
-       
+      bnbbep2:
+        outcome_account: BNB BEP 2 address
+        outcome_account_label: BNB BEP 2 address
+        outcome_fio: Memo 
+        outcome_fio_label: Memo 
+      bnbbep20:
+        outcome_account: BNB BEP 20 address
+        outcome_account_label: BNB BEP 20 address
+        outcome_fio: Memo 
+        outcome_fio_label: Memo
+      mircrub:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number 
