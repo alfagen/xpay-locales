@@ -85,8 +85,10 @@
     "CARDEUR": "Вы ввели неверный Номер карты Visa/Mastercard EUR, номер карты должен содержать 16 - 22 цифр",
     "USDTTRC": "Вы ввели неверный Номер кошелька Tether TRC20. Пример: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
     "DOGE": "Вы ввели неверный Номер кошелька Dogecoin. Пример: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
-    "BNB": "Вы ввели неверный Номер кошелька BNB. Для BNB BEP2 пример: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, не забудьте указать MEMO. Для BNB BEP20 пример: 0x59f502498d9225e1a71bd3509722ac43ab389e1e",
     "DOT": "Вы ввели неверный Номер кошелька Polkadot. Пример: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb",
-    "XLM": "Вы ввели неверный Номер кошелька Stellar (XLM). Пример: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, не забудьте указать MEMO"
+    "XLM": "Вы ввели неверный Номер кошелька Stellar (XLM). Пример: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, не забудьте указать MEMO",
+    "MIRCRUB": "Вы ввели неверный Номер карты МИР, номер карты должен содержать 16 - 18 цифр",
+    "BNBBEP2": "Вы ввели неверный Номер кошелька BNB. Пример: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, не забудьте указать MEMO",
+    "BNBBEP20": "Вы ввели неверный Номер кошелька BNB BEP 20. Пример: 0x59f502498d9225e1a71bd3509722ac43ab389e1e" 
   }
 }
