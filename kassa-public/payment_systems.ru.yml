@@ -192,11 +192,6 @@ ru:
         outcome_account_label: Кошелек NEM
         outcome_fio: Memo получателя (Invoice)
         outcome_fio_label: Memo получателя (Invoice)
-      bnb:
-        outcome_account: Кошелек BNB
-        outcome_account_label: Кошелек BNB
-        outcome_fio: Memo получателя
-        outcome_fio_label: Memo получателя
       ada:
         outcome_account: Кошелек Cardano
         outcome_account_label: Кошелек Cardano
@@ -229,3 +224,19 @@ ru:
       usdttrc:
         outcome_account: Кошелек USDT TRC20
         outcome_account_label: Кошелек USDT TRC20
+      bnbbep2:
+        outcome_account: Кошелек BNB BEP 2
+        outcome_account_label: Кошелек BNB BEP 2
+        outcome_fio: Memo получателя
+        outcome_fio_label: Memo получателя
+      bnbbep20:
+        outcome_account: Кошелек BNB BEP 20
+        outcome_account_label: Кошелек BNB BEP 20
+        outcome_fio: Memo получателя
+        outcome_fio_label: Memo получателя
+      mircrub:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+ 
