@@ -84,10 +84,12 @@
     "TRX": "You entered an incorrect Tron wallet number. Example: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt",
     "WAVES": "You entered an incorrect Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
     "CARDEUR": "You have entered the wrong Visa/Mastercard EUR card number, the card number must contain 16 - 18 digits",
-    "USDTTRC": "Вы ввели неверный Номер кошелька Tether TRC20. Пример: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
-    "DOGE": "Вы ввели неверный Номер кошелька Dogecoin. Пример: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
-    "BNB": "Вы ввели неверный Номер кошелька BNB. Для BNB BEP2 пример: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, не забудьте указать MEMO. Для BNB BEP20 пример: 0x59f502498d9225e1a71bd3509722ac43ab389e1e",
-    "DOT": "Вы ввели неверный Номер кошелька Polkadot. Пример: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb",
-    "XLM": "Вы ввели неверный Номер кошелька Stellar (XLM). Пример: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, не забудьте указать MEMO"
+    "USDTTRC": "You entered an incorrect Tether TRC20 wallet address. Example: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
+    "DOGE": "You entered an incorrect Dogecoin wallet address. Example: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
+    "DOT": "You entered an incorrect Polkadot wallet address. Example: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb",
+    "XLM": "You entered an incorrect Stellar (XLM) wallet address. Example: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, don't forget to specify MEMO",
+    "MIRCRUB": "You entered the wrong сard number in MIR, the card number must contain from 16 to 18 digits",
+    "BNBBEP2": "You entered an incorrect BNB BEP 2 wallet address. Example: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, don't forget to specify MEMO",
+    "BNBBEP20": "You entered an incorrect BNB BEP 20 wallet address. Example: 0x59f502498d9225e1a71bd3509722ac43ab389e1e" 
   }
 }
