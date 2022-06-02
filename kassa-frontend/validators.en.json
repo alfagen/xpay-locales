@@ -84,7 +84,7 @@
     "TRX": "You entered an incorrect Tron wallet number. Example: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt",
     "WAVES": "You entered an incorrect Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
     "CARDEUR": "You have entered the wrong Visa/Mastercard EUR card number, the card number must contain 16 - 18 digits",
-    "USDTTRC": "Вы ввели неверный Номер кошелька Tether TRC20. Example: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
+    "USDTTRC": "You entered an incorrect Tether TRC20 wallet address. Example: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
     "DOGE": "You entered an incorrect Dogecoin wallet address. Example: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
     "DOT": "You entered an incorrect Polkadot wallet address. Example: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb",
     "XLM": "You entered an incorrect Stellar (XLM) wallet address. Example: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, don't forget to specify MEMO",
