@@ -66,9 +66,11 @@ cs:
         WAVES: 'You have entered the wrong Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i'
         USDTTRC: 'You have entered the wrong Tether TRC20 wallet number. Example: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu'
         DOGE: 'You have entered the wrong Dogecoin wallet number. Example: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU'
-        BNB: 'You have entered the wrong BNB wallet number. For BNB BEP2 example: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, dont forget write MEMO. For BNB BEP20 example: 0x59f502498d9225e1a71bd3509722ac43ab389e1e'
         DOT: 'You have entered the wrong Polkadot wallet number. Example: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb'
         XLM: 'You have entered the wrong Stellar (XLM) wallet number. Example: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, dont forget write MEMO'
+        MIRCRUB: 'You entered the wrong сard number in MIR, the card number must contain from 16 to 18 digits'
+        BNBBEP2: 'You entered an incorrect BNB BEP 2 wallet address. Example: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, dont forget to specify MEMO'
+        BNBBEP20: 'You entered an incorrect BNB BEP 20 wallet address. Example: 0x59f502498d9225e1a71bd3509722ac43ab389e1e'
 
 
     cheque_format:
