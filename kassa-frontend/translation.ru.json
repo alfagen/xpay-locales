@@ -14,7 +14,8 @@
     "verification": "Верификация карты",
     "referal": "Реферальная программа",
     "promo": "Промо материалы",
-    "settings": "Настройки"
+    "settings": "Настройки",
+    "exchange": "Обмен"
   },
   "setting": {
     "aml": {
