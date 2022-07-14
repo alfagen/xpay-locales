@@ -14,7 +14,8 @@
     "verification": "Card verification",
     "referal": "program",
     "promo": "Promo contributions",
-    "settings": "Settings"
+    "settings": "Settings",
+    "exchange": "Exchange"
   },
   "setting": {
     "aml": {
