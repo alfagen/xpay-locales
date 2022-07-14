@@ -14,7 +14,8 @@
     "verification": "Ověření platební karty",
     "referal": "Referenční program",
     "promo": "Propagační materiály",
-    "settings": "Profil"
+    "settings": "Profil",
+    "exchange": "Exchange"
   },
   "setting": {
     "aml": {
