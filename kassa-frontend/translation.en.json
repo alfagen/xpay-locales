@@ -731,7 +731,8 @@
     "account": "Bill №",
     "wallet": "Wallet",
     "sum": "Amount",
-    "invoiceId": "Must be included invoice id"
+    "invoiceId": "Must be included invoice id",
+    "invoiceIdXrp": "Must be included Destination Tag"
   },
   "instructionData": {
     "hideData": "Hide information details for exchange",
