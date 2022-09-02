@@ -698,7 +698,8 @@
     "account": "Č. ú.",
     "wallet": "Peněženka",
     "sum": "Částka",
-    "invoiceId": "Must be included invoice id"
+    "invoiceId": "Must be included invoice id",
+    "invoiceIdXrp": "Must be included Destination Tag"
   },
   "instructionData": {
     "hideData": "Skrýt vlastnosti směny",
