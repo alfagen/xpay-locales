@@ -783,7 +783,7 @@
     "wallet": "Кошелек",
     "sum": "Сумма",
     "invoiceId": "Обязательно укажите invoice id",
-    "invoiceIdXrp": "Обязательно укажите Destination Tag",
+    "invoiceIdXrp": "Обязательно укажите Destination Tag"
   },
   "instructionData": {
     "hideData": "Скрыть данные реквизитов обмена",
