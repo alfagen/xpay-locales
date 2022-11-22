@@ -734,7 +734,8 @@
   "instructionEvoucherForm": {
     "add": "Добавить еще один чек",
     "remove": "Удалить чек",
-    "notice": "Перевести {{name}} на сумму {{sum}}{{currency}}"
+    "notice": "Перевести {{name}} на сумму {{sum}}{{currency}}",
+    "sum_notice": "Перевести {{name}} на сумму "
   },
   "exchange": {
     "notAvailableDirectionButton": "напишите оператору в чат",
@@ -792,6 +793,9 @@
     "requisitesEdit": "Изменить реквизиты",
     "countdown": "Оплатите заявку в течении {{countdown}}",
     "deadline": "Время по оплате заявки истекло! Пожалуйста, {{replay}} {{br}} по-актуальному курсу или {{br}} {{support}} сервиса.",
+    "deadline_first": "Время по оплате заявки истекло! {{br}} Пожалуйста, ",
+    "deadline_second": "по-актуальному курсу или",
+    "deadline_last": "сервиса.",
     "replay": "создайте заявку повторно",
     "support": "обратитесь в службу поддержки"
   },
@@ -811,7 +815,10 @@
   },
   "instructionCoin": {
     "designation": "После оплаты {{required}} нажмите {{br}} кнопку \"Я оплатил\", чтобы заявка создалась:",
-    "required": "обязательно"
+    "required": "обязательно",
+    "after_pay": "После оплаты",
+    "push": "нажмите",
+    "i_paid": "кнопку \"Я оплатил\", чтобы заявка создалась:"
   },
   "failurePayment": {
     "title": "Платёж не поступил",
@@ -1124,5 +1131,16 @@
     "formPlaceholderEmail": "E-mail",
     "formPlaceholderUrl": "URL вашего сайта",
     "formPlaceholderCash": "Планируемый оборот в месяц"
+  },
+  "metaTags": {
+    "exchangePage": {
+      "title": "Kassa.cc - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин",
+      "description": "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек",
+      "og": {
+        "title": "Kassa.cc - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин",
+        "description": "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек",
+        "image": "http://kassa.cc/images/main_og_image.jpg"
+      }
+    }
   }
 }

@@ -429,7 +429,7 @@
     "adoptedReffConfirm": "Výplata odměn byla potvrzena!",
     "hold": "Prostředky jsou zmrazeny",
     "holdReason": "Prostředky jsou zmrazeny po dobu 48 hodin {{time}}",
-    "processing":"Zpracovává se"
+    "processing": "Zpracovává se"
   },
   "passwordForm": {
     "labelOldPass": "Původní heslo:",
@@ -1027,5 +1027,16 @@
     "formPlaceholderEmail": "E-mail",
     "formPlaceholderUrl": "Site URL",
     "formPlaceholderCash": "Planned monthly turnover"
+  },
+  "metaTags": {
+    "exchangePage": {
+      "title": "Kassa.cc - Jednotná směnárna",
+      "description": "Jednotná elekronická směnárna s kvalitním servisem. Provádíme směnu: Qiwi, BTC, Perfect Money, Payeer, Alpha Bank, Tinkoff, VTB 24",
+      "og": {
+        "title": "Kassa.cc - Jednotná směnárna",
+        "description": "Jednotná elekronická směnárna s kvalitním servisem. Provádíme směnu: Qiwi, BTC, Perfect Money, Payeer, Alpha Bank, Tinkoff, VTB 24",
+        "image": "http://kassa.cc/images/main_og_image.jpg"
+      }
+    }
   }
 }
