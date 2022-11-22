@@ -1,0 +1,95 @@
+{
+  "mixed": {
+    "default": "${path} is invalid",
+    "required": "${path} is a required field",
+    "oneOf": "${path} must be one of the following values: ${values}",
+    "notOneOf": "${path} must not be one of the following values: ${values}"
+  },
+  "string": {
+    "length": "${path} must be exactly ${length} characters",
+    "min": "${path} must be at least ${min} characters",
+    "max": "${path} must be at most ${max} characters",
+    "matches": "${path} must match the following: \"${regex}\"",
+    "email": "${path} must be a valid email",
+    "url": "${path} must be a valid URL",
+    "trim": "${path} must be a trimmed string",
+    "lowercase": "${path} must be a lowercase string",
+    "uppercase": "${path} must be a upper case string"
+  },
+  "number": {
+    "min": "${path} must be greater than or equal to ${min}",
+    "max": "${path} must be less than or equal to ${max}",
+    "lessThan": "${path} must be less than ${less}",
+    "moreThan": "${path} must be greater than ${more}",
+    "notEqual": "${path} must be not equal to ${notEqual}",
+    "positive": "${path} must be a positive number",
+    "negative": "${path} must be a negative number",
+    "integer": "${path} must be an integer"
+  },
+  "date": {
+    "min": "${path} field must be later than ${min}",
+    "max": "${path} field must be at earlier than ${max}"
+  },
+  "object": {
+    "noUnknown":
+      "${path} field cannot have keys not specified in the object shape"
+  },
+  "array": {
+    "min": "${path} field must have at least ${min} items",
+    "max": "${path} field must have less than or equal to ${max} items"
+  },
+  "captcha": {
+    "keyRequired": "Captcha isn't loaded, refresh the picture",
+    "required": "Enter the letters from image"
+  },
+  "accountFormat": {
+    "default": "Wrong wallet address",
+    "PMUSD": "You have entered the wrong Perfect Money wallet number. The purse number must match the template U1234567",
+    "PMEUR": "You have entered the wrong Perfect Money wallet number. The purse number must match the template E123456",
+    "SBERRUB": "You entered the wrong Sberbank card number, the card number must contain 16 - 18 digits",
+    "TCSBRUB": "You have entered the wrong Tinkoff card number, the card number must contain 16 digits",
+    "YAMRUB": "You have entered the incorrect Yandex.Money wallet number. The wallet should contain from 10 to 16 digits",
+    "QWRUB": "You entered an incorrect QIWI wallet number. Note! Qiwi withdrawal to +380 wallets is not possible.",
+    "TBRUB": "You entered an incorrect account number in Telebank, the account number must contain 20 digits",
+    "BTC": "You have entered the incorrect BTC wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV",
+    "ACRUB": "You have entered the wrong account number in AlfaClick, the account number must contain 20 digits",
+    "PRUSD": "You have entered the wrong Payeer wallet number. The purse number must match the template P1234567, P1234567890",
+    "PREUR": "You have entered the wrong Payeer wallet number. The purse number must match the template P1234567, P1234567890",
+    "LTC": "You entered an incorrect LiteCoin wallet number. Example: Lchanger9aqdHS5KKFz322FVH74LnzkoYJ",
+    "ETH": "You have entered the wrong Ethereum wallet number. Example: 0x54065a7b2b86274D52A755F73E534DcD7d522886",
+    "ADVCUSD": "You have entered the wrong AdvCash USD wallet number. The wallet number must match the pattern U 3005 2342 8775",
+    "ADVCEUR": "You have entered the wrong AdvCash EUR wallet number. The wallet number must match the pattern E 3005 2342 8775",
+    "CARDRUB": "You entered the wrong сard number in Visa/MasterCard RUB, the card number must contain from 16 to 22 digits",
+    "PRRUB": "You have entered the wrong Payeer RUB wallet. The wallet number must match the pattern P1234567, P1234567890",
+    "ADVCRUB": "You have entered the wrong AdvCash RUB wallet number. The wallet number must match the pattern R 3005 2342 8775",
+    "OKUSD": "You have entered the wrong OKPay wallet number. The wallet number must match the pattern OK370835665",
+    "DASH": "You have entered the wrong Dash wallet number. Example: \nXmzgzKSournZBFCG19ZHv3cFVamm6CwYcR",
+    "KUKRUB": "You have entered the wrong Kukuruza card number, the card number must contain 16 digits",
+    "SBERKZT": "You entered the wrong Sberbank KZTcard number, the card number must contain 16 - 18 digits",
+    "KKBKZT": "You have entered the wrong QazKom Bank card number, the card number must contain 16 - 18 digits",
+    "HLKBKZT": "You have entered the wrong Halyk Bank card number, the card number must contain 16 - 18 digits",
+    "FRTBKZT": "You have entered the wrong Forte Bank card number, the card number must contain 16 - 18 digits",
+    "CARDKZT": "You have entered the wrong Visa/Mastercard KZT number, the card number must contain 16 - 22 digits",
+    "XRP": "You have entered the wrong Ripple wallet number. Example: \n50dc2d6de07e8c76ab25a2cca4b4a9bf9f",
+    "ETC": "You have entered the wrong Ethereum Classic wallet number. Example: 0x0C93dCc706A5A33DD61A620444EB0B20D4c26754",
+    "XMR": "You have entered the wrong Monero wallet number. Example: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j",
+    "BCH": "You have entered the wrong BCH wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV, bitcoincash: qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z",
+    "ZEC": "You have entered the wrong Zcash wallet number. Example: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz",
+    "NEO": "You have entered the wrong Neo wallet number. Example: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte",
+    "USDT": "You entered an incorrect Tether OMNI wallet number. Example: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU",
+    "USDTERC": "You entered an incorrect Tether ERC20 wallet number. Example: 0x754d555efacc1a2446c0c897b0e8e43234d2575d",
+    "EOS": "You entered an incorrect EOS wallet number. Example: EOS8dUSkq29YwV3DueZeqr7Bpw1nyLEbquqFqiW5D95ijV7LQARoN",
+    "XEM": "You entered an incorrect NEM wallet number. Example: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY",
+    "ADA": "You entered an incorrect Cardano wallet number. Example: DdzFFzCqrhsrUjfMwJrzuQF8DeXJMgrmxFxMUE6tcLKpyA3YvAptZEFBgBo14a5qWMR8xrNEckqf9AG9VP7ofDketqXCPeSztCizzkEN",
+    "TRX": "You entered an incorrect Tron wallet number. Example: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt",
+    "WAVES": "You entered an incorrect Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
+    "CARDEUR": "You have entered the wrong Visa/Mastercard EUR card number, the card number must contain 16 - 18 digits",
+    "USDTTRC": "You entered an incorrect Tether TRC20 wallet address. Example: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
+    "DOGE": "You entered an incorrect Dogecoin wallet address. Example: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
+    "DOT": "You entered an incorrect Polkadot wallet address. Example: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb",
+    "XLM": "You entered an incorrect Stellar (XLM) wallet address. Example: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, don't forget to specify MEMO",
+    "MIRCRUB": "You entered the wrong сard number in MIR, the card number must contain from 16 to 18 digits",
+    "BNBBEP2": "You entered an incorrect BNB BEP 2 wallet address. Example: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, don't forget to specify MEMO",
+    "BNBBEP20": "You entered an incorrect BNB BEP 20 wallet address. Example: 0x59f502498d9225e1a71bd3509722ac43ab389e1e" 
+  }
+}

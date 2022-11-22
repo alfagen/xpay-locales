@@ -1,0 +1,1075 @@
+{
+  "links": {
+    "about": "About service",
+    "gifts": "Gifts from website",
+    "rulesFooter": " Rules of the service",
+    "contacts": "Contacts",
+    "rulesMobile": "Terms and conditions of the service",
+    "rules": "Rules of exchange",
+    "partners": "To partners",
+    "news": "News",
+    "faq": "FAQ",
+    "signOut": "Exit",
+    "requests": "My requests",
+    "verification": "Card verification",
+    "referal": "program",
+    "promo": "Promo contributions",
+    "settings": "Settings",
+    "exchange": "Exchange"
+  },
+  "setting": {
+    "aml": {
+      "stateTitle": "Your account status:",
+      "statuses": {
+        "guest": "Guest",
+        "personal": "Personal",
+        "professional": "Professional"
+      },
+      "verificationStatuses": {
+        "none": "Waiting for verification",
+        "pending": "Under consideration",
+        "accepted": "Verified",
+        "rejected": "Verification rejected"
+      },
+      "update": "Refresh",
+      "continue": "Continue verification",
+      "statusDescriptions": {
+        "guest": "Ideal for acquaintance with service possibilities",
+        "personal": "Ideal for beginner traders or people acquainted with the world of cryptocurrency",
+        "professional": "Ideal for people immersed in the world of cryptocurrency, and experienced traders"
+      },
+      "verificationConditions": {
+        "title": "Verification requires"
+      },
+      "in": {
+        "personal": "Personal",
+        "professional": "Professional"
+      },
+      "stepCounts": {
+        "personal": "3 stages",
+        "professional": "7 stages"
+      },
+      "start": "Start",
+      "yourStatus": "Your status",
+      "statusTitle": "Available account statuses:",
+      "availableLater": "Will be available later",
+      "updateAccountStatusTitle": "Want more",
+      "updateAccountStatusText1": "You can change your account status to {{statusName}} status. The status of your account will be confirmed after successfull verification of documents. ",
+      "updateAccountStatusText2": "Verification from 2 stages, it does not take much time. If you don't understand something, write to us. We will help :)",
+      "verificationSuccessNotice": "You have successfully confirmed your account status! Then you can proceed to exchange operations and take full advantage of your account!",
+      "next": "Next",
+      "confirmExit": "Confirm exit",
+      "closeVerificationNotice": "Are you sure you want to interrupt your account verification process? {{br}} You can continue the verification procedure from your personal account.",
+      "returnToVerification": "Back to verification",
+      "note": "Note the {{requirements}}.",
+      "requirements": "document requirements",
+      "phoneConfirmationTitle": "Confirmation of the phone number",
+      "notice": "For full access to the service functionality, you need to verify your account. Pay attention to {{requirements}}. You can apply to change your documents:",
+      "orderStatuses": {
+        "pending": "is pending approval",
+        "rejected": "canceled"
+      },
+      "youPassAnotherStatus": "You are passing verification status \"{{status}}\"",
+      "startVerificationText1": "You have successfully regisftered in {{status}} status. The status of your account will be confirmed after successfull verification of documents. ",
+      "startVerificationText2": "Verification from {{stepCount}}. It does not take much time. If you do not understand something, write to us. We will help :)",
+      "passedAnotherStatus": "You have moved to the status of \"{{status}}\"",
+      "cardHolding": {
+        "title": "Link a bank card",
+        "label": "Enter card details",
+        "bind": "Link",
+        "statuses": {
+          "none": "Expected to bind the card",
+          "success": "Linked"
+        },
+        "modalTitle": "Adding a card for exchange"
+      },
+      "pendingVerificationTitle": "Тайтл модалки о том что ваша заявка на рассмотрении",
+      "pendingVerificationText": "текст о том что ваша заявка на рассмотрении",
+      "continueVerificationTitle": "Тайтл модалки о том что надо продолжить верификацию",
+      "continueVerificationText": "текст о том что надо продолжить верификацию",
+      "rejectedVerificationTitle": "Тайтл модалки о том что заявка отклонена",
+      "rejectedVerificationText": "текст о том что заявка отклонена и нужно продолжить верификацию"
+    },
+    "documents": {
+      "congratulations": "Congratulations!",
+      "send": "Send",
+      "download": "Download",
+      "upload": "Load",
+      "changeDocumentsTitle": "Change of documents",
+      "changeDocumentsNotice": "You will need to go through the procedure of checking documents again by AML specialists, after changing your documents. Are you sure you want to change the details of your documents?",
+      "statuses": {
+        "none": "Document is waiting for loading",
+        "loaded": "Document uploaded",
+        "processing": "Document verification",
+        "accepted": "Document approved",
+        "rejected": "Canceled."
+      },
+      "orderSendedNotice": "Your application for verification of account status has been sent. Application processing time is 48 hours. Your account will become even more secure after confirming your documents!",
+      "save": "Save",
+      "uploadTitle": "Loading document",
+      "tie": "Bind"
+    },
+    "tabs": {
+      "general": "Profile Master Data",
+      "auth": "Authorization",
+      "wallets": "My wallets",
+      "language": "Language",
+      "security": "Security",
+      "documents": "Documents",
+      "accountStatus": "Account status",
+      "profile": "Settings "
+    },
+    "rejectedNotifyTitle": "Your application has been canceled!",
+    "rejectedNotify": "In the section {{section}}, you can see the reason of the rejection.",
+    "pendingNotifyTitle": "Your application for status has been successfully sent!",
+    "pendingNotify": "The application will be processed within 48 hours.",
+    "verificationNotifyTitle": "You need to send a request for verification!",
+    "verificationNotify": "You have filled in all the data necessary to verify the status of your account. Send your application for verification of account status in the section {{section}}.",
+    "clientDataNotifyTitle": "You need to fill in your personal data!",
+    "clientDataNotify": "To remove restrictions on exchange operations and secure your founds, please fill in your personal data in your account settings. {{fillLink}}.",
+    "fill": "Fill now",
+    "uploadDocumentsNotifyTitle": "Upload your documents",
+    "uploadDocumentsNotify": "You have already filled out the basic data of the profile, it remains to upload documents and you can exchange on the amount and get access to all payment methods without restrictions.",
+    "confirmMailNotifyTitle": "Confirm your e-mail!",
+    "confirmMailNotify": "To confirm your account status, please confirm your e-mail by clicking on the link in the letter, which was sent to your email.",
+    "confirmPhoneNotifyTitle": "Link your phone number to your account!",
+    "confirmPhoneNotify": "To receive notifications from the service and for further verification of the status of your account, link your phone number to your account in the settings. {{fillLink}}.",
+    "needVerificationNotifyTitle": "You need to boost your account status",
+    "needVerificationNotify": "Kassa.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
+    "notAuthorizedNotifyTitle": "Service update",
+    "notAuthorizedNotify": "Kassa.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
+    "bindNow": "Link a Card",
+    "notice": "You can change main account settings and write data for communication:",
+    "userAgreements": {
+      "title": "Service update ",
+      "notice": "Exchange on the site is even safer and more convenient. For continue a working on the site you need to confirm:"
+    },
+    "profile": {
+      "notice": "You can change the settings of your profile and leave the information for notifications:"
+    },
+    "paymentData": "Saving entered data:",
+    "title": "Settings",
+    "basic": "Main data:",
+    "password": "Password settings:",
+    "error": {
+      "email": "Enter correct E-mail",
+      "required": "Fill the box",
+      "phone": "Enter correct phone number",
+      "onlyCharacters": "The field must contain only letters."
+    },
+    "learnMore": "Read more"
+  },
+  "wallet": {
+    "choosePaymentSystem": "Select PS:",
+    "wallets": "Wallets",
+    "setting": "Wallet settings:",
+    "settingNotice": "Disable automatic saving of maps and wallets",
+    "settingInfo": "Your wallets are saved automatically after you create an order. To get your wallet in this list, just make an exchange.",
+    "emptyListTitle": "No purses saved yet",
+    "emptyListNotice": "To add a purse, you need to make a trade",
+    "settingSaveOn": "On",
+    "settingSaveOff": "Off",
+    "removeWalletTitle": "Removing your wallet",
+    "removeWalletNotice": "Are you sure you want to remove your wallet? You can't restore your wallet, you just need to create a new one",
+    "remove": "Delete",
+    "removeCancel": "Cancel and exit",
+    "fieldNamefio": "Full name",
+    "fieldNameaccount": "Wallet number",
+    "linkToSetting": "Wallets saving settings"
+  },
+  "exform": {
+    "exchangeNow": "Exchange now",
+    "columnData": "3. Data entry",
+    "rateExchange": "Exchange at the rate:",
+    "enterData": "Enter data to complete exchange:",
+    "notification": "Notification!",
+    "emailLabel": "Enter your e-mail",
+    "agree": "I agree with {{link}}",
+    "agreeLink": "conditions and rules of service",
+    "columnInput": "1. Give",
+    "currencyInput": "Currency for input:",
+    "selectSystem": "Choose system:",
+    "columnOutput": "2. Take",
+    "currencyOutput": "Currency for output:",
+    "currencyReserves": "Currency reserves ",
+    "fetchingCards": "Loading your cards...",
+    "addCard": "Link a new card",
+    "raiseStatus": "You need to increase your account status to select this direction. {{br}} {{link}}",
+    "raiseStatusLink": "Upgrade the status"
+  },
+  "settingForm": {
+    "labelSurname": "Surname",
+    "placeholders": {
+      "surname": "Enter your last name",
+      "firstName": "Enter your name",
+      "patronymic": "Enter your middle name",
+      "birthDate": "For example: 01.01.1980"
+    },
+    "labelName": "Name",
+    "labelPatronymic": "Patronymic (Optional)",
+    "labelBirthday": "Date of Birth",
+    "change": "Change",
+    "cancel": "Cancel",
+    "submit": "Save",
+    "confirmSubmitNotice": "You will need to repeat the verification procedure after changing these data. Are you sure to make changes to your personal data?",
+    "needFill": "You need to fill in your personal data.",
+    "needUploadDocuments": "You need to fill in the data of your documents in the {{section}} section",
+    "lastUpdateDate": "Date of last change",
+    "yourOrder": "Your application for verification",
+    "emailVerification": "Your e-mail is {{not}} verified",
+    "not": "not",
+    "emailVerificationNotice": "A confirming letter has been sent to your e-mail. {{resend}} again.",
+    "labelEmail": "E-mail",
+    "phoneVerification": "Your number is {{not}} verified",
+    "fillPhoneNotice": "You need to fill in your phone number",
+    "labelPhone": "Phone number",
+    "holderPhone": "Enter your phone",
+    "confirm": "Confirm",
+    "smsCode": "SMS Code",
+    "smsCodeSended": "Verification code was sent ",
+    "smsCodeRepeat": "You can resend verification code in {{countdown}}",
+    "smsCodeSendAction": "Send code {{again}} or {{cancel}}",
+    "again": "again",
+    "yes": "Yes",
+    "no": "No",
+    "labelFio": "How do you wish to be addressed?",
+    "holderFio": "Enter your name"
+  },
+  "userpanel": {
+    "logout": "Exit"
+  },
+  "tickets": {
+    "reasonNotFound": "The reason was not provided",
+    "reason": "The reason",
+    "moreInfo": "Read more",
+    "numbers": "Numbers"
+  },
+  "refPage": {
+    "more": "Read more",
+    "createRequest": "Create application for payment",
+    "incomePaid": "Paid",
+    "incomeUnpaid": "Didn't paid",
+    "successCredited": "Successfully accrued",
+    "verificationReward": "Reward for verification",
+    "notCredited": "Not credited",
+    "currency": "Currency",
+    "referalFundsEmpty": "You haven't got charges",
+    "rewardsSum": "Total earnings",
+    "currencies": {
+      "ruble": "Rubles ",
+      "dollar": "Dollars",
+      "bitcoin": "BTC"
+    },
+    "earnedMoney": " Funds earned:",
+    "aboutReferalFundsTitle": "About our referral program",
+    "referalFundsNotice": "Share a partner link, invite friends and earn to 1% for exchange your referrals.",
+    "referalListEmpty": "You haven't got referrals",
+    "shareSubtitle": "Your link for inviting friends:",
+    "copyLink": "Copy",
+    "shareSocials": "You can share link quickly in social networks:",
+    "shareText": {
+      "common": "Hi! Find cool service which will allow quickly and safely exchange your money. Come to the site, sign up and you will get discount 5% from me right now for every type of exchange. Also from every exchange with my link you will receive bonuses, from 5 invited friends you will receive presents (Including iPad mini)",
+      "twitter": "Hi! Find cool service which will allow quickly and safely exchange your money."
+    },
+    "statsSubtitle": "Statistics of movement",
+    "statCount": "Number of referrals",
+    "refCount": "Referral were registered",
+    "refList": "Referrals list",
+    "needVerificationStatus": "To get your bonus for status verification, you must complete verification.",
+    "startVerification": "Pass the verification",
+    "needFinishVerificationStatus": "To get your bonus for status verification you need to download the documents.",
+    "noneVerificationStatus": "To get your bonus for status verification, you must pass verification",
+    "verificationProcessingStatus": "You will receive your bonus for status verification after processing your verification application (from 2 to 48 hours).",
+    "successVerificationStatus": "Your bonus will be credited to your account on December 1, 2018 in gratitude.",
+    "rejectedVerificationStatus": "To get your bonus for status verification, you must pass verification",
+    "rewards": "Remunerations:",
+    "aboutRewards": "About our remunerations",
+    "rewardsNotice": "Receive pleasant bonus for every exchange, move money on any available account for you.",
+    "title": "Referral program",
+    "about": "Referal program - it is a type of earning for sign in users of our service as a exchange remunerations who came to us due your referral link.",
+    "why": "Share partnership link, use promo materials, invite friends and earn up to 1% for exchange your referrals.",
+    "morePartners": "Read more about partnership program"
+  },
+  "partnersPage": {
+    "exchangeNow": "Start advantageous exchange right now!",
+    "startExchange": "Start exchange now",
+    "questions": "Have any questions? Write {{chat}}",
+    "chat": "us in chat",
+    "firstTitle1": "Referal program {{br}} for users",
+    "firstSubtitle": "save and earn",
+    "firstDescription": "Do you want to earn with us? Register\nin our site and you'll be able to take a part in our referal program and\ncontributory system of discounts! After register you automatically get\ncontributory discount for exchange — 5%.",
+    "more": "Read more about referral system",
+    "secondTitle": "For monitorings",
+    "secondSubtitle": "earn",
+    "secondDescription": "We are pleased to invite monitorings of exchanges.\nWe are very glad to new partners and ready to share profit.",
+    "secondDescription2": "Register in our site and you wil get special\nreferal link.",
+    "monitoring": "Connect my monitoring",
+    "thirdTitle": "Reception payment for your sire",
+    "thirdSubtitle": "accept payments and earn",
+    "thirdDescription": "You have your own online store, landing,\n     or you sell some product or service, but you do not have the opportunity\n     to accept payments? With our help you will accept payments from different banks.\n     and payment systems at favorable rates for your customers! With each\n     payment made through our service, you will receive rewards.\n     Learn more at {{email}}.",
+    "request": "Payment acceptance for your site"
+  },
+  "Captcha": {
+    "refreshCaptcha": "Refresh",
+    "labelCaptcha": "Enter letters from the image:"
+  },
+  "contactsPage": {
+    "workTime": "Working hours",
+    "mailSupport": "Support on mail:",
+    "firstTitle": "Technical support",
+    "firstWorkTime": "from 07:00 to 23:00 (GMT +3)",
+    "firstChatLabel": "Online chat:",
+    "openChat": "Exchange now",
+    "firstRequestLabel": "Write to operator",
+    "firstDescription": "If you have got any technical or financial questions, write us and we will help you. We answer on questions queries within 15-60 minutes depending on load service.",
+    "secondTitle": "Cooperation and PR",
+    "secondWorkTime": "from 10:00 to 17:00",
+    "mailPR": "Our e-mail:",
+    "secondChatLabel": "Support in Telegram:",
+    "secondRequestLabel": "Write us now",
+    "secondDescription": "If you have got proposal for cooperations, connectionmonitoring, questions about  commercial adding nwe wallet - write us, we always welcome to cooperation!",
+    "thirdTitle": "Feedback about service",
+    "weInSocial": "We are in social networks:",
+    "vk": "VKontakte",
+    "twitter": "Twitter",
+    "facebook": "Facebook",
+    "telegram": "Telegram"
+  },
+  "rest": {
+    "news": "And while read news",
+    "title": "Technical break",
+    "subtitle": "We were taken and have promised to return in {{time}}",
+    "notice": "Don't worry, if your application came in technical break. {{br}} It will process in the short term :)"
+  },
+  "verificationCustomFile": {
+    "label": "Click for choose:",
+    "control": "Choose photo"
+  },
+  "ComponentTicketproc": {
+    "AddReferal": {
+      "Error": "Error",
+      "NoAskPS": "Select payment system with which you want to transfer money",
+      "NoAskTypeRewards": "Select type of withdrawal rewards"
+    }
+  },
+  "faqPage": {
+    "faqListEmpty": "List of questions is empty",
+    "title": "Questions and answers"
+  },
+  "footer": {
+    "copyright": "© {{year}}, Kassa.cc — single currency exchange",
+    "slogan": "Made with soul",
+    "copyrightOptional": "© {{year}}, {{orgName}} — {{notice}}",
+    "copyrightOrgName": "Kassa.cc",
+    "copyrightNotice": "single currency exchange"
+  },
+  "notify": {
+    "error": "Error!",
+    "close": "Close",
+    "errorLoading": "No connection with server. Information may be obsolete. Please {{refreshPage}}",
+    "refreshPage": "refresh a page",
+    "rest": "Dear clients, our service is on technical break. Come back in {{icon}} {{time}}",
+    "copied": "Copied!",
+    "copiedText": "Data copied to the clipboard.",
+    "saved": "Saved!",
+    "removed": "Deleted!"
+  },
+  "MonitoringModal": {
+    "title": "For monitorings",
+    "invite": "We are pleased to invite monitorings of exchanges.We are very glad to new partners and ready to share profit.",
+    "referalLink": "Register in our site and you wil get special referal link.",
+    "reward": "All monitorings has a standart 0,5% from the exchange amount of your referrals. Write us on mail kassa.today@gmail.com and in special sutiations we will talk abou size of your per cent.",
+    "downloadExport": "Download export rates.",
+    "registration": "Register as monitoring"
+  },
+  "SiteConnectionModal": {
+    "title": "Payments reception for your site",
+    "site": "If you have got its internet-shop, landing or you sell\nany goods or services, but it is not possible to accept payment?",
+    "payment": "With us you can accept payments from different banks\nand payment system at favourable rates for your cleints! With every\npayment the channeling through our service you will recieve remunerations.",
+    "contact": "If you want to read more, write us on mail {{email}}.",
+    "sendMail": "Write on mail"
+  },
+  "authpanel": {
+    "signin": "Log In",
+    "or": "or",
+    "signup": "Register"
+  },
+  "signin": {
+    "error": {
+      "formFailed": "Authorization failed",
+      "email": "Enter correct E-mail",
+      "password": "Enter password"
+    },
+    "title": "Log In my account"
+  },
+  "SigninForm": {
+    "labelEmail": "Enter e-mail:",
+    "holderEmail": "Your e-mail",
+    "labelPassword": "Enter password:",
+    "forgotPassword": "Forgot password?",
+    "holderPassword": "Password",
+    "enterLk": "Log in my account",
+    "agree": "Turning to you account you agree with conditions and\n rules of our service.",
+    "singup": "Sign Up"
+  },
+  "lkPage": {
+    "title": "My account"
+  },
+  "newsPage": {
+    "newsItemsEmpty": "News list is empty",
+    "title": "News"
+  },
+  "News": {
+    "archive": "Archive of news"
+  },
+  "newsArchiveList": {
+    "listEmpty": "News list is empty"
+  },
+  "orders": {
+    "orderId": "Application №{{id}}",
+    "createAt": "Created {{date}}",
+    "emptyAmount": "Amount is not reflected",
+    "fio": "Name:",
+    "account": "Bill:",
+    "receiptReward": "Assessment{{br}} remuneration",
+    "refReward": "Remuneration /{{br}} ref. funds"
+  },
+  "requestsPage": {
+    "non": "You haven't got apllication yet",
+    "more": "Show more",
+    "title": "My application",
+    "start": "Start exchange"
+  },
+  "requestStatus": {
+    "waitingDescr": "Have any questions {{chat}}.",
+    "chat": "write us in support",
+    "waitingDescrMinute": "Your application will process in {{minute}} minutes.",
+    "success": "The application is done",
+    "wrong": "The application misspelled",
+    "fail": "The application was rejected",
+    "freeze": "The application had been frozen",
+    "waiting": "Expects processing",
+    "waitingPayment": "Checking payment",
+    "timeout": "Payment timeout expired",
+    "freezeReasonHour": "It is your first application from this wallet on Yandex.Money. It will process in {{hour}} hours, when it exits from freezing.",
+    "freezeReasonHourLegacy": "It is your first application from this Yandex.Money wallet. She will unfreeze and process in {{hour}}",
+    "shortHours": "hours",
+    "freezeNotice": "Application is frozen. For clarifying the sources contact with operator.",
+    "freezeReason": "It is your first application from this wallet on Yandex.Money. It will process in the short term, when it exits from freezing.",
+    "freezeHelp": "Why first payment need to freeze?",
+    "adopted": "Your application is accepted.",
+    "adoptedReff": "Your apoplication on withdrawal earning fund is accepted!",
+    "adoptedReffConfirm": "Сonfirming the withdrawal rewards!",
+    "hold": "Transfer is holded",
+    "holdReason": "Transfer is holded for 48 hours until {{time}}",
+    "processing": "Processing"
+  },
+  "passwordForm": {
+    "labelOldPass": "Old password:",
+    "labelPass": "New password:",
+    "labelRepeatPass": "Try agian:",
+    "submit": "Change password"
+  },
+  "paymentDataManager": {
+    "text1": "For your convenience we turned on service function \"Saving\n entered data\", this simplify creating of application by way of boxes preserve\ndetail for every direction, which you using.\nAll entered data will save on your computer in browser, throught\nyou make exchange.",
+    "label": "Turn on preservation of data"
+  },
+  "form": {
+    "help": {
+      "password": "The password must contain 8 symbols and include numbers, lowercase and uppercase letters of English alphabet. "
+    }
+  },
+  "languagesPage": {
+    "selectLanguage": "Select language"
+  },
+  "promoPage": {
+    "size": "Banner size:",
+    "altBanner": "Banner",
+    "notice": "In this section special for partners and users of our service we have prepared several optiions of banners. They stylized under our brand and convenient for promotional and dissemination in the internet.",
+    "subtitle": "Aviable banner size:",
+    "future": "In the future, we plan to add advertising images, logos and a PDF presentation for quick familiarization with the service.",
+    "about": "Read more about partnership program",
+    "refProgram": "Referral program",
+    "showCode": "Show banner code",
+    "copyCode": "Copy code",
+    "widgetSetting": {
+      "shadow": "Shadow",
+      "border": "Frame",
+      "noBorder": "Without circling",
+      "vertical": " Vertical",
+      "horizontal": "Horizontal",
+      "newTab": "In new tab",
+      "modal": "In popup window",
+      "sameTab": "In the same window",
+      "borderSetting": " Circling",
+      "title": "Settings",
+      "incomePaymentSystem": "System from which",
+      "outcomePaymentSystem": "System in which",
+      "preview": "Show appearance widget",
+      "view": "Appearance",
+      "code": "Widget code"
+    },
+    "widget": "Widget",
+    "title": "Promo materials",
+    "banner": "Banner",
+    "logo": "Logo",
+    "logoNotice": "To develop high-quality promotional materials, use one of the service logo options. Terms of use are detailed in the Brand Book. The logo can also be used to place on your site in the \"Partners\" section. Logos are available in three formats - .ai, .png, .jpeg",
+    "logoSubtitle": "Available logo sizes:",
+    "audio": "Audio",
+    "audioNotice": "An example of a voice for advertising materials is adapted to create advertising messages through audio and video messages to the audience. We recommend using a female voice, by nature sensual and energetic with a clear diction.",
+    "audioFuture": "Detailed rules for using elements are described in",
+    "audioFutureLink": "«Brandbook»‎",
+    "audioSizeTitle": "File size",
+    "audioTimeSeconds": "Length {{seconds}} sec.",
+    "audioSizeMb": "mb",
+    "sizeKb": "kb",
+    "audioFirstTitle": "Female voice Kassa",
+    "audioFirstSubtitle": "Service Advertising",
+    "audioSecondTitle": "Female voice Kassa",
+    "audioSecondSubtitle": "Service Advertising"
+  },
+  "RewardsRequestForm": {
+    "withdrawFunds": "What funds need to withdrawal:",
+    "referal": "Referral",
+    "rewards": "Remunerations",
+    "submit": "Withdrawal"
+  },
+  "rewardsRequest": {
+    "title": "Application for remunerations",
+    "safeOutput": "Well done! Great job, but now we {{br}} ready withdraw funds on any aviable {{br}} below and comfortable wallet.",
+    "successTitle": "Confirming withdrawal remunerations",
+    "needСonfirmation": "We care about safety of your account. To conclude {{br}} application for withdrawal your remunerations we sent on your mail {{br}} lellet with link for confirming creation of application. {{br}} On all matters or in case of delay with transfer of funds take it up with technical support. {{br}} Respectfully, site administration.",
+    "successOk": "Ok"
+  },
+  "referalFundsHistory": {
+    "title": "History of referral charges"
+  },
+  "ReferalList": {
+    "title": "Referral list",
+    "content": "Discription of referral program: this is leading international exchange service of electronic currencies. We make the exchange, entering and withdrawal: Perfect Money, BTC, BTC cods, Payeer, Qiwi, Yandex. Money and also carry out bank transfer orders. We working with banks like Sberbank, Alfa Bank, VTB24 and Tinkoff."
+  },
+  "rewardsHistory": {
+    "title": "History of remunerations"
+  },
+  "remindForm": {
+    "labelPassword": "Enter password:",
+    "holderPassword": "Password",
+    "labelPassConfirm": "Enter password again:",
+    "holderPassConfirm": "Enter password again:",
+    "savePassword": "Save password"
+  },
+  "remindSended": {
+    "newPasword": "New password",
+    "text1": "Yay! You succesfully change your password. {{br}} Now you can move to your account.",
+    "gotoLk": "Move to my account"
+  },
+  "remindRequestForm": {
+    "labelEmail": "Enter e-mail:",
+    "holderEmail": "Your e-mail",
+    "remindPassword": "Recover the password"
+  },
+  "remindRequestSended": {
+    "mailSended": "The letter have sent",
+    "mailSendedDescribe": "On your mail {{br}} we had sent letter with futher instructions.",
+    "goto": "For completion password recovery move to link,\nin your letter."
+  },
+  "ReserveRequestForm": {
+    "labelEmail": "Enter your e-mail",
+    "labelPhone": "Enter you mobile phone",
+    "labelSum": "Required amount of reserve",
+    "submit": "Send a request"
+  },
+  "ReserveRequest": {
+    "title": "Application for restock reserve",
+    "description": "Special for you we restock reserve on necessary amount in the short term. Our manager will connect with {{br}} in the short term.",
+    "success": "Application on restocking of reeserve is succsesfully done."
+  },
+  "signup": {
+    "more": "Read more",
+    "titles": {
+      "user": "Your personal data",
+      "email": "Your mail"
+    },
+    "subtitles": {
+      "user": "You need to enter your name, date of birth, select the type of account and agree with the rules of service.",
+      "email": "You need to enter your email address and confirm it by the link in the letter."
+    },
+    "finish": "Sign In",
+    "error": {
+      "formFailed": "Failed to register",
+      "required": "Fill the box",
+      "passwordConfirm": "Different passwords",
+      "password": {
+        "min": "Password should not include lower then ${min} symbols",
+        "requiredType": "Password must contain no less then 8 symbols. Also contain lowercase and uppercase letters of the English alphabet and numbers too. "
+      },
+      "agree": "You must accept the agreement",
+      "email": "Enter correct E-mail",
+      "name": {
+        "min": "Name should not include lower then ${min} symbols",
+        "max": "Password should not include more then ${max} symbols"
+      }
+    },
+    "next": "Next",
+    "title": "Sing In"
+  },
+  "signupForm": {
+    "label": {
+      "lastName": "Enter your surname",
+      "firstName": "Enter your name",
+      "middleName": "Enter your middle name",
+      "birthday": "Your date of birth",
+      "accountStatus": "Your account status:"
+    },
+    "labelEmail": "Enter your e-mail (will your login):",
+    "labelPassword": "Enter password:",
+    "labelPasswordConfirm": "Enter password again:",
+    "labelName": "Please, introduce yourself:",
+    "holderName": "Your name",
+    "holderEmail": "Enter your e-mail",
+    "holderPassword": "Password",
+    "holderPasswordConfirm": "Enter password again:",
+    "agree": "I agree with {{link}}",
+    "agreeLink": "conditions and regulations",
+    "signup": "Sign In"
+  },
+  "signupIncorrectCode": {
+    "incorrect": "Wrong code",
+    "text": "The code is activated or wrong. "
+  },
+  "signupSended": {
+    "sended": "The letter has sent",
+    "mailInstruction": "On your mail: {{email}} {{br}} has sent letter with futher instructions. {{br}} has sent letter with futher instructions.  ",
+    "goto": "For confirming e-mail click to link in\nyour letter",
+    "exchangeNow": "Exchange now"
+  },
+  "signupSuccess": {
+    "emailConfirmed": "E-mail has accepted ",
+    "content": "New account was successfully registered. {{br}} Now you can use your account.",
+    "exchangeNow": "Exchange now"
+  },
+  "waitingActivate": {
+    "waiting": "Waiting for activation...",
+    "text": "Activating...Wait..."
+  },
+  "card": {
+    "title": "Application №{{id}}",
+    "createdAt": "Created {{datetime}}",
+    "success": "Card has verify",
+    "delete": "Delete",
+    "error": {
+      "incorrect": "Something went wrong...",
+      "required": "Fill field",
+      "numLen": "You have entered invalid card number. The card number must contain 12-20 digits.",
+      "file": "Choose photo"
+    }
+  },
+  "verificationPage": {
+    "non": "You haven't gor cards yet",
+    "currentCards": "Current cards",
+    "notice": "For verification you should be take a picture of the card from faceside with our site on background. Verification process takes few minutes and require only once on every new card.",
+    "requirementLabel": "Requirement to photo:",
+    "requirement1": "On photo must be read card numbe, owner's name.",
+    "requirement2": "On backside should be see monitor with opened kassa.cc site",
+    "title": "Card verification"
+  },
+  "verificationForm": {
+    "title": "Add card",
+    "labelBank": "Select bank:",
+    "holderBank": "Select bank:",
+    "labelName": "Enter full name of card owner:",
+    "holderName": "Enter full name",
+    "labelNumber": "Enter card number:",
+    "holderNumber": "Card number",
+    "submit": "Send"
+  },
+  "instructionEvoucherForm": {
+    "add": "Add check",
+    "remove": "Delete check",
+    "notice": "Transfer {{name}} on amount {{sum}}{{currency}}"
+  },
+  "exchange": {
+    "notAvailableDirectionButton": "write to operator in the chat",
+    "notAvailableDirection": "You have switched {{incomePaymentSystem}} to {{outcomePaymentSystem}}. This direction is currently unavailable. Please {{buttonChat}}.",
+    "error": {
+      "email": "Enter correct E-mail",
+      "agree": "You should accept with exchange rules",
+      "max": "Maximal exchange amount would be {{limit}} {{currency}}",
+      "min": "Too small sum for exchange. Exchange sum should be more then {{limit}} {{currency}}",
+      "depletedReserve": "Now we haven't got reserve for exchange. {{br}} {{button}}",
+      "reserveNoPayment": "You chose wrong payment system. Choose payment system again.",
+      "phone": "Enter correct phone number",
+      "sum": "Enter correct amount"
+    },
+    "neoNotice": "When exchanging from any direction to NEO, you can specify the amount of exchange convertible to the whole NEO. You can indicate the amount of exchange in the next column, or select the amount that suits you below:"
+  },
+  "exchangeSafeInput": {
+    "attention": "Warning!",
+    "status": "Status:"
+  },
+  "currencyFilter": {
+    "all": "All",
+    "RUB": "₽",
+    "USD": "$",
+    "EUR": "€",
+    "UAH": "₴",
+    "KZT": "₸",
+    "coin": "₿"
+  },
+  "error": "Error",
+  "instructionSubmit": {
+    "cancel": "Cancel",
+    "paid": "I have paid"
+  },
+  "instructionRequisites": {
+    "copy": "Copy",
+    "description": "Make a transfer to the following details:",
+    "to": "Help: translation instructions"
+  },
+  "requisitesLabel": {
+    "card": "Bank card",
+    "account": "Bill №",
+    "wallet": "Wallet",
+    "sum": "Amount",
+    "invoiceId": "Must be included invoice id",
+    "invoiceIdXrp": "Must be included Destination Tag"
+  },
+  "instructionData": {
+    "hideData": "Hide information details for exchange",
+    "showData": "Check information details for exchange",
+    "requisitesTitle": "Your information details for exchange",
+    "requisitesEdit": "Change details",
+    "countdown": "Pay for application in {{countdown}}",
+    "deadline": "Time to pay for application has expired! Please, {{replay}} {{br}} topical rate or {{br}} {{sopport}} service.",
+    "replay": "create application again",
+    "support": "contact the support service"
+  },
+  "reserve": {
+    "topup": "Restock?"
+  },
+  "toRequestReserve": {
+    "button": "replenishment to reserve",
+    "text": "You can keep your application on {{button}}"
+  },
+  "instructionBase": {
+    "title1": "For completing exchange",
+    "title2": "follow the instructions:"
+  },
+  "instructionEvoucher": {
+    "designation": "Ener number {{name}} and activation code. {{br}} If you need add one code click {{br}} «Add check»"
+  },
+  "instructionCoin": {
+    "designation": "After payment {{required}} click {{br}} button \"I have paid\" for creating application:",
+    "required": "necessarily "
+  },
+  "failurePayment": {
+    "title": "Payment not been received",
+    "content": "Within 18 minutes the payment for your application has not been credited to our account. In the event that funds have been written off from your account, contact technical support."
+  },
+  "common": {
+    "kassa_sign": "Respectfully, your Kassa."
+  },
+  "paymentConfirm": {
+    "cancel": "Cancel and exit",
+    "title": "Switch to form of payment",
+    "description": "Click \"Move now\" for switching to payment page",
+    "next": "Move now"
+  },
+  "finish": {
+    "title": "Application №{{id}} has succesfully create and accepted in processing!",
+    "notice": "In 20 minutes after obtaining your money on our account it will process and funds will enroll on wallet specified by you.",
+    "track": "Track status you can find in your account.",
+    "noReserve": "Warning! At the moment have not enought reserve and processing time of application can be increased from 1 to 6 hours.",
+    "newUser": "Login and passoword have sent on your e-mail.  ",
+    "besure": "Please make sure that you not only click on button \"I have paid\", but really sent funds to us.",
+    "support": "On all matters or in case of exchange delay, write us to technical support.",
+    "sign": "Respectfully, website administration!",
+    "showRequests": "View my applications",
+    "hold": "We hold your transfer for 48 hours. It's a payment system rules. An operator will process your order in 20 minutes afterward."
+  },
+  "paymentWaiting": {
+    "title": "Waiting for application payment №{{id}}",
+    "string1": "Waiting flow of funds for application.\nAs soon as application will pay {{br}} we automatically move you to your account."
+  },
+  "seoModals": {
+    "howToExchange": "How to exchange?",
+    "help": "Help"
+  },
+  "contactPage": {
+    "bestchange": "Feedback about us on monitoring {{bestchangeLink}}",
+    "bestchangeLink": "Bestchange.ru",
+    "bestchangeText": "Reviews about us on the personal monitoring page of BestChange",
+    "bitsmedia": "Feedback on {{bitsmediaLink}}",
+    "bitsmediaLink": "bits.media",
+    "bitcointalk": "Check out with {{bitcointalkLink}}",
+    "bitcointalkLink": "feddback on bitcointalk.org",
+    "mmgp": "Check out with feedbacks and write its on {{mmgpLink}}",
+    "mmgpLink": "MMGP.ru",
+    "mmgpText": "Reviews about us in the forum thread on MMGP earnings",
+    "reviews": "Your support is very important for us and every your feedback will help us getting better! Thank you for choosing us!",
+    "reviewsOn": "Feedback on",
+    "monitoring": "Monitoring",
+    "forum": "Forum"
+  },
+  "forbiddenPage": {
+    "title": "Access to your account is denied",
+    "text": "Please authorise in form entrance. If you forget password move to recovery password page.",
+    "button": "Log In"
+  },
+  "newsArchivePage": {
+    "title": "News archive"
+  },
+  "notFound": {
+    "title": "Warning! Page is not find! "
+  },
+  "notFoundPage": {
+    "text": "Probably this page is deleted or you entered incorrect page adress. Move to home page and use navigational menu.",
+    "button": "Go to the home page"
+  },
+  "remind": {
+    "error": {
+      "codeInvalid": "Wrong code foe password recovery",
+      "email": "Enter correct E-mail"
+    },
+    "newPasword": "New password"
+  },
+  "remindRequest": {
+    "remindPassword": "Password recovery"
+  },
+  "signupActivate": {
+    "incorrectCode": "Activation is not possible",
+    "emailConfirmed": "E-mail has accepted"
+  },
+  "datediff": {
+    "days": "{{d}} days",
+    "hours": "{{h}} hours",
+    "time": "{{m}} minutes {{s}} seconds"
+  },
+  "verificationWaiting": {
+    "created": "Card added to verification"
+  },
+  "verificationFail": {
+    "remove": "Your verificated card is succesfully deleted!",
+    "removeFail": "Could not delete the electronic card",
+    "error": {
+      "fio": "Please, enter full name"
+    }
+  },
+  "checks": {
+    "error": {
+      "required": "Necessarily enter one or several checks/bills",
+      "eVoucher": {
+        "number": "Enter correct check number",
+        "code": "Enter pin code"
+      }
+    }
+  },
+  "authOverlay": {
+    "text": "Please login or register to continue exchange."
+  },
+  "verificationCard": {
+    "confirm": {
+      "title": "Attention! Card verification.",
+      "content": "This is the first time you make an exchange with this card on our service. For the security of your funds, verification of the Card is required. The procedure is one-time and takes from 1 to 5 minutes.",
+      "next": "Go to verification",
+      "cancel": "Cancel and exit"
+    },
+    "upload": {
+      "title": "Verification of cards",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.{{br}}This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "requirementLabel": "Photo Requirement:",
+      "requirement1": "On the photo card number and the name of the owner should be readable.",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "control": "Select a file...",
+      "error": "Download error. Please try again",
+      "uploading": "Photo upload - {{progress}}%"
+    },
+    "wait": {
+      "title": "Waiting for card verification application processing",
+      "content": "We are awaiting the processing of an application for card verification. We will automatically notify you as soon as the application will be processed."
+    },
+    "failure": {
+      "title": "Verification Failure",
+      "reasonLabel": "You were canceled verification of the card because of:",
+      "repeatNotice": "Try to verify the card again!",
+      "repeat": "Repeat"
+    }
+  },
+  "accountPage": {
+    "title": "My cards and accounts",
+    "notice": "List of accounts available for exchange",
+    "categoriesTitle": "System categories:",
+    "currentAccounts": "Express Exchange Accounts",
+    "addAccount": "Add bank account",
+    "statuses": {
+      "none": "Upload a photo",
+      "pending": "Waiting for verification",
+      "rejected": "Canceled",
+      "accepted": "Verified"
+    },
+    "accountEmptyNotice": "Link your first bank card. You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "addAccountTitle": "Verification of your bank card",
+    "addAccountNotice": "You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "cardImage": {
+      "label": "Upload a photo of the front side of a bank card"
+    },
+    "pendingCardVerificationNotice": "We are checking your card details. Usually the test takes 2-3 minutes, but it can take up to 24 hours.",
+    "successCardVerificationNotice": "Your bank card has been successfully verified. Now you can start to exchange transactions.",
+    "rejectedCardVerificationNotice": "Your application for verification of a bank card has been rejected.",
+    "restartVerification": "Try again"
+  },
+  "instructionLink": {
+    "description": "To pay for the application, go to the payment form by clicking on the button below.",
+    "to": "Go to the website"
+  },
+  "referralUsers": {
+    "title": "Referral program",
+    "cashback": "Cashback",
+    "program": "Referral program",
+    "cashbackBlock": {
+      "title": "Get cashback on each operation",
+      "description": "Cashback is a refund of the exchange amount to your account. The percentage of return depends on the volume of exchanges",
+      "start": "Start"
+    },
+    "howTitle": "How to get a cashback?",
+    "howFirstTitle": "Registration",
+    "howFirstDescription": "Register on the site",
+    "howSecondTitle": "Make an exchange",
+    "howSecondDescription": "In any current direction",
+    "howThirdTitle": "Get cashback*",
+    "howThirdDescription": "The amount of cashback depends on the exchange amount",
+    "withdrawTitle": "How to withdraw the funds?",
+    "withdrawContentTitle": "Withdraw money in a convenient way",
+    "withdrawDescription": "Payment systems, cryptocurrency or fiat",
+    "getTitle": "What do I get?",
+    "getFirstTitle": "From 5%",
+    "getFirstDescription": "After registration",
+    "getSecondTitle": "Time saving",
+    "getSecondDescription": "Withdrawal for next 20 minutes",
+    "getThirdTitle": "Convenient withdraw",
+    "getThirdDescription": "Select a withdrawal method",
+    "conditionTitle": "Cashback term",
+    "conditionFirstTitle": "Initial",
+    "conditionFirstLimit": "Exchange up to $ 1,000",
+    "conditionFirstCashback": "Cashback amount 5%",
+    "conditionSecondTitle": "Personal",
+    "conditionSecondLimit": "Exchange up to $ 10,000",
+    "conditionSecondCashback": "Cashback amount 10%",
+    "conditionThirdTitle": "Professional",
+    "conditionThirdLimit": "Exchange up to $ 10,000",
+    "conditionThirdCashback": "Cashback amount 15%",
+    "explanation": "* Please note, that you get a percentage of the service's earnings from each of your exchange transactions. Cashback is charged only if the service commission for the exchange was more than 0%. If there is no service commission for this exchange direction, no cashback is charged.",
+    "referralBlock": {
+      "title": "Earn money on the referral program Kassa.cc.",
+      "description": " The referral program is your income from all user exchanges registered with your referral link.",
+      "descriptionSecond": "Register on the site and participate in the program.",
+      "start": "Start work"
+    },
+    "howItWorkTitle": "How it works??",
+    "howItWorkFirstTitle": "Copy the link",
+    "howItWorkFirstNotice": "In the section of your personal account - Referral program",
+    "howItWorkSecondTitle": "Place on the site",
+    "howItWorkSecondNotice": "Share with your friends in social networks",
+    "howItWorkThirdTitle": "Convenient withdraw",
+    "howItWorkThirdNotice": "Select a withdrawal method",
+    "gonnaGetTitle": "What do I get??",
+    "gonnaGetFirst": "Higher percentage of referral charges",
+    "gonnaGetSecond": "Gifts from our service",
+    "referralConditionsTitle": "Terms",
+    "referralConditionsFirstTitle": "150 referrals",
+    "referralConditionsFirstItem": "Apple AirPods",
+    "referralConditionsExchangePercent": "or {{percent}} of the exchange amount",
+    "referralConditionsSecondTitle": "300 referrals",
+    "referralConditionsSecondItem": "iPhone",
+    "referralConditionsThirdTitle": "50 referrals",
+    "referralConditionsThirdItem": "Mi Band 3",
+    "referralConditionsFourthTitle": "100 referrals",
+    "referralConditionsFourthItem": "JBL Charge 3",
+    "referralConditionsFifthTitle": "20 referrals",
+    "referralConditionsFifthItem": "Gift from Kassa.сс",
+    "referralConditionsSixthTitle": "30 referrals",
+    "referralConditionsSixthItem": "Power bank",
+    "referralConditionsSeventhTitle": "Registration on the site",
+    "referralConditionsSeventhItem": "0,5% of the exchange amount",
+    "referralConditionsEighthTitle": "10 referrals",
+    "referralConditionsEighthItem": "USB Flash drive"
+  },
+  "oauth": {
+    "sectionTitle": "Authorization by social network",
+    "sectionNotice": "Connect your social networks for the convenience of instant authorization in нour personal account Kassa.cc",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "google": "google.com",
+    "facebook": "Facebook",
+    "vk": "VKontakte",
+    "errorWithDisconnect": "The user is not tied"
+  },
+  "signInOauth": {
+    "title": "Login confirmation",
+    "notice": "Confirm the entrance to your account by entering a password and we will automatically link your social network",
+    "submit": "Confirm"
+  },
+  "onlinePaymentsPage": {
+    "title": "Internet-Acquiring",
+    "otherPartnersLink": "Other partnership offers",
+    "heroDescription": "We offer safe and reliable technologies for connecting payment acceptance on the Internet.",
+    "connect": "Connect",
+    "advantagesTitle": "Benefits Internet{{space}}-{{space}}Acquiring Kassa",
+    "advantage1Title": "Without documents",
+    "advantage1Notice": "We do not request documents and data about your legal entity",
+    "advantage2Title": "No turnover requirements",
+    "advantage2Notice": "We do not limit the turnover of our customers",
+    "advantage3Title": "Quick connect",
+    "advantage3Notice": "Average Internet Acquiring Term 1 day",
+    "advantage4Title": "Safety",
+    "advantage4Notice": "We work without failures with minimal chargebacks",
+    "allWorldPaymentsTitle": "We accept payments worldwide.",
+    "allWorldPaymentsNotice": "In Bitcoin, Яндекс.Деньги, Qiwi, Dashcoin, Litecoin, Zcash and other. Bank card payments in the Russian Federation and the CIS.",
+    "integrationTitle": "Easy integration",
+    "integrationNotice": "Detailed documentation with examples to integrate to the API without technical support",
+    "linkToDoc": "Documentation",
+    "areasTitle": "Business areas",
+    "areas1Title": "Exchangers",
+    "areas2Title": "Services and digital content",
+    "areas3Title": "Gambling",
+    "areas4Title": "Bets",
+    "areas5Title": "Casino",
+    "areas6Title": "Highrish",
+    "tariffsTitle": "Tariffs for all business",
+    "paymentSystem": "Payment System",
+    "addition": "Addition",
+    "withdrawal": "Withdrawal",
+    "bankCards": "Bank Cards",
+    "exchangersTab": "Exchangers",
+    "servicesTab": "Services and digital content",
+    "casinoTab": "Casino",
+    "betsTab": "Bets",
+    "hairiskTab": "Highrish",
+    "howTitle": "How to connect acquiring?",
+    "howNotice": "It usually takes 24 hours to access the API.",
+    "how1Title": "Send a request",
+    "how1Notice": "We will check the site on the same day and confirm the connection",
+    "how2Title": "Access",
+    "how2Notice": "After confirmation, you get access to the payment API",
+    "how3Title": "Integrate",
+    "how3Notice": "Detailed documentation allows integration without technical support",
+    "orderSubmit": "Submit your application",
+    "orderSubmitSuccess": "Sent",
+    "formTitle": "Fill in the contact information",
+    "formWarning": "Application processing time on average takes 2 hours, but can last up to 48 hours.",
+    "formPlaceholderEmail": "E-mail",
+    "formPlaceholderUrl": "Site URL",
+    "formPlaceholderCash": "Planned monthly turnover"
+  },
+  "metaTags": {
+    "exchangePage": {
+      "title": "Kassa.cc - Single currency exchange",
+      "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
+      "og": {
+        "title": "Kassa.cc - Single currency exchange",
+        "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
+        "image": "http://kassa.cc/images/main_og_image.jpg"
+      }
+    }
+  }
+}

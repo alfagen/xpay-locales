@@ -1,0 +1,95 @@
+{
+  "mixed": {
+    "default": "${path} je neplatné",
+    "required": "${path} je povinné pole",
+    "oneOf": "${path} musí být jedním z dalších významů: ${values} ",
+    "notOneOf": "${path} nemusí být jedním z dalších významů: ${values} "
+  },
+  "string": {
+    "length": "${path} musí obsahovat přesně ${length} symbolů",
+    "min": "${path} musí obsahovat aspoň ${min} symbolů",
+    "max": "${path} musí obsahovat max. ${max} symbolů",
+    "matches": "${path} musí souhlasit s následujícím vzorem: \"${regex}\"",
+    "email": "${path} musí být platnou e-mailovou adresou",
+    "url": "${path} musí být platnou URL adresou",
+    "trim": "${path} nemusí obsahovat zbytečné mezery na začátku a na konci řádku",
+    "lowercase": "${path} musí obsahovat jenom malá písmena",
+    "uppercase": "${path} musí obsahovat jenom velká písmena"
+  },
+  "number": {
+    "min": "${path} se musí rovnat nebo překračovat ${min}",
+    "max": "${path} se musí rovnat nebo nemusí překračovat ${max}",
+    "lessThan": "${path} musí být pod ${less}",
+    "moreThan": "${path} musí být nad ${more}",
+    "notEqual": "${path} se musí rovnat ${notEqual} ",
+    "positive": "${path} musí být kladné číslo",
+    "negative": "${path} musí být záporné číslo",
+    "integer": "${path} musí být číslo"
+  },
+  "date": {
+    "min": "${path}  nemusí být dřívější než ${min}",
+    "max": "${path} nemusí být pozdější než ${max}"
+  },
+  "object": {
+    "noUnknown":
+      "${path} pole nemůže mít klíče neuvedené ve formě objektu."
+  },
+  "array": {
+    "min": "${path} musí obsahovat aspoň ${min} elementů",
+    "max": "${path} musí obsahovat max. ${max} elementů"
+  },
+  "captcha": {
+    "keyRequired": "CAPTCHA není načtena, obnovte obrázek",
+    "required": "Zadejte písmena z obrázku"
+  },
+  "accountFormat": {
+    "default": "Nesprávná adresa peněženky",
+    "PMUSD": "Zadali jste nesprávné číslo peněženky Perfect Money. Číslo peněženky musí odpovídat šabloně U1234567",
+    "PMEUR": "Zadali jste nesprávné číslo peněženky Perfect Money. Číslo peněženky musí odpovídat šabloně E123456",
+    "SBERRUB": "Napsaly jste nesprávné Číslo karty Sberbanku, číslo karty musí obsahovat 16 - 18 číslic",
+    "TCSBRUB": "Zadali jste nesprávné číslo karty Tinkoff. Číslo karty musí obsahovat 16 číslic.",
+    "YAMRUB": "Zadali jste nesprávné číslo peněženky Yandex.Money. Peněženka musí obsahovat od 10 do 16 číslic.",
+    "QWRUB": "Zadali jste nesprávné číslo peněženky QIWI. Číslo peněženky musí odpovídat šabloně +7 999 777 66 11",
+    "TBRUB": "Zadali jste nesprávné číslo účtu v Telebanku. Číslo účtu musí obsahovat 20 číslic.",
+    "BTC": "Zadali jste nesprávné číslo BTC peněženky. Příklad: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV",
+    "ACRUB": "Zadali jste nesprávné číslo účtu v AlfaClick. Číslo účtu musí obsahovat 20 číslic.",
+    "PRUSD": "Zadali jste nesprávné Číslo peněženky Payeer. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890",
+    "PREUR": "Zadali jste nesprávné Číslo peněženky Payeer. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890",
+    "LTC": "Zadali jste nesprávné číslo Litecoin peněženky. Příklad: Lchanger9aqdHS5KKFz322FVH74LnzkoYJ",
+    "ETH": "Zadali jste nesprávné číslo Ethereum peněženky. Příklad: 0x54065a7b2b86274D52A755F73E534DcD7d522886",
+    "ADVCUSD": "Zadali jste nesprávné číslo peněženky AdvCash USD. Číslo peněženky musí odpovídat šabloně U 3005 2342 8775",
+    "ADVCEUR": "Zadali jste nesprávné číslo peněženky AdvCash EUR. Číslo peněženky musí odpovídat šabloně E 3005 2342 8775",
+    "CARDRUB": "Zadali jste nesprávné Číslo karty Visa/MasterCard RUB, číslo karty musí obsahovat od 16 do 22 číslic",
+    "PRRUB": "Zadali jste nesprávné Číslo peněženky Payeer RUB. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890",
+    "ADVCRUB": "Zadali jste nesprávné Číslo peněženky AdvCash RUB. Číslo peněženky musí odpovídat šabloně R 3005 2342 8775",
+    "OKUSD": "Zadali jste nesprávné číslo peněženky OKPay. Číslo peněženky musí odpovídat šabloně OK370835665",
+    "DASH": "Zadali jste nesprávné Číslo peněženky Dash. Příklad: XmzgzKSournZBFCG19ZHv3cFVamm6CwYcR",
+    "KUKRUB": "Zadali jste nesprávné číslo karty Kukuruza. Číslo karty musí obsahovat 16 číslic.",
+    "SBERKZT": "Zadali jste nesprávné Číslo karty Sberbanku KZT, číslo karty musí obsahovat 16 - 18 číslic",
+    "KKBKZT": "Zadali jste nesprávné číslo karty QazKom Bank. Číslo karty musí obsahovat 16-18 číslic.",
+    "HLKBKZT": "Zadali jste nesprávné číslo karty Halyk Bank. Číslo karty musí obsahovat 16-18 číslic.",
+    "FRTBKZT": "Zadali jste nesprávné číslo karty Forte Bank. Číslo karty musí obsahovat 16-18 číslic.",
+    "CARDKZT": "Zadali jste nesprávné číslo karty Visa/MasterCard KZT. Číslo karty musí obsahovat 16 - 22 číslic.",
+    "XRP": "Zadali jste nesprávné číslo peněženky Ripple. Příklad: 50dc2d6de07e8c76ab25a2cca4b4a9bf9f",
+    "ETC": "Zadali jste nesprávné číslo Ethereum Classic peněženky. Příklad: 0x0C93dCc706A5A33DD61A620444EB0B20D4c26754",
+    "XMR": "Napsaly jste nesprávné Číslo peněženky Monero. Příklad: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j",
+    "BCH": "Zadali jste nesprávné Číslo peněženky BCH. Příklad: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV,bitcoincash:qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z",
+    "ZEC": "Zadali jste nesprávné Číslo peněženky Zcash. Příklad: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz",
+    "NEO": "Zadali jste nesprávné Číslo peněženky Neo. Příklad: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte",
+    "USDT": "You entered an incorrect Tether OMNI wallet number. Example: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU",
+    "USDTERC": "You entered an incorrect Tether ERC20 wallet number. Example: 0x754d555efacc1a2446c0c897b0e8e43234d2575d",
+    "EOS": "You entered an incorrect EOS wallet number. Example: EOS8dUSkq29YwV3DueZeqr7Bpw1nyLEbquqFqiW5D95ijV7LQARoN",
+    "XEM": "You entered an incorrect NEM wallet number. Example: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY",
+    "ADA": "You entered an incorrect Cardano wallet number. Example: DdzFFzCqrhsrUjfMwJrzuQF8DeXJMgrmxFxMUE6tcLKpyA3YvAptZEFBgBo14a5qWMR8xrNEckqf9AG9VP7ofDketqXCPeSztCizzkEN",
+    "TRX": "You entered an incorrect Tron wallet number. Example: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt",
+    "WAVES": "You entered an incorrect Waves wallet number. Example: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
+    "CARDEUR": "You have entered the wrong Visa/Mastercard EUR card number, the card number must contain 16 - 18 digits",
+    "USDTTRC": "You entered an incorrect Tether TRC20 wallet address. Example: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
+    "DOGE": "You entered an incorrect Dogecoin wallet address. Example: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
+    "DOT": "You entered an incorrect Polkadot wallet address. Example: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb",
+    "XLM": "You entered an incorrect Stellar (XLM) wallet address. Example: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, don't forget to specify MEMO",
+    "MIRCRUB": "You entered the wrong сard number in MIR, the card number must contain from 16 to 18 digits",
+    "BNBBEP2": "You entered an incorrect BNB BEP 2 wallet address. Example: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, don't forget to specify MEMO",
+    "BNBBEP20": "You entered an incorrect BNB BEP 20 wallet address. Example: 0x59f502498d9225e1a71bd3509722ac43ab389e1e" 
+  }
+}
