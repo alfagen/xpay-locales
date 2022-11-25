@@ -690,7 +690,7 @@
   },
   "exchange": {
     "notAvailableDirectionButton": "write to operator in the chat",
-    "notAvailableDirection": "You have switched {{incomePaymentSystem}} to {{outcomePaymentSystem}}. This direction is currently unavailable. Please {{buttonChat}}.",
+    "notAvailableDirection": "You have switched {{incomePaymentSystem}} to {{outcomePaymentSystem}}. This direction is currently unavailable. Please ",
     "error": {
       "email": "Enter correct E-mail",
       "agree": "You should accept with exchange rules",

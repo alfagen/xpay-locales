@@ -657,7 +657,7 @@
   },
   "exchange": {
     "notAvailableDirectionButton": "Napište operátorovi do chatu\n",
-    "notAvailableDirection": "Přešli jste na směnu {{incomePaymentSystem}} na {{outcomePaymentSystem}}. Tento směr je momentálně nedostupný. Prosím, {{buttonChat}}.",
+    "notAvailableDirection": "Přešli jste na směnu {{incomePaymentSystem}} na {{outcomePaymentSystem}}. Tento směr je momentálně nedostupný. Prosím, ",
     "error": {
       "email": "Zadejte platný e-mail",
       "agree": "Je zapotřebí Váš souhlas s pravidly směny",

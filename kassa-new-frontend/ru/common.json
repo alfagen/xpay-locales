@@ -739,7 +739,7 @@
   },
   "exchange": {
     "notAvailableDirectionButton": "напишите оператору в чат",
-    "notAvailableDirection": "Вы перешли по направлению обмена {{incomePaymentSystem}} на {{outcomePaymentSystem}}. В данный момент это направление временно недоступно. Пожалуйста {{buttonChat}}.",
+    "notAvailableDirection": "Вы перешли по направлению обмена {{incomePaymentSystem}} на {{outcomePaymentSystem}}. В данный момент это направление временно недоступно. Пожалуйста ",
     "error": {
       "email": "Введите правильный E-mail",
       "agree": "Вы должны соглаcиться с правилами обмена",
