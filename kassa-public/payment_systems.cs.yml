@@ -172,6 +172,8 @@ cs:
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+        outcome_operator: Date of Birth (01.12.1980)
+        outcome_operator_label: Date of Birth (01.12.1980)
       usdt:
         outcome_account: Tether OMNI address
         outcome_account_label: Tether OMNI address
