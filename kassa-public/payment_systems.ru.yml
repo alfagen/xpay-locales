@@ -176,6 +176,8 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
+        outcome_operator: Дата рождения (01.12.1980)
+        outcome_operator_label: Дата рождения (01.12.1980)
       usdt:
         outcome_account: Кошелек Tether OMNI
         outcome_account_label: Кошелек Tether OMNI
