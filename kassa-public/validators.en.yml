@@ -80,3 +80,5 @@ en:
 
     card_country:
       mismatch: 'The card of this country is not accepted, please enter another card number. Read more about the allowed list of countries in the FAQ.'
+    card_bank:
+      mismatch: 'The card of this bank is not accepted, please enter another card number.'
