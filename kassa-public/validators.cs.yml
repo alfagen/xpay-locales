@@ -81,3 +81,5 @@ cs:
 
     card_country:
       mismatch: 'Kartu této země nepřijímáme, zadejte prosím jiné číslo karty. Přečtěte si více o povoleném seznamu zemí v sekci FAQ.'
+    card_bank:
+      mismatch: 'Neakceptujeme kartu této banky, zadejte prosím jiné číslo karty.'
