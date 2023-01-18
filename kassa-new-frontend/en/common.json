@@ -59,7 +59,7 @@
       "verificationSuccessNotice": "You have successfully confirmed your account status! Then you can proceed to exchange operations and take full advantage of your account!",
       "next": "Next",
       "confirmExit": "Confirm exit",
-      "closeVerificationNotice": "Are you sure you want to interrupt your account verification process? {{br}} You can continue the verification procedure from your personal account.",
+      "closeVerificationNotice": "Are you sure you want to interrupt your account verification process? <br /> You can continue the verification procedure from your personal account.",
       "returnToVerification": "Back to verification",
       "note": "Note the {{requirements}}.",
       "requirements": "document requirements",
@@ -194,7 +194,7 @@
     "currencyReserves": "Currency reserves ",
     "fetchingCards": "Loading your cards...",
     "addCard": "Link a new card",
-    "raiseStatus": "You need to increase your account status to select this direction. {{br}} {{link}}",
+    "raiseStatus": "You need to increase your account status to select this direction. <br /> {{link}}",
     "raiseStatusLink": "Upgrade the status"
   },
   "settingForm": {
@@ -295,7 +295,7 @@
     "startExchange": "Start exchange now",
     "questions": "Have any questions? Write {{chat}}",
     "chat": "us in chat",
-    "firstTitle1": "Referal program {{br}} for users",
+    "firstTitle1": "Referal program <br /> for users",
     "firstSubtitle": "save and earn",
     "firstDescription": "Do you want to earn with us? Register\nin our site and you'll be able to take a part in our referal program and\ncontributory system of discounts! After register you automatically get\ncontributory discount for exchange — 5%.",
     "more": "Read more about referral system",
@@ -339,7 +339,7 @@
     "news": "And while read news",
     "title": "Technical break",
     "subtitle": "We were taken and have promised to return in {{time}}",
-    "notice": "Don't worry, if your application came in technical break. {{br}} It will process in the short term :)"
+    "notice": "Don't worry, if your application came in technical break. <br /> It will process in the short term :)"
   },
   "verificationCustomFile": {
     "label": "Click for choose:",
@@ -431,8 +431,8 @@
     "emptyAmount": "Amount is not reflected",
     "fio": "Name:",
     "account": "Bill:",
-    "receiptReward": "Assessment{{br}} remuneration",
-    "refReward": "Remuneration /{{br}} ref. funds"
+    "receiptReward": "Assessment<br /> remuneration",
+    "refReward": "Remuneration /<br /> ref. funds"
   },
   "requestsPage": {
     "non": "You haven't got apllication yet",
@@ -536,9 +536,9 @@
   },
   "rewardsRequest": {
     "title": "Application for remunerations",
-    "safeOutput": "Well done! Great job, but now we {{br}} ready withdraw funds on any aviable {{br}} below and comfortable wallet.",
+    "safeOutput": "Well done! Great job, but now we <br /> ready withdraw funds on any aviable <br /> below and comfortable wallet.",
     "successTitle": "Confirming withdrawal remunerations",
-    "needСonfirmation": "We care about safety of your account. To conclude {{br}} application for withdrawal your remunerations we sent on your mail {{br}} lellet with link for confirming creation of application. {{br}} On all matters or in case of delay with transfer of funds take it up with technical support. {{br}} Respectfully, site administration.",
+    "needСonfirmation": "We care about safety of your account. To conclude <br /> application for withdrawal your remunerations we sent on your mail <br /> lellet with link for confirming creation of application. <br /> On all matters or in case of delay with transfer of funds take it up with technical support. <br /> Respectfully, site administration.",
     "successOk": "Ok"
   },
   "referalFundsHistory": {
@@ -560,7 +560,7 @@
   },
   "remindSended": {
     "newPasword": "New password",
-    "text1": "Yay! You succesfully change your password. {{br}} Now you can move to your account.",
+    "text1": "Yay! You succesfully change your password. <br /> Now you can move to your account.",
     "gotoLk": "Move to my account"
   },
   "remindRequestForm": {
@@ -570,7 +570,7 @@
   },
   "remindRequestSended": {
     "mailSended": "The letter have sent",
-    "mailSendedDescribe": "On your mail {{br}} we had sent letter with futher instructions.",
+    "mailSendedDescribe": "On your mail <br /> we had sent letter with futher instructions.",
     "goto": "For completion password recovery move to link,\nin your letter."
   },
   "ReserveRequestForm": {
@@ -581,7 +581,7 @@
   },
   "ReserveRequest": {
     "title": "Application for restock reserve",
-    "description": "Special for you we restock reserve on necessary amount in the short term. Our manager will connect with {{br}} in the short term.",
+    "description": "Special for you we restock reserve on necessary amount in the short term. Our manager will connect with <br /> in the short term.",
     "success": "Application on restocking of reeserve is succsesfully done."
   },
   "signup": {
@@ -639,13 +639,13 @@
   },
   "signupSended": {
     "sended": "The letter has sent",
-    "mailInstruction": "On your mail: {{email}} {{br}} has sent letter with futher instructions. {{br}} has sent letter with futher instructions.  ",
+    "mailInstruction": "On your mail: {{email}} <br /> has sent letter with futher instructions. <br /> has sent letter with futher instructions.  ",
     "goto": "For confirming e-mail click to link in\nyour letter",
     "exchangeNow": "Exchange now"
   },
   "signupSuccess": {
     "emailConfirmed": "E-mail has accepted ",
-    "content": "New account was successfully registered. {{br}} Now you can use your account.",
+    "content": "New account was successfully registered. <br /> Now you can use your account.",
     "exchangeNow": "Exchange now"
   },
   "waitingActivate": {
@@ -696,7 +696,7 @@
       "agree": "You should accept with exchange rules",
       "max": "Maximal exchange amount would be {{limit}} {{currency}}",
       "min": "Too small sum for exchange. Exchange sum should be more then {{limit}} {{currency}}",
-      "depletedReserve": "Now we haven't got reserve for exchange. {{br}} {{button}}",
+      "depletedReserve": "Now we haven't got reserve for exchange. <br /> {{button}}",
       "reserveNoPayment": "You chose wrong payment system. Choose payment system again.",
       "phone": "Enter correct phone number",
       "sum": "Enter correct amount"
@@ -740,7 +740,7 @@
     "requisitesTitle": "Your information details for exchange",
     "requisitesEdit": "Change details",
     "countdown": "Pay for application in {{countdown}}",
-    "deadline": "Time to pay for application has expired! Please, {{replay}} {{br}} topical rate or {{br}} {{sopport}} service.",
+    "deadline": "Time to pay for application has expired! Please, {{replay}} <br /> topical rate or <br /> {{sopport}} service.",
     "replay": "create application again",
     "support": "contact the support service"
   },
@@ -756,10 +756,10 @@
     "title2": "follow the instructions:"
   },
   "instructionEvoucher": {
-    "designation": "Ener number {{name}} and activation code. {{br}} If you need add one code click {{br}} «Add check»"
+    "designation": "Ener number {{name}} and activation code. <br /> If you need add one code click <br /> «Add check»"
   },
   "instructionCoin": {
-    "designation": "After payment {{required}} click {{br}} button \"I have paid\" for creating application:",
+    "designation": "After payment {{required}} click <br /> button \"I have paid\" for creating application:",
     "required": "necessarily "
   },
   "failurePayment": {
@@ -789,7 +789,7 @@
   },
   "paymentWaiting": {
     "title": "Waiting for application payment №{{id}}",
-    "string1": "Waiting flow of funds for application.\nAs soon as application will pay {{br}} we automatically move you to your account."
+    "string1": "Waiting flow of funds for application.\nAs soon as application will pay <br /> we automatically move you to your account."
   },
   "seoModals": {
     "howToExchange": "How to exchange?",
@@ -876,7 +876,7 @@
     },
     "upload": {
       "title": "Verification of cards",
-      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.{{br}}This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
       "requirementLabel": "Photo Requirement:",
       "requirement1": "On the photo card number and the name of the owner should be readable.",
       "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",

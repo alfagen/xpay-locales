@@ -59,7 +59,7 @@
       "verificationSuccessNotice": "Úspěšně jste potvrdili stav účtu! Dále můžete začít operace směny a užívat všechny přednosti vašeho účtu!",
       "next": "Dále",
       "confirmExit": "Potvrďte ukončení",
-      "closeVerificationNotice": "Opravdu chcete přerušit proces ověření účtu? {{br}} Postup ověření můžete obnovit z osobního účtu.",
+      "closeVerificationNotice": "Opravdu chcete přerušit proces ověření účtu? <br /> Postup ověření můžete obnovit z osobního účtu.",
       "returnToVerification": "Zpět na ověření",
       "note": "Dejte si pozor na {{requirements}}.",
       "requirements": "požadavky pro doklady",
@@ -307,7 +307,7 @@
     "news": "Zatím si můžete přečíst, co je u nás nového",
     "title": "Technická výluka",
     "subtitle": "Sebrali nás a prý si nás tu nechají ještě {{time}}",
-    "notice": "Pokud nás Váš požadavek zastihl v období technické výluky, buďte bez obav. {{br}} O jeho vyřízení se postaráme v nejbližší době :)"
+    "notice": "Pokud nás Váš požadavek zastihl v období technické výluky, buďte bez obav. <br /> O jeho vyřízení se postaráme v nejbližší době :)"
   },
   "verificationCustomFile": {
     "label": "Stiskněte k provedení výběru:",
@@ -398,8 +398,8 @@
     "emptyAmount": "částka není uvedena",
     "fio": "Jméno a příjmení:",
     "account": "Účet:",
-    "receiptReward": "Příjem{{br}} odměny",
-    "refReward": "Odměny /{{br}} prostředky z referencí"
+    "receiptReward": "Příjem<br /> odměny",
+    "refReward": "Odměny /<br /> prostředky z referencí"
   },
   "requestsPage": {
     "non": "Zatím nemáte žádné požadavky",
@@ -612,7 +612,7 @@
   },
   "signupSuccess": {
     "emailConfirmed": "E-mailová adresa potvrzena",
-    "content": "Úspěšně jste dokončili registraci. {{br}} Nyní můžete využívat veškerých výhod nabízených Vaši Klientskou zónou. ",
+    "content": "Úspěšně jste dokončili registraci. <br /> Nyní můžete využívat veškerých výhod nabízených Vaši Klientskou zónou. ",
     "exchangeNow": "Provést směnu"
   },
   "waitingActivate": {
@@ -663,7 +663,7 @@
       "agree": "Je zapotřebí Váš souhlas s pravidly směny",
       "max": "Maximální částka převodu činí {{limit}} {{currency}}",
       "min": "Příliš nízká částka pro uskutečnění převodu. Částka směny musí být nejméně {{limit}} {{currency}}",
-      "depletedReserve": "Rezerva valuty aktuálně nedostačuje k provedení směny. {{br}}{{button}}",
+      "depletedReserve": "Rezerva valuty aktuálně nedostačuje k provedení směny. <br />{{button}}",
       "reserveNoPayment": "Vybrán nesprávný platební systém. Vyberte prosím platební systém znovu.",
       "phone": "Zadejte platné telefonní číslo",
       "sum": "Zadejte platnou částku"
@@ -707,7 +707,7 @@
     "requisitesTitle": "Vaše vlastnosti směny",
     "requisitesEdit": "Změnit vlastnosti",
     "countdown": "Platbu požadavku proveďte ve lhůtě {{countdown}}",
-    "deadline": "Lhůta k zaplacení vypršela! Prosím {{replay}} {{br}} dle aktuálního kurzu nebo {{br}} {{support}} služby.",
+    "deadline": "Lhůta k zaplacení vypršela! Prosím {{replay}} <br /> dle aktuálního kurzu nebo <br /> {{support}} služby.",
     "replay": "zadejte požadavek znovu",
     "support": "se obraťte na technickou podporu"
   },
@@ -723,7 +723,7 @@
     "title2": "postupujte dle následujících pokynů:"
   },
   "instructionEvoucher": {
-    "designation": "Vložte číslo {{name}} a aktivační kód. {{br}} Je-li zapotřebí zadat ještě další kód, stiskněte tlačítko \\\"Přidat další šek\\\""
+    "designation": "Vložte číslo {{name}} a aktivační kód. <br /> Je-li zapotřebí zadat ještě další kód, stiskněte tlačítko \\\"Přidat další šek\\\""
   },
   "instructionCoin": {
     "designation": "Pro zadání požadavku stiskněte po provedení platby {{required}} tlačítko \"Zaplatil jsem\":",
@@ -843,7 +843,7 @@
     },
     "upload": {
       "title": "Verification of cards",
-      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.{{br}}This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
       "requirementLabel": "Photo Requirement:",
       "requirement1": "On the photo card number and the name of the owner should be readable.",
       "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
