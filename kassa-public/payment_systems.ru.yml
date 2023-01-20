@@ -226,6 +226,9 @@ ru:
       usdttrc:
         outcome_account: Кошелек USDT TRC20
         outcome_account_label: Кошелек USDT TRC20
+      ton:
+        outcome_account: Кошелек Toncoin
+        outcome_account_label: Кошелек Toncoin
       bnbbep2:
         outcome_account: Кошелек BNB BEP 2
         outcome_account_label: Кошелек BNB BEP 2
