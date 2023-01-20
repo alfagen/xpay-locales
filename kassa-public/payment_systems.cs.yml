@@ -213,6 +213,9 @@ cs:
         outcome_account_label: Stellar (XLM) address
         outcome_fio: Memo 
         outcome_fio_label: Memo 
+      ton:
+        outcome_account: Toncoin address
+        outcome_account_label: Toncoin address
       dot:
         outcome_account: Polkadot address
         outcome_account_label: Polkadot address
