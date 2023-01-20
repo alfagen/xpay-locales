@@ -216,6 +216,9 @@ en:
       dot:
         outcome_account: Polkadot address
         outcome_account_label: Polkadot address
+      ton:
+        outcome_account: Toncoin address
+        outcome_account_label: Toncoin address
       doge:
         outcome_account: Doge address
         outcome_account_label: Doge address
