@@ -726,7 +726,7 @@
     "designation": "Vložte číslo {{name}} a aktivační kód. <br /> Je-li zapotřebí zadat ještě další kód, stiskněte tlačítko \\\"Přidat další šek\\\""
   },
   "instructionCoin": {
-    "designation": "Pro zadání požadavku stiskněte po provedení platby {{required}} tlačítko \"Zaplatil jsem\":",
+    "designation": "Pro zadání požadavku stiskněte po provedení platby <strong>{{required}}</strong> tlačítko \"Zaplatil jsem\":",
     "required": "povinné"
   },
   "failurePayment": {

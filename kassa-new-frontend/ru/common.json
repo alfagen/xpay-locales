@@ -814,7 +814,7 @@
     "designation": "Вставьте номер {{name}} и код активации. <br /> Если нужно добавить еще один код нажмите <br /> «Добавить еще один чек»"
   },
   "instructionCoin": {
-    "designation": "После оплаты {{required}} нажмите <br /> кнопку \"Я оплатил\", чтобы заявка создалась:",
+    "designation": "После оплаты <strong>{{required}}</strong> нажмите <br /> кнопку \"Я оплатил\", чтобы заявка создалась:",
     "required": "обязательно",
     "after_pay": "После оплаты",
     "push": "нажмите",
@@ -862,20 +862,30 @@
   "contactPage": {
     "bestchange": "Отзывы о нас на мониторинге {{bestchangeLink}}",
     "bestchangeLink": "Bestchange.ru",
-    "bestchangeText": "Отзывы о нас на персональной странице мониторинга BestChange",
+    "bestchangeText": "Отзывы о нас на персональной странице мониторинга",
+    "bestchangeName": "BestChange",
     "bitsmedia": "Отзывы на {{bitsmediaLink}}",
     "bitsmediaLink": "Bits.media",
     "bitcointalk": "Ознакомьтесь с {{bitcointalkLink}}",
     "bitcointalkLink": "отзывами на bitcointalk.org",
     "mmgp": "Ознакомьтесь с отзывами и оставьте свой на {{mmgpLink}}",
     "mmgpLink": "MMGP.ru",
-    "mmgpText": "Отзывы о нас в ветке форума о заработке MMGP",
+    "mmgpText": "Отзывы о нас в ветке форума о заработке",
+    "mmgpName": "MMGP",
     "trusteeWalletLink": "Trusteeglobal.com",
     "trusteeWalletText": "Наш партнер - некастодиальный криптокошелек-обменник.",
+    "trusteeWalletName": "Trusteeglobal.com",
     "reviews": "Нам очень важна Ваша поддержка и каждый ваш отзыв поможет нам становиться лучше! Спасибо, что выбрали нас!",
     "reviewsOn": "Отзывы на",
     "monitoring": "Мониторинг",
-    "forum": "Форум"
+    "forum": "Форум",
+    "bitcointalkText": "Отзывы о нас в надежном мониторинге обменных валют",
+    "bitcointalkName": "Bitcointalk.org",
+    "kursexpertText": "Отзывы о нас в рейтинге надежных электронных обменников",
+    "kursexpertName": "КурсЕксперт",
+    "trustpilotText": "Отзывы о нас в",
+    "trustpilotName": "Trustpilot",
+    "showAll": "Смотреть все <br/> мониторинги"
   },
   "forbiddenPage": {
     "title": "Доступ в личный кабинет запрещен",

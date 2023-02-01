@@ -759,7 +759,7 @@
     "designation": "Ener number {{name}} and activation code. <br /> If you need add one code click <br /> «Add check»"
   },
   "instructionCoin": {
-    "designation": "After payment {{required}} click <br /> button \"I have paid\" for creating application:",
+    "designation": "After payment <strong>{{required}}</strong> click <br /> button \"I have paid\" for creating application:",
     "required": "necessarily "
   },
   "failurePayment": {
