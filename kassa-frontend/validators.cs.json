@@ -75,6 +75,7 @@
     "XMR": "Napsaly jste nesprávné Číslo peněženky Monero. Příklad: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j",
     "BCH": "Zadali jste nesprávné Číslo peněženky BCH. Příklad: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV,bitcoincash:qpc5s69rvur79205p4zqryjfwsh5utcdy5yldx9z3z",
     "ZEC": "Zadali jste nesprávné Číslo peněženky Zcash. Příklad: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz",
+    "TON": "Вы ввели неверный адрес кошелька Toncoin.",
     "NEO": "Zadali jste nesprávné Číslo peněženky Neo. Příklad: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte",
     "USDT": "You entered an incorrect Tether OMNI wallet number. Example: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU",
     "USDTERC": "You entered an incorrect Tether ERC20 wallet number. Example: 0x754d555efacc1a2446c0c897b0e8e43234d2575d",

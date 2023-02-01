@@ -61,6 +61,7 @@
     "ADVCEUR": "You have entered the wrong AdvCash EUR wallet number. The wallet number must match the pattern E 3005 2342 8775",
     "CARDRUB": "You entered the wrong сard number in Visa/MasterCard RUB, the card number must contain from 16 to 22 digits",
     "PRRUB": "You have entered the wrong Payeer RUB wallet. The wallet number must match the pattern P1234567, P1234567890",
+    "TON": "Вы ввели неверный адрес кошелька Toncoin.",
     "ADVCRUB": "You have entered the wrong AdvCash RUB wallet number. The wallet number must match the pattern R 3005 2342 8775",
     "OKUSD": "You have entered the wrong OKPay wallet number. The wallet number must match the pattern OK370835665",
     "DASH": "You have entered the wrong Dash wallet number. Example: \nXmzgzKSournZBFCG19ZHv3cFVamm6CwYcR",
