@@ -317,7 +317,7 @@
     "workTime": "Working hours",
     "mailSupport": "Support on mail:",
     "firstTitle": "Technical support",
-    "firstWorkTime": "from 07:00 to 23:00 (GMT +3)",
+    "firstWorkTime": "from 08:00 to 23:59 (GMT +3)",
     "firstChatLabel": "Online chat:",
     "openChat": "Exchange now",
     "firstRequestLabel": "Write to operator",
