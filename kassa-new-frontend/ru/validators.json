@@ -84,6 +84,7 @@
     "WAVES": "Вы ввели неверный Номер кошелька Waves. Пример: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
     "CARDEUR": "Вы ввели неверный Номер карты Visa/Mastercard EUR, номер карты должен содержать 16 - 22 цифр",
     "USDTTRC20": "Вы ввели неверный Номер кошелька Tether TRC20. Пример: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
+    "USDTBEP20": "Вы ввели неверный Номер кошелька Tether BEP20",
     "DOGE": "Вы ввели неверный Номер кошелька Dogecoin. Пример: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
     "DOT": "Вы ввели неверный Номер кошелька Polkadot. Пример: 15m4QTNSUrpuoTQzLaeSJisy7dEUs9Jc8z22W4kQKvUeoUjb",
     "XLM": "Вы ввели неверный Номер кошелька Stellar (XLM). Пример: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, не забудьте указать MEMO",
