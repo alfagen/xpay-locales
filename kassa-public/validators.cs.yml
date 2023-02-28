@@ -12,6 +12,8 @@ cs:
     old_rate: 'Kurz se změnil. Vytvořte nový požadavek'
     old_rate2: 'Kurz zastaral. Vytvořte nový požadavek'
     unavailable_locale: 'Jazyk není podporován'
+    kyt:
+      failed: 'Vaše peněženka nesplňuje požadavky KYT, kontaktujte technickou podporu v chatu'
 
   validators:
     phone_validator:

@@ -12,6 +12,8 @@ en:
     old_rate: 'The course has changed. Create a new ticket'
     old_rate2: 'The course has changed. Create a new ticket'
     unavailable_locale: 'Language unavailable'
+    kyt:
+      failed: 'Your wallet does not pass the KYT requirements, contact technical support in the chat'
 
   validators:
     phone_validator:
