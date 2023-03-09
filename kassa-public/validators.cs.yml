@@ -61,6 +61,8 @@ cs:
         USDT: 'You have entered the wrong Tether OMNI wallet number. Example: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU'
         USDTERC: 'You have entered the wrong Tether ERC20 wallet number. Example: 0x754d555efacc1a2446c0c897b0e8e43234d2575d'
         CARDEUR: 'You entered the wrong сard number Visa/MasterCard EUR, the card number must contain 16 - 18 digits'
+        UZCUZS: 'You entered the wrong сard number UZCARD, the card number must contain 16 - 18 digits'
+        HUMOUZS: 'You entered the wrong сard number HUMO, the card number must contain 16 - 18 digits'
         TON: 'Вы ввели неверный адрес кошелька Toncoin.'
         EOS: 'You have entered the wrong EOS wallet number. Example: EOS8dUSkq29YwV3DueZeqr7Bpw1nyLEbquqFqiW5D95ijV7LQARoN'
         XEM: 'You have entered the wrong NEM wallet number. Example: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY'
