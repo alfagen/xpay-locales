@@ -70,6 +70,8 @@
     "HLKBKZT": "You have entered the wrong Halyk Bank card number, the card number must contain 16 - 18 digits",
     "FRTBKZT": "You have entered the wrong Forte Bank card number, the card number must contain 16 - 18 digits",
     "CARDKZT": "You have entered the wrong Visa/Mastercard KZT number, the card number must contain 16 - 22 digits",
+    "HUMOUZS": "You have entered the wrong HUMO card, the card number must contain 16 - 22 digits",
+    "UZCUZS": "You have entered the wrong UZCARD card, the card number must contain 16 - 22 digits",
     "XRP": "You have entered the wrong Ripple wallet number. Example: \n50dc2d6de07e8c76ab25a2cca4b4a9bf9f",
     "ETC": "You have entered the wrong Ethereum Classic wallet number. Example: 0x0C93dCc706A5A33DD61A620444EB0B20D4c26754",
     "XMR": "You have entered the wrong Monero wallet number. Example: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j",
