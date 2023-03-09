@@ -83,6 +83,8 @@
     "TRX": "Вы ввели неверный Номер кошелька Tron. Пример: TQ4JxJYyVG7ACEhkAxBKv1Y4WjUuAAroMt",
     "WAVES": "Вы ввели неверный Номер кошелька Waves. Пример: 3PGqbTfzqt4f6SknevzdADxvEj5p4xiKw7i",
     "CARDEUR": "Вы ввели неверный Номер карты Visa/Mastercard EUR, номер карты должен содержать 16 - 22 цифр",
+    "HUMOUZS": "Вы ввели неверный Номер карты HUMO, номер карты должен содержать 16 - 22 цифр",
+    "UZCUZS": "Вы ввели неверный Номер карты UZCARD, номер карты должен содержать 16 - 22 цифр",
     "USDTTRC20": "Вы ввели неверный Номер кошелька Tether TRC20. Пример: TDFeTz2ApzrERVuMmAcJGR2tuMVSGMGumu",
     "USDTBEP20": "Вы ввели неверный Номер кошелька Tether BEP20",
     "DOGE": "Вы ввели неверный Номер кошелька Dogecoin. Пример: DJvQJT54oZpAqfJib7MqxjLDGbsVveEXMU",
