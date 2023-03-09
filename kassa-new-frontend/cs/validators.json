@@ -70,6 +70,8 @@
     "HLKBKZT": "Zadali jste nesprávné číslo karty Halyk Bank. Číslo karty musí obsahovat 16-18 číslic.",
     "FRTBKZT": "Zadali jste nesprávné číslo karty Forte Bank. Číslo karty musí obsahovat 16-18 číslic.",
     "CARDKZT": "Zadali jste nesprávné číslo karty Visa/MasterCard KZT. Číslo karty musí obsahovat 16 - 22 číslic.",
+    "HUMOUZS": "You have entered the wrong HUMO card, the card number must contain 16 - 22 digits",
+    "UZCUZS": "You have entered the wrong UZCARD card, the card number must contain 16 - 22 digits",
     "XRP": "Zadali jste nesprávné číslo peněženky Ripple. Příklad: 50dc2d6de07e8c76ab25a2cca4b4a9bf9f",
     "ETC": "Zadali jste nesprávné číslo Ethereum Classic peněženky. Příklad: 0x0C93dCc706A5A33DD61A620444EB0B20D4c26754",
     "XMR": "Napsaly jste nesprávné Číslo peněženky Monero. Příklad: 46R22YTm8hJbXmxy6i932NNQ3ddBimFSmVLbXDT1iFQyDfY1FLCSmi5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42mKo4j",
