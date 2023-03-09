@@ -240,4 +240,14 @@ en:
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+      uzcuzs:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+      humouzs:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
      
