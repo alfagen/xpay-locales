@@ -12,6 +12,8 @@ en:
     old_rate: 'The course has changed. Create a new ticket'
     old_rate2: 'The course has changed. Create a new ticket'
     unavailable_locale: 'Language unavailable'
+    kyt:
+      failed: 'Your wallet does not pass the KYT requirements, contact technical support in the chat'
 
   validators:
     phone_validator:
@@ -24,20 +26,20 @@ en:
         default: "Wrong wallet address"
         PMUSD: "You have entered the wrong Purple Money wallet number. The purse number must match the template U1234567"
         PMEUR: "You have entered the wrong Purple Money wallet number. The purse number must match the template E123456"
-        SBERRUB: "You entered the wrong Sberbank card number, the card number must contain 16 - 18 digits"
-        TCSBRUB: "You have entered the wrong Tinkoff card number, the card number must contain 16 digits"
+        SBERRUB: "You entered the wrong Sberbank card number, the card number must contain 16 - 18 digits, to exchange with the MIR card - select the direction Карта МИР"
+        TCSBRUB: "You have entered the wrong Tinkoff card number, the card number must contain 16 digits, to exchange with the MIR card - select the direction Карта МИР"
         YAMRUB: 'You have entered the incorrect Yandex.Money wallet number. The wallet should contain from 10 to 16 digits'
         QWRUB: 'You entered an incorrect QIWI wallet number. The wallet number must match the pattern of +7 999 777 66 11'
         TBRUB: 'You entered an incorrect account number in Telebank, the account number must contain 20 digits'
         BTC: 'You have entered the incorrect BTC wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV'
-        ACRUB: 'You entered the wrong Alfa bank card number, the card number must contain 16 - 18 digits'
+        ACRUB: 'You entered the wrong Alfa bank card number, the card number must contain 16 - 18 digits, to exchange with the MIR card - select the direction Карта МИР'
         PRUSD: 'You have entered the wrong Payeer wallet number. The purse number must match the template P1234567, P1234567890'
         PREUR: 'You have entered the wrong Payeer wallet number. The purse number must match the template P1234567, P1234567890'
         LTC: 'You entered an incorrect LiteCoin wallet number. Example: Lchanger9aqdHS5KKFz322FVH74LnzkoYJ'
         ETH: 'You have entered the wrong Ethereum wallet number. Example: 0x54065a7b2b86274D52A755F73E534DcD7d522886'
         ADVCUSD: 'You have entered the wrong AdvCash USD wallet number. The wallet number must match the pattern U 3005 2342 8775'
         ADVCEUR: 'You have entered the wrong AdvCash EUR wallet number. The wallet number must match the pattern E 3005 2342 8775'
-        CARDRUB: 'You entered the wrong сard number in Visa/MasterCard RUB, the card number must contain from 16 to 22 digits'
+        CARDRUB: 'You entered the wrong сard number in Visa/MasterCard RUB, the card number must contain from 16 to 22 digits, to exchange with the MIR card - select the direction Карта МИР'
         PRRUB: 'You have entered the wrong Payeer RUB wallet. The wallet number must match the pattern P1234567, P1234567890'
         ADVCRUB: 'You have entered the wrong AdvCash RUB wallet number. The wallet number must match the pattern R 3005 2342 8775'
         OKUSD: 'You have entered the wrong OKPay wallet number. The wallet number must match the pattern OK370835665'
@@ -55,10 +57,12 @@ en:
         ZEC: 'You have entered the wrong Zcash wallet number. Example: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz'
         NEO: 'You have entered the wrong Neo wallet number. Example: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte'
         P24UAH: 'You entered the wrong сard number Privat24, the card number must contain 16 - 18 digits'
-        CARDUAH: 'You entered the wrong сard number in Visa/MasterCard UAH, the card number must contain 16 - 18 digits'
+        CARDUAH: 'You entered the wrong сard number in Visa/MasterCard UAH, the card number must contain 16 - 18 digits, transfers by Privat24 cards are temporarily unavailable'
         USDT: 'You have entered the wrong Tether OMNI wallet number. Example: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU'
         USDTERC: 'You have entered the wrong Tether ERC20 wallet number. Example: 0x754d555efacc1a2446c0c897b0e8e43234d2575d'
         CARDEUR: 'You entered the wrong сard number Visa/MasterCard EUR, the card number must contain 16 - 18 digits'
+        UZCUZS: 'You entered the wrong сard number UZCARD, the card number must contain 16 - 18 digits'
+        HUMOUZS: 'You entered the wrong сard number HUMO, the card number must contain 16 - 18 digits'
         EOS: 'You have entered the wrong EOS wallet number. Example: EOS8dUSkq29YwV3DueZeqr7Bpw1nyLEbquqFqiW5D95ijV7LQARoN'
         TON: 'Вы ввели неверный адрес кошелька Toncoin.'
         XEM: 'You have entered the wrong NEM wallet number. Example: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY'

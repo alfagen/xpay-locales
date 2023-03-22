@@ -12,6 +12,8 @@ cs:
     old_rate: 'Kurz se změnil. Vytvořte nový požadavek'
     old_rate2: 'Kurz zastaral. Vytvořte nový požadavek'
     unavailable_locale: 'Jazyk není podporován'
+    kyt:
+      failed: 'Vaše peněženka nesplňuje požadavky KYT, kontaktujte technickou podporu v chatu'
 
   validators:
     phone_validator:
@@ -24,20 +26,20 @@ cs:
         default: "Nesprávná adresa peněženky"
         PMUSD: "Zadali jste nesprávné číslo peněženky Perfect Money. Číslo peněženky musí odpovídat šabloně U1234567"
         PMEUR: "Zadali jste nesprávné číslo peněženky Perfect Money. Číslo peněženky musí odpovídat šabloně E123456"
-        SBERRUB: "Napsaly jste nesprávné Číslo karty Sberbanku, číslo karty musí obsahovat 16 - 18 číslic"
-        TCSBRUB: "Zadali jste nesprávné číslo karty Tinkoff. Číslo karty musí obsahovat 16 číslic."
+        SBERRUB: "Napsaly jste nesprávné Číslo karty Sberbanku, číslo karty musí obsahovat 16 - 18 číslic, to exchange with the MIR card - select the direction Карта МИР"
+        TCSBRUB: "Zadali jste nesprávné číslo karty Tinkoff. Číslo karty musí obsahovat 16 číslic, to exchange with the MIR card - select the direction Карта МИР"
         YAMRUB: 'Zadali jste nesprávné číslo peněženky Yandex.Money. Peněženka musí obsahovat od 10 do 16 číslic.'
         QWRUB: 'Zadali jste nesprávné číslo peněženky QIWI. Číslo peněženky musí odpovídat šabloně +7 999 777 66 11'
         TBRUB: 'Zadali jste nesprávné číslo účtu v Telebanku. Číslo účtu musí obsahovat 20 číslic.'
         BTC: 'Zadali jste nesprávné číslo BTC peněženky. Příklad: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV'
-        ACRUB: 'Zadali jste nesprávné číslo karty Alfa Bank. Číslo karty musí obsahovat 16 - 18 číslic.'
+        ACRUB: 'Zadali jste nesprávné číslo karty Alfa Bank. Číslo karty musí obsahovat 16 - 18 číslic, to exchange with the MIR card - select the direction Карта МИР'
         PRUSD: 'Zadali jste nesprávné Číslo peněženky Payeer. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890'
         PREUR: 'Zadali jste nesprávné Číslo peněženky Payeer. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890'
         LTC: 'Zadali jste nesprávné číslo Litecoin peněženky. Příklad: Lchanger9aqdHS5KKFz322FVH74LnzkoYJ'
         ETH: 'Zadali jste nesprávné číslo Ethereum peněženky. Příklad: 0x54065a7b2b86274D52A755F73E534DcD7d522886'
         ADVCUSD: 'Zadali jste nesprávné číslo peněženky AdvCash USD. Číslo peněženky musí odpovídat šabloně U 3005 2342 8775'
         ADVCEUR: 'Zadali jste nesprávné číslo peněženky AdvCash EUR. Číslo peněženky musí odpovídat šabloně E 3005 2342 8775'
-        CARDRUB: 'Zadali jste nesprávné Číslo karty Visa/MasterCard RUB, číslo karty musí obsahovat od 16 do 22 číslic'
+        CARDRUB: 'Zadali jste nesprávné Číslo karty Visa/MasterCard RUB, číslo karty musí obsahovat od 16 do 22 číslic, to exchange with the MIR card - select the direction Карта МИР'
         PRRUB: 'Zadali jste nesprávné Číslo peněženky Payeer RUB. Číslo peněženky musí odpovídat šabloně P1234567, P1234567890'
         ADVCRUB: 'Zadali jste nesprávné Číslo peněženky AdvCash RUB. Číslo peněženky musí odpovídat šabloně R 3005 2342 8775'
         OKUSD: 'Zadali jste nesprávné číslo peněženky OKPay. Číslo peněženky musí odpovídat šabloně OK370835665'
@@ -55,10 +57,12 @@ cs:
         ZEC: 'Zadali jste nesprávné Číslo peněženky Zcash. Příklad: t1ZsYjAFddSMi5sKZntMCur3rxjhTnUBuwz'
         NEO: 'Zadali jste nesprávné Číslo peněženky Neo. Příklad: AeSvadFBSFLuL4jCP52itaN9T3LsT8tNte'
         P24UAH: 'Zadali jste nesprávné číslo karty Privat24, Číslo karty musí obsahovat 16-18 číslic.'
-        CARDUAH: 'Zadali jste nesprávné číslo karty Visa/MasterCard UAH, Číslo karty musí obsahovat 16-18 číslic.'
+        CARDUAH: 'Zadali jste nesprávné číslo karty Visa/MasterCard UAH, Číslo karty musí obsahovat 16-18 číslic, transfers by Privat24 cards are temporarily unavailable'
         USDT: 'You have entered the wrong Tether OMNI wallet number. Example: 16KFCwBeLvJQQGgMLdaPNXHVmpUFWzHgpU'
         USDTERC: 'You have entered the wrong Tether ERC20 wallet number. Example: 0x754d555efacc1a2446c0c897b0e8e43234d2575d'
         CARDEUR: 'You entered the wrong сard number Visa/MasterCard EUR, the card number must contain 16 - 18 digits'
+        UZCUZS: 'You entered the wrong сard number UZCARD, the card number must contain 16 - 18 digits'
+        HUMOUZS: 'You entered the wrong сard number HUMO, the card number must contain 16 - 18 digits'
         TON: 'Вы ввели неверный адрес кошелька Toncoin.'
         EOS: 'You have entered the wrong EOS wallet number. Example: EOS8dUSkq29YwV3DueZeqr7Bpw1nyLEbquqFqiW5D95ijV7LQARoN'
         XEM: 'You have entered the wrong NEM wallet number. Example: NAMOAV-HFVPJ6-FP32YP-2GCM64-WSRMKX-A5KKYW-WHPY'

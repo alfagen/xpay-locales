@@ -244,4 +244,15 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
+      uzcuzs:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты
+      humouzs:
+        income_account: Номер карты, 16 цифр
+        income_account_label: Номер карты
+        outcome_account: Номер карты, 16 цифр
+        outcome_account_label: Номер карты  
+        
  
