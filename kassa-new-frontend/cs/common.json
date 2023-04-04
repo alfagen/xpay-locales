@@ -1,4 +1,11 @@
 {
+  "headerInfo": {
+    "notice": "Automatic exchange without verification",
+    "fullday": "24/7",
+    "tg": "@kassa.cc",
+    "mail": "support@kassa.cc",
+    "chat": "Support chat"
+  },
   "links": {
     "about": "O našich službách",
     "gifts": "Bonusy od našeho portálu",
