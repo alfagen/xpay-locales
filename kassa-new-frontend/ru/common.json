@@ -892,6 +892,8 @@
     "kursexpertName": "КурсЕксперт",
     "trustpilotText": "Отзывы о нас в",
     "trustpilotName": "Trustpilot",
+    "exnodeText": "Отзывы о нас на персональной странице мониторинга",
+    "exnodeName": "Exnode",
     "showAll": "Смотреть все <br/> мониторинги"
   },
   "forbiddenPage": {
