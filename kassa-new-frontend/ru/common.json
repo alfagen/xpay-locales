@@ -1,4 +1,11 @@
 {
+  "headerInfo": {
+    "notice": "Автоматический обмен без верификации",
+    "fullday": "Круглосуточно",
+    "tg": "@kassa.cc",
+    "mail": "support@kassa.cc",
+    "chat": "Написать в чат"
+  },
   "links": {
     "about": "О сервисе",
     "gifts": "Подарки от сайта",
@@ -885,6 +892,8 @@
     "kursexpertName": "КурсЕксперт",
     "trustpilotText": "Отзывы о нас в",
     "trustpilotName": "Trustpilot",
+    "exnodeText": "Отзывы о нас на персональной странице мониторинга",
+    "exnodeName": "Exnode",
     "showAll": "Смотреть все <br/> мониторинги"
   },
   "forbiddenPage": {
