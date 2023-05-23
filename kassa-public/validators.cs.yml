@@ -12,6 +12,7 @@ cs:
     old_rate: 'Kurz se změnil. Vytvořte nový požadavek'
     old_rate2: 'Kurz zastaral. Vytvořte nový požadavek'
     unavailable_locale: 'Jazyk není podporován'
+    wrong_maximal_outcome_amount: "Maximální přípustná částka výplaty %{amount}"
     kyt:
       failed: 'Vaše peněženka nesplňuje požadavky KYT, kontaktujte technickou podporu v chatu'
 
