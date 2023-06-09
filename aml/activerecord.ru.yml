@@ -98,4 +98,4 @@ ru:
 
   errors:
     messages:
-      extension_whitelist_error: "Неверный формат файла, должен быть %{allowed_types}"
+      extension_allowlist_error: "Неверный формат файла, должен быть %{allowed_types}"
