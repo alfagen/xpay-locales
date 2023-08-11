@@ -6,6 +6,15 @@
     "mail": "support@kassa.cc",
     "chat": "Support chat"
   },
+  "breadcrumbs": {
+    "main": "Main",
+    "instructions": "Instructions",
+    "partners": "Partners",
+    "news": "News",
+    "promotion": "Promotions",
+    "updating": "Updates",
+    "notify": "Notifications"
+  },
   "links": {
     "about": "About service",
     "gifts": "Gifts from website",
