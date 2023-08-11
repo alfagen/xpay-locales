@@ -16,6 +16,7 @@ ru:
     outcome_ps_not_enable: 'Исходящая платежная система %{payment_system} отключена'
     outcome_accrual_ps_not_enable: 'Запрещены выплаты вознаграждений через данную %{payment_system} платежную систему'
     unavailable_locale: 'Язык не поддерживается'
+    wrong_maximal_outcome_amount: "Максимальная разрешенная сумма для выплаты %{amount}"
     kyt:
       failed: 'Ваш кошелек не проходит по требованиям KYT, обратитесь в техническую поддержку в чате'
 
