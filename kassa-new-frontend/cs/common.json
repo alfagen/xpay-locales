@@ -173,13 +173,20 @@
     "notification": "Upozornění!",
     "emailLabel": "Uveďte Váš e-mail",
     "agree": "Souhlasím s {{link}}",
+    "condition": "basic account verification conditions",
     "agreeLink": "pravidly a podmínkami služby",
     "columnInput": "1. Převedete",
     "currencyInput": "Měna převodu:",
     "selectSystem": "Zvolte systém:",
     "columnOutput": "2. Obdržíte",
     "currencyOutput": "Měna pro obdržení:",
-    "currencyReserves": "Rezerva měny"
+    "currencyReserves": "Rezerva měny",
+    "fetchingCards": "Loading your cards...",
+    "addCard": "Link a new card",
+    "raiseStatus": "You need to increase your account status to select this direction. <br /> {{link}}",
+    "raiseStatusLink": "Upgrade the status",
+    "fixedRates": "This is fixed rate",
+    "tooltipNotice": "This is fixed rate, that is, after clicking on 'exchange now', the rate in the application does not change"
   },
   "settingForm": {
     "labelSurname": "Příjmení",
@@ -402,7 +409,9 @@
   },
   "newsPage": {
     "newsItemsEmpty": "Přehled novinek je prázdný",
-    "title": "Novinky"
+    "title": "Novinky",
+    "subscribe": "subscribe",
+    "social": "to us"
   },
   "News": {
     "archive": "Archiv novinek"
@@ -493,7 +502,13 @@
       "outcomePaymentSystem": "Cílový systém",
       "preview": "Zobrazit konečný vzhled widgetu",
       "view": "Konečný vzhled",
-      "code": "Kód widgetu"
+      "code": "Kód widgetu",
+      "orientation": "orientation",
+      "display": "display",
+      "from": "Payment system in",
+      "to": "Payment system out",
+      "showWidget": "Show widget",
+      "copy": "copy code"
     },
     "widget": "Widget",
     "title": "Propagační materiály",
@@ -728,7 +743,9 @@
     "countdown": "Platbu požadavku proveďte ve lhůtě {{countdown}}",
     "deadline": "Lhůta k zaplacení vypršela! Prosím {{replay}} <br /> dle aktuálního kurzu nebo <br /> {{support}} služby.",
     "replay": "zadejte požadavek znovu",
-    "support": "se obraťte na technickou podporu"
+    "support": "se obraťte na technickou podporu",
+    "KYTinfo": "We carefully conduct KYT verification of transactions",
+    "more": "more"
   },
   "reserve": {
     "topup": "Provést navýšení?"
@@ -811,7 +828,17 @@
     "trustpilotName": "Trustpilot",
     "exnodeText": "Reviews about us on the personal monitoring page",
     "exnodeName": "Exnode",
-    "showAll": "Show all"
+    "showAll": "Show all",
+    "links": {
+      "bestchange": "https://www.bestchange.com/kassa-exchanger.html",
+      "bitkointalk": "https://bitcointalk.org/index.php?topic=1574514.msg15806745#msg15806745&#10;&#9;&#9;&#9;",
+      "mmgp": "http://mmgp.ru/showthread.php?t=458503&amp;page=1#post11133201",
+      "kursexpert": "https://kurs.expert/ru/obmennik/kassa-cc/feedbacks.html",
+      "bitsmedia": "https://forum.bits.media/index.php?/topic/27575-kassacc-edinyi-obmen-valiut/&#10;&#9;&#9;&#9;",
+      "trusteeWallet": "https://trusteeglobal.com/ru/",
+      "trustpilot": "https://www.trustpilot.com/review/kassa.cc",
+      "exnode": "https://exnode.ru/exchangers/exchanger-375411/"
+    }
   },
   "forbiddenPage": {
     "title": "Vstup do Klientské zóny znemožněn",
@@ -903,6 +930,7 @@
     "categoriesTitle": "System categories:",
     "currentAccounts": "Express Exchange Accounts",
     "addAccount": "Add bank account",
+    "addNewCard": "Add new card",
     "statuses": {
       "none": "Upload a photo",
       "pending": "Waiting for verification",
@@ -1061,7 +1089,8 @@
     "formWarning": "Application processing time on average takes 2 hours, but can last up to 48 hours.",
     "formPlaceholderEmail": "E-mail",
     "formPlaceholderUrl": "Site URL",
-    "formPlaceholderCash": "Planned monthly turnover"
+    "formPlaceholderCash": "Planned monthly turnover",
+    "unavailable": "unavailable"
   },
   "metaTags": {
     "exchangePage": {
@@ -1072,6 +1101,54 @@
         "description": "Jednotná elekronická směnárna s kvalitním servisem. Provádíme směnu: Qiwi, BTC, Perfect Money, Payeer, Alpha Bank, Tinkoff, VTB 24",
         "image": "http://kassa.cc/images/main_og_image.jpg"
       }
+    }
+  },
+  "banners": {
+    "promotion": "Promotion",
+    "upTo": "up to",
+    "onlinePayments": "Online \n payments",
+    "service": "service"
+  },
+  "cardVerificationMW": {
+     "title": "Card Verification",
+     "first": "Enter card details",
+     "fio": "Name of the cardholder",
+     "number": "Card number",
+     "second": "Upload photo",
+     "plastic": "Plastic card",
+     "virtual": "Virtual card",
+     "send": "Send for moderation",
+     "plasticInstruction": {
+       "first": "open our site on your computer",
+       "second": "take a picture of your card against it so that the card numbers can be read",
+       "third": "upload resulting photo",
+       "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+     },
+    "virtualInstruction": {
+       "firstVariant": {
+         "title": "First way",
+         "first": "open the virtual card on your computer.",
+         "second": "in another window open our website (kassa.cc)",
+         "third": "zoom out one of the windows on the screen so that both windows can be photographed",
+         "fourth": "upload resulting photo",
+         "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+       },
+       "secondVariant": {
+         "title": "Second way",
+         "first": "open virtual card on phone",
+         "second": "open the site kassa.cc",
+         "third": "take a photo of the virtual card with the kassa.cc tab open in the background",
+         "fourth": "upload resulting photo",
+         "notice": "Important! The card numbers and owner's name must be read on the photo."
+       },
+       "thirdVariant": {
+         "title": "Third way",
+         "first": "open the virtual map on your phone or computer.",
+         "second": "write on a piece of paper the name of our site kassa.cc and today's date",
+         "third": "put a piece of paper on the screen and take a photo",
+         "fourth": "upload resulting photo",
+         "notice": "Important! The card numbers and owner's name must be read on the photo."
+       }
     }
   }
 }
