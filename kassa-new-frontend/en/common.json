@@ -1179,5 +1179,9 @@
          "notice": "Important! The card numbers and owner's name must be read on the photo."
        }
     }
+  },
+  "photoInput": {
+    "info": "Drop photo here \n or",
+    "upload": "download photo"
   }
 }
