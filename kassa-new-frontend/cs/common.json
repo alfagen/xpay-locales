@@ -6,6 +6,15 @@
     "mail": "support@kassa.cc",
     "chat": "Support chat"
   },
+  "breadcrumbs": {
+    "main": "Main",
+    "instructions": "Instructions",
+    "partners": "Partners",
+    "news": "News",
+    "promotion": "Promotions",
+    "updating": "Updates",
+    "notify": "Notifications"
+  },
   "links": {
     "about": "O našich službách",
     "gifts": "Bonusy od našeho portálu",
@@ -308,7 +317,9 @@
     "vk": "VKontakte",
     "twitter": "Twitter",
     "facebook": "Facebook",
-    "telegram": "Telegram"
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "odnoklassniki": "ok.ru"
   },
   "rest": {
     "news": "Zatím si můžete přečíst, co je u nás nového",
@@ -458,6 +469,7 @@
   },
   "promoPage": {
     "size": "Rozměry banneru:",
+    "sizeLogo": "Logo size:",
     "altBanner": "Banner",
     "notice": "V této oddílu jsme speciálně pro naše partnery a uživatele naší služby připravili několik variant našich bannerů. Všechny jsou zpracovány ve stylu naší značky a přizpůsobeny k reklamním účelům a k šíření po internetu. Každý banner již obsahuje Váš osobní partnerský odkaz. ",
     "subtitle": "Dostupné rozměry bannerů:",
@@ -770,22 +782,36 @@
     "help": "Pomoc"
   },
   "contactPage": {
-    "bestchange": "Naše recenze na stránkách provozovatele monitoringového systému {{bestchangeLink}}",
+    "bestchange": "Feedback about us on monitoring {{bestchangeLink}}",
     "bestchangeLink": "Bestchange.ru",
-    "bestchangeText": "Recenze o nás na osobní monitorovací stránce BestChange",
-    "bitsmedia": "Naše recenze na {{bitsmediaLink}}",
+    "bestchangeText": "Reviews about us on the personal monitoring page of BestChange",
+    "bestchangeName": "BestChange",
+    "bitsmedia": "Feedback on {{bitsmediaLink}}",
     "bitsmediaLink": "bits.media",
-    "bitcointalk": "Prohlédněte si {{bitcointalkLink}}",
-    "bitcointalkLink": "naše recenze na bitcointalk.org",
-    "mmgp": "Seznamte se s recenzemi na {{mmgpLink}} a zanechte nám svoji!",
+    "bitcointalk": "Check out with {{bitcointalkLink}}",
+    "bitcointalkLink": "feddback on bitcointalk.org",
+    "bitcointalkText": "Reviews about us on the trusted exhanges monitoring",
+    "bitcointalkName": "Bitcointalk.org",
+    "mmgp": "Check out with feedbacks and write its on {{mmgpLink}}",
     "mmgpLink": "MMGP.ru",
-    "mmgpText": "Recenze o nás ve vlákně fóra o příjmech MMGP",
-    "reviews": "Vaše podpora je pro nás velmi důležitá a jakákoli Vaše recenze nám pomůže lépe dělat naši práci! Děkujeme, že jste si vybrali právě nás!",
-    "reviewsOn": "Naše recenze na",
-    "monitoring": "Monitorování",
-    "exnodeText": "Recenze o nás na osobní monitorovací stránce",
+    "mmgpName": "MMGP",
+    "mmgpText": "Reviews about us in the forum thread on MMGP earnings",
+    "reviews": "Your support is very important for us and every your feedback will help us getting better! Thank you for choosing us!",
+    "reviewsOn": "Feedback on",
+    "monitoring": "Monitoring",
+    "exnodeText": "Reviews about us on the personal monitoring page of",
     "exnodeName": "Exnode",
-    "forum": "Fórum"
+    "forum": "Forum",
+    "trusteeWalletLink": "Trusteeglobal.com",
+    "trusteeWalletText": "Our partner - non-custodial crypto wallet-exchanger.",
+    "trusteeWalletName": "Trusteeglobal.com",
+    "kursexpertText": "Reviews about us on the trusted exhanges monitoring",
+    "kursexpertName": "KursExpert",
+    "trustpilotText": "Reviews about us on the",
+    "trustpilotName": "Trustpilot",
+    "exnodeText": "Reviews about us on the personal monitoring page",
+    "exnodeName": "Exnode",
+    "showAll": "Show all"
   },
   "forbiddenPage": {
     "title": "Vstup do Klientské zóny znemožněn",

@@ -6,6 +6,15 @@
     "mail": "support@kassa.cc",
     "chat": "Support chat"
   },
+  "breadcrumbs": {
+    "main": "Main",
+    "instructions": "Instructions",
+    "partners": "Partners",
+    "news": "News",
+    "promotion": "Promotions",
+    "updating": "Updates",
+    "notify": "Notifications"
+  },
   "links": {
     "about": "About service",
     "gifts": "Gifts from website",
@@ -340,7 +349,9 @@
     "vk": "VKontakte",
     "twitter": "Twitter",
     "facebook": "Facebook",
-    "telegram": "Telegram"
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "odnoklassniki": "ok.ru"
   },
   "rest": {
     "news": "And while read news",
@@ -491,6 +502,7 @@
   },
   "promoPage": {
     "size": "Banner size:",
+    "sizeLogo": "Logo size:",
     "altBanner": "Banner",
     "notice": "In this section special for partners and users of our service we have prepared several optiions of banners. They stylized under our brand and convenient for promotional and dissemination in the internet.",
     "subtitle": "Aviable banner size:",
@@ -806,19 +818,33 @@
     "bestchange": "Feedback about us on monitoring {{bestchangeLink}}",
     "bestchangeLink": "Bestchange.ru",
     "bestchangeText": "Reviews about us on the personal monitoring page of BestChange",
+    "bestchangeName": "BestChange",
     "bitsmedia": "Feedback on {{bitsmediaLink}}",
     "bitsmediaLink": "bits.media",
     "bitcointalk": "Check out with {{bitcointalkLink}}",
     "bitcointalkLink": "feddback on bitcointalk.org",
+    "bitcointalkText": "Reviews about us on the trusted exhanges monitoring",
+    "bitcointalkName": "Bitcointalk.org",
     "mmgp": "Check out with feedbacks and write its on {{mmgpLink}}",
     "mmgpLink": "MMGP.ru",
+    "mmgpName": "MMGP",
     "mmgpText": "Reviews about us in the forum thread on MMGP earnings",
     "reviews": "Your support is very important for us and every your feedback will help us getting better! Thank you for choosing us!",
     "reviewsOn": "Feedback on",
     "monitoring": "Monitoring",
     "exnodeText": "Reviews about us on the personal monitoring page of",
     "exnodeName": "Exnode",
-    "forum": "Forum"
+    "forum": "Forum",
+    "trusteeWalletLink": "Trusteeglobal.com",
+    "trusteeWalletText": "Our partner - non-custodial crypto wallet-exchanger.",
+    "trusteeWalletName": "Trusteeglobal.com",
+    "kursexpertText": "Reviews about us on the trusted exhanges monitoring",
+    "kursexpertName": "KursExpert",
+    "trustpilotText": "Reviews about us on the",
+    "trustpilotName": "Trustpilot",
+    "exnodeText": "Reviews about us on the personal monitoring page",
+    "exnodeName": "Exnode",
+    "showAll": "Show all"
   },
   "forbiddenPage": {
     "title": "Access to your account is denied",
