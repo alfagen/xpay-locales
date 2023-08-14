@@ -349,7 +349,9 @@
     "vk": "VKontakte",
     "twitter": "Twitter",
     "facebook": "Facebook",
-    "telegram": "Telegram"
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "odnoklassniki": "ok.ru"
   },
   "rest": {
     "news": "And while read news",
