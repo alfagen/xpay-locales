@@ -245,6 +245,7 @@
     "notification": "Уведомление!",
     "emailLabel": "Введите Ваш e-mail",
     "agree": "Я согласен с {{link}}",
+    "condition": "условиями базовой проверки аккаунта",
     "agreeLink": "условиями и правилами сервиса",
     "columnInput": "1. Отдаёте",
     "currencyInput": "Валюта отдачи:",
@@ -255,7 +256,9 @@
     "fetchingCards": "Загружаем ваши карты...",
     "addCard": "Привязать новую карту",
     "raiseStatus": "Для выбора данного направления вам необходимо повысить ваш статус аккаунта.<br />{{link}}",
-    "raiseStatusLink": "Повысить статус"
+    "raiseStatusLink": "Повысить статус",
+    "fixedRates": "У нас фиксированный курс",
+    "tooltipNotice": "У нас фиксированный курс, то есть после клика на 'обменять сейчас' курс в заявке не меняется"
   },
   "settingForm": {
     "labelSurname": "Фамилия",
@@ -480,7 +483,9 @@
   },
   "newsPage": {
     "newsItemsEmpty": "Список новостей пуст",
-    "title": "Актуальные новости"
+    "title": "Актуальные новости",
+    "subscribe": "Подпишитесь",
+    "social": "на социальные сети"
   },
   "News": {
     "archive": "Архив новостей"
@@ -571,7 +576,13 @@
       "outcomePaymentSystem": "Система в которую",
       "preview": "Показать внешний вид виджета",
       "view": "Внешний вид",
-      "code": "Код виджета"
+      "code": "Код виджета",
+      "orientation": "Ориентация",
+      "display": "Отображение",
+      "from": "Система из которой",
+      "to": "Система в которую",
+      "showWidget": "Показать внешний вид виджета",
+      "copy": "Скопировать код"
     },
     "widget": "Виджет",
     "title": "Промо материалы",
@@ -813,7 +824,9 @@
     "deadline_second": "по-актуальному курсу или",
     "deadline_last": "сервиса.",
     "replay": "создайте заявку повторно",
-    "support": "обратитесь в службу поддержки"
+    "support": "обратитесь в службу поддержки",
+    "KYTinfo": "Мы бережно проводим KYT проверку транзакций",
+    "more": "подробнее"
   },
   "reserve": {
     "topup": "Пополнить?"
@@ -903,7 +916,17 @@
     "trustpilotName": "Trustpilot",
     "exnodeText": "Отзывы о нас на персональной странице мониторинга",
     "exnodeName": "Exnode",
-    "showAll": "Смотреть все <br/> мониторинги"
+    "showAll": "Смотреть все <br/> мониторинги",
+    "links": {
+      "bestchange": "https://www.bestchange.net/kassa-exchanger.html",
+      "bitkointalk": "https://bitcointalk.org/index.php?topic=1574514.msg15806745#msg15806745&#10;&#9;&#9;&#9;",
+      "mmgp": "http://mmgp.ru/showthread.php?t=458503&amp;page=1#post11133201",
+      "kursexpert": "https://kurs.expert/ru/obmennik/kassa-cc/feedbacks.html",
+      "bitsmedia": "https://forum.bits.media/index.php?/topic/27575-kassacc-edinyi-obmen-valiut/&#10;&#9;&#9;&#9;",
+      "trusteeWallet": "https://trusteeglobal.com/ru/",
+      "trustpilot": "https://www.trustpilot.com/review/kassa.cc",
+      "exnode": "https://exnode.ru/exchangers/exchanger-375411/"
+    }
   },
   "forbiddenPage": {
     "title": "Доступ в личный кабинет запрещен",
@@ -995,6 +1018,7 @@
     "categoriesTitle": "Категории систем:",
     "currentAccounts": "Счета для экспресс-обмена",
     "addAccount": "Добавить счет",
+    "addNewCard": "Добавить новую карту",
     "statuses": {
       "none": "Загрузите фото",
       "pending": "Ожидание верификации",
@@ -1158,7 +1182,8 @@
     "formWarning": "Время обработки заявки в среднем занимает 2 часа, но может продлиться до 48 часов.",
     "formPlaceholderEmail": "E-mail",
     "formPlaceholderUrl": "URL вашего сайта",
-    "formPlaceholderCash": "Планируемый оборот в месяц"
+    "formPlaceholderCash": "Планируемый оборот в месяц",
+    "unavailable": "Временно не доступно"
   },
   "metaTags": {
     "exchangePage": {
@@ -1168,6 +1193,54 @@
         "title": "Kassa.cc - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин",
         "description": "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек",
         "image": "http://kassa.cc/images/main_og_image.jpg"
+      }
+    }
+  },
+  "banners": {
+    "promotion": "Розыгрыш",
+    "upTo": "до",
+    "onlinePayments": "Эквайринг \nдля бизнеса",
+    "service": "обслуживание"
+  },
+  "cardVerificationMW": {
+    "title": "Верификация карты",
+    "first": "Введите данные карты",
+    "fio": "ФИО владельца карты",
+    "number": "Номер карты",
+    "second": "Загрузите фото",
+    "plastic": "Пластиковая карта",
+    "virtual": "Виртуальная карта",
+    "send": "Отправить на модерацию",
+    "plasticInstruction": {
+      "first": "откройте на компьютере наш сайт",
+      "second": "cфоткайте на его фоне свою карту так, чтобы читались номера карты",
+      "third": "загрузите получившееся фото",
+      "notice": "Важно! чтобы на фото читались номера карты и имя владельца. На заднем фоне за картой должна быть видна открытая вкладка с сайтом kassa.сс"
+    },
+    "virtualInstruction": {
+      "firstVariant": {
+        "title": "Первый способ",
+        "first": "откройте виртуальную карту на компьютере.",
+        "second": "в другом окне откройте наш сайт (kassa.cc)",
+        "third": "уменьшьте одно из окон на экране так, чтобы можно было сфотографировать оба окна",
+        "fourth": "загрузите получившееся фото",
+        "notice": "Важно! чтобы на фото читались номера карты и имя владельца. На заднем фоне за картой должна быть видна открытая вкладка с сайтом kassa.сс"
+      },
+      "secondVariant": {
+        "title": "Второй способ",
+        "first": "откройте виртуальную карту на телефоне",
+        "second": "откройте сайт kassa.cc",
+        "third": "сделайте фото виртуальной карты на фоне с открытой вкладкой kassa.cc",
+        "fourth": "загрузите получившееся фото",
+        "notice": "Важно! чтобы на фото читались номера карты и имя владельца."
+      },
+      "thirdVariant": {
+        "title": "Третий способ",
+        "first": "откройте виртуальную карту на телефоне или компьютере.",
+        "second": "напишите на листочке название нашего сайта kassa.cc и сегодняшную дату",
+        "third": "приложите листочек к экрану и сделайте фото",
+        "fourth": "загрузите получившееся фото",
+        "notice": "Важно! чтобы на фото читались номера карты и имя владельца."
       }
     }
   }
