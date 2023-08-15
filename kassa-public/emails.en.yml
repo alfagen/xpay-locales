@@ -90,6 +90,7 @@ en:
       button: Confirm the output
     new_tickets:
       title: Your application is accepted!
+      preliminary_order_title: Your application has been created!
       create_order: Dear Customer, You have created an application number <b>№%{order_id}</b>.
       create_output_order: Dear Customer, You have created an application for the withdrawal
         of wages No. <b>№%{order_id}</b>.
