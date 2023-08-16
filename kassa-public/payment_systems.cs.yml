@@ -290,7 +290,7 @@ cs:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
-     sberkzt:
+      sberkzt:
         income_account: Card number, 16 digits
         income_account_label: Card number
         outcome_account: Card number, 16 digits
