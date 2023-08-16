@@ -59,6 +59,10 @@ cs:
         income_account_label: Sberbank card number
         outcome_account: Sberbank card number, 16-18 digits
         outcome_account_label: Sberbank card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       yamrub:
         income_account: Yandex.Money wallet, 10-16 digits
         income_account_label: Yandex.Money wallet, 10-16 digits
@@ -147,26 +151,46 @@ cs:
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       acrub:
         income_account: Card number Alfa bank, 16 digits
         income_account_label: Card number Alfa bank
         outcome_account: Card number Alfa bank, 16 digits
         outcome_account_label: Card number Alfa bank
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       tcsbrub:
         income_account: Card number Tinkoff bank, 16 digits
         income_account_label: Card number Tinkoff bank
         outcome_account: Card number Tinkoff bank, 16 digits
         outcome_account_label: Card number Tinkoff bank
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       p24uah:
         income_account: Card number Privat bank, 16 digits
         income_account_label: Card number Privat bank
         outcome_account: Card number Privat bank, 16 digits
         outcome_account_label: Card number Privat bank
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       carduah:
         income_account: Card number, 16 digits
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       cardeur:
         income_account: Card number, 16 digits
         income_account_label: Card number
@@ -174,6 +198,10 @@ cs:
         outcome_account_label: Card number
         outcome_operator: Date of Birth (01.12.1980)
         outcome_operator_label: Date of Birth (01.12.1980)
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       usdt:
         outcome_account: Tether OMNI address
         outcome_account_label: Tether OMNI address
@@ -240,13 +268,70 @@ cs:
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number 
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       uzcuzs:
         income_account: Card number, 16 digits
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
       humouzs:
         income_account: Card number, 16 digits
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+     sberkzt:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      kkbkzt:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      hlkbkzt:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      frtbkzt:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      cardkzt:
+        income_account: Card number, 16 digits
+        income_account_label: Card number
+        outcome_account: Card number, 16 digits
+        outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
