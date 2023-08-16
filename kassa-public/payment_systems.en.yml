@@ -172,6 +172,10 @@ en:
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
         outcome_operator: Date of Birth (01.12.1980)
         outcome_operator_label: Date of Birth (01.12.1980)
       usdt:
