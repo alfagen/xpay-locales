@@ -229,6 +229,8 @@ ru:
       ton:
         outcome_account: Кошелек Toncoin
         outcome_account_label: Кошелек Toncoin
+        outcome_fio: Memo получателя (Invoice)
+        outcome_fio_label: Memo получателя (Invoice)
       bnbbep2:
         outcome_account: Кошелек BNB BEP 2
         outcome_account_label: Кошелек BNB BEP 2
