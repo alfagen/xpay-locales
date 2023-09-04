@@ -247,6 +247,8 @@ en:
       ton:
         outcome_account: Toncoin address
         outcome_account_label: Toncoin address
+        outcome_fio: Memo (Invoice)
+        outcome_fio_label: Memo (Invoice)
       doge:
         outcome_account: Doge address
         outcome_account_label: Doge address
