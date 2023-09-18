@@ -12,6 +12,7 @@
   },
   "menu": {
     "exchange": "Обмен",
+    "wallet": "Кошелек",
     "orders": "Заявки",
     "profile": " Профиль"
   },
