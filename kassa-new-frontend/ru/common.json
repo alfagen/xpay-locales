@@ -811,7 +811,8 @@
     "wallet": "Кошелек",
     "sum": "Сумма",
     "invoiceId": "Обязательно укажите invoice id",
-    "invoiceIdXrp": "Обязательно укажите Destination Tag"
+    "invoiceIdXrp": "Обязательно укажите Destination Tag",
+    "destinationBank": "Банк назначения"
   },
   "instructionData": {
     "hideData": "Скрыть данные реквизитов обмена",
