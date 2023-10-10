@@ -15,6 +15,7 @@ cs:
     wrong_maximal_outcome_amount: "Maximální přípustná částka výplaty %{amount}"
     kyt:
       failed: 'Vaše peněženka nesplňuje požadavky KYT, kontaktujte technickou podporu v chatu'
+    forbidden_account_number: Tyto podrobnosti jsou na černé listině
 
   validators:
     phone_validator:

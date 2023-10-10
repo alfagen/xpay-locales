@@ -19,6 +19,7 @@ ru:
     wrong_maximal_outcome_amount: "Максимальная разрешенная сумма для выплаты %{amount}"
     kyt:
       failed: 'Ваш кошелек не проходит по требованиям KYT, обратитесь в техническую поддержку в чате'
+    forbidden_account_number: Эти реквизиты находятся в черном списке
 
   validators:
     phone_validator:
