@@ -238,6 +238,7 @@
     "linkToSetting": "Настройки сохранения кошельков"
   },
   "exform": {
+    "textCopied": "Текст скопирован",
     "exchangeNow": "Обменять сейчас",
     "columnData": "3. Ввод данных",
     "rateExchange": "Обмен по курсу:",
