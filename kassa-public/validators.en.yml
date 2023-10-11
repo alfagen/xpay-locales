@@ -15,6 +15,7 @@ en:
     wrong_maximal_outcome_amount: "Maximum allowable payout amount %{amount}"
     kyt:
       failed: 'Your wallet does not pass the KYT requirements, contact technical support in the chat'
+    forbidden_account_number: These requisites are on the blacklist
 
   validators:
     phone_validator:
