@@ -225,7 +225,7 @@
     "orderStatus": {
       "rejected": "Отклонена",
       "success": "Выполнена",
-      "processing": "Обрабатывается",
+      "processing": "Отправляется",
       "checkPayment": "Проверка оплаты"
     },
     "orderStatusTxt": {
