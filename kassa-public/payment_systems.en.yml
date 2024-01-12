@@ -342,10 +342,10 @@ en:
         income_account_label: Phone
         outcome_account: Phone
         outcome_account_label: Phone
-        income_operator: Bank name
-        income_operator_label: Bank name
-        outcome_operator: Bank name
-        outcome_operator_label: Bank name
+        income_unk: Bank name
+        income_unk_label: Bank name
+        outcome_unk: Bank name
+        outcome_unk_label: Bank name
         income_fio: Sender full name
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
