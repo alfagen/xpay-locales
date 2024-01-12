@@ -261,10 +261,10 @@ ru:
         income_account_label: Номер телефона
         outcome_account: Номер телефона
         outcome_account_label: Номер телефона
-        income_operator: Название банка
-        income_operator_label: Название банка
-        outcome_operator: Название банка
-        outcome_operator_label: Название банка
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
         income_fio: ФИО плательщика
         income_fio_label: ФИО плательщика
         outcome_fio: ФИО получателя
