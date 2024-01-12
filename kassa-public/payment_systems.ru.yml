@@ -256,5 +256,18 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты  
+      sbprub:
+        income_account: Номер телефона
+        income_account_label: Номер телефона
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_operator: Название банка
+        income_operator_label: Название банка
+        outcome_operator: Название банка
+        outcome_operator_label: Название банка
+        income_fio: ФИО получателя
+        income_fio_label: ФИО получателя
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
         
  
