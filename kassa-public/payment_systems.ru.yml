@@ -265,8 +265,8 @@ ru:
         income_operator_label: Название банка
         outcome_operator: Название банка
         outcome_operator_label: Название банка
-        income_fio: ФИО получателя
-        income_fio_label: ФИО получателя
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
         outcome_fio: ФИО получателя
         outcome_fio_label: ФИО получателя
         
