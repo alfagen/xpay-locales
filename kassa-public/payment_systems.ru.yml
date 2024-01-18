@@ -215,8 +215,8 @@ ru:
       xlm:
         outcome_account: Кошелек Stellar (XLM)
         outcome_account_label: Кошелек Stellar (XLM)
-        outcome_fio: Memo получателя
-        outcome_fio_label: Memo получателя
+        outcome_unk: Memo получателя
+        outcome_unk_label: Memo получателя
       dot:
         outcome_account: Кошелек Polkadot
         outcome_account_label: Кошелек Polkadot
