@@ -239,8 +239,8 @@ en:
       xlm:
         outcome_account: Stellar (XLM) address
         outcome_account_label: Stellar (XLM) address
-        outcome_fio: Memo 
-        outcome_fio_label: Memo 
+        outcome_unk: Memo 
+        outcome_unk_label: Memo 
       dot:
         outcome_account: Polkadot address
         outcome_account_label: Polkadot address
