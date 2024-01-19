@@ -763,7 +763,7 @@
     "designation": "Vložte číslo {{name}} a aktivační kód. <br /> Je-li zapotřebí zadat ještě další kód, stiskněte tlačítko \\\"Přidat další šek\\\""
   },
   "instructionCoin": {
-    "designation": "Pro zadání požadavku stiskněte po provedení platby <strong>{{required}}</strong> tlačítko \"Zaplatil jsem\":",
+    "designation": "I confirm that funds have been debited from my account.",
     "required": "povinné"
   },
   "failurePayment": {

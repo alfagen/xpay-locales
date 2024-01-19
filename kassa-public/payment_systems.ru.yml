@@ -215,8 +215,8 @@ ru:
       xlm:
         outcome_account: Кошелек Stellar (XLM)
         outcome_account_label: Кошелек Stellar (XLM)
-        outcome_fio: Memo получателя
-        outcome_fio_label: Memo получателя
+        outcome_unk: Memo получателя
+        outcome_unk_label: Memo получателя
       dot:
         outcome_account: Кошелек Polkadot
         outcome_account_label: Кошелек Polkadot
@@ -256,5 +256,18 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты  
+      sbprub:
+        income_account: Номер телефона
+        income_account_label: Номер телефона
+        outcome_account: Номер телефона
+        outcome_account_label: Номер телефона
+        income_unk: Название банка
+        income_unk_label: Название банка
+        outcome_unk: Название банка
+        outcome_unk_label: Название банка
+        income_fio: ФИО плательщика
+        income_fio_label: ФИО плательщика
+        outcome_fio: ФИО получателя
+        outcome_fio_label: ФИО получателя
         
  

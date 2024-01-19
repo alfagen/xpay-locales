@@ -239,8 +239,8 @@ en:
       xlm:
         outcome_account: Stellar (XLM) address
         outcome_account_label: Stellar (XLM) address
-        outcome_fio: Memo 
-        outcome_fio_label: Memo 
+        outcome_unk: Memo 
+        outcome_unk_label: Memo 
       dot:
         outcome_account: Polkadot address
         outcome_account_label: Polkadot address
@@ -333,6 +333,19 @@ en:
         income_account_label: Card number
         outcome_account: Card number, 16 digits
         outcome_account_label: Card number
+        income_fio: Sender full name
+        income_fio_label: Sender full name
+        outcome_fio: Receiver full name
+        outcome_fio_label: Receiver full name
+      sbprub:
+        income_account: Phone
+        income_account_label: Phone
+        outcome_account: Phone
+        outcome_account_label: Phone
+        income_unk: Bank name
+        income_unk_label: Bank name
+        outcome_unk: Bank name
+        outcome_unk_label: Bank name
         income_fio: Sender full name
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
