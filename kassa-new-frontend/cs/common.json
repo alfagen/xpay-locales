@@ -1155,5 +1155,34 @@
   "photoInput": {
     "info": "Drop photo here \n or",
     "upload": "download photo"
+  },
+  "orderPage": {
+    "topBlock": {
+      "rejected": {
+        "title": "Order #{{id}} calceled!"
+      },
+      "success": {
+        "title": "Order #{{id}} completed successfully!",
+        "link": "Link to transaction"
+      },
+      "default": {
+        "title": "Order №{{id}} successfully created <br />and accepted for processing!",
+        "subtitle": "We will send funds according to your request within 20 minutes after the funds are credited to our account."
+      },
+      "openChat": "Chat with us"
+    },
+    "statusBlock": {
+      "waiting_payment": "We are waiting for payment",
+      "waiting_money": "We are waiting for the receipt of <br /> funds",
+      "waiting_confirm": "We are waiting for confirmation from <br /> network",
+      "in_progress": "We perform exchange",
+      "complete": "Exchange completed"
+    },
+    "infoBlock": {
+      "title": "Accepted transaction information",
+      "created_at": "Application creation date:",
+      "cheque": "Cheque:",
+      "pin": "Pin:"
+    }
   }
 }
