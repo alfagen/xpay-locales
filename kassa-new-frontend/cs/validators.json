@@ -93,6 +93,15 @@
     "XLM": "You entered an incorrect Stellar (XLM) wallet address. Example: GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A, don't forget to specify MEMO",
     "MIRCRUB": "You entered the wrong сard number in MIR, the card number must contain from 16 to 18 digits",
     "BNBBEP2": "You entered an incorrect BNB BEP 2 wallet address. Example: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23, don't forget to specify MEMO",
-    "BNBBEP20": "You entered an incorrect BNB BEP 20 wallet address. Example: 0x59f502498d9225e1a71bd3509722ac43ab389e1e" 
+    "BNBBEP20": "You entered an incorrect BNB BEP 20 wallet address. Example: 0x59f502498d9225e1a71bd3509722ac43ab389e1e",
+    "CARDUAH": "You entered an incorrect Visa/Mastercard UAH card number, the card number must contain 16 - 18 digits",
+    "CARDBYN": "You entered an incorrect Visa/Mastercard BYN card number, the card number must contain 16 - 18 digits",
+    "KSPBKZT": "You entered an incorrect Kaspi KZT card number, the card number must contain 16 - 18 digits",
+    "UNI": "You entered an incorrect Uniswap wallet address.",
+    "LINK": "You entered an incorrect Chainlink wallet address.",
+    "SOL": "You entered an incorrect Solana wallet address.",
+    "USDCERC20": "You entered an incorrect USDC ERC20 wallet address.",
+    "USDCTRC20": "You entered an incorrect USDC TRC20 wallet address.",
+    "USDCBEP20": "You entered an incorrect USDC BEP20 wallet address."
   }
 }
