@@ -49,6 +49,10 @@ cs:
         destination_tag_checkbox: Bez Destination Tag
         payment_card_exp_date: Datum vypršení platnosti karty
         payment_card_exp_date_label: Datum vypršení platnosti karty
+        bank_name: Bank Name
+        bank_country: Bank Country
+        bank_erip: ERIP
+        phone: Phone number
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567
