@@ -53,6 +53,10 @@ ru:
         income_operator_label: Оператор
         outcome_operator: Оператор
         outcome_operator_label: Оператор
+        bank_name: Название банка
+        bank_country: Страна банка
+        bank_erip: ЕРИП
+        phone: Номер телефона
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
