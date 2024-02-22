@@ -1,0 +1,57 @@
+{
+  "techbreak": {
+    "title": "Technical Breakdown",
+    "subtitle": "At the moment, a technical breakdown is underway, all exchanges are suspended until 14:00.",
+    "left": "left until reopening"
+  },
+  "links": {
+    "exchange": "Exchange",
+    "reserves": "Reserves",
+    "faq": "FAQ",
+    "news": "News",
+    "contacts": "Contacts",
+    "personal": "Personal Info",
+    "vault": "Payment Vault",
+    "orders": "Orders",
+    "settings": "Settings",
+    "exit": "Exit"
+  },
+  "auth": {
+    "title": "Sign in <br />to your profile",
+    "subtitle": " Let's fill out the information to sign in",
+    "signToAcc": "Sign in to your account",
+    "notHaveAcc": "You don't have an account yet?",
+    "signup": "Sign up"
+  },
+  "simple": {
+    "reserve": "Reserve",
+    "min": "Min",
+    "max": "Max",
+    "all": "All",
+    "crypto": "Crypto",
+    "rub": "RUB",
+    "usd": "USD",
+    "search": "Search"
+  },
+  "footer": {
+    "allRights": "All rights reserved"
+  },
+  "exform": {
+    "title": "Your <br/> exchange request",
+    "notification": "Notification!",
+    "emailLabel": "Email",
+    "agree": "I agree with",
+    "condition": "conditions and rules of service",
+    "agreeLink": "basic account verification conditions",
+    "amlKyt": "AML, KYT",
+    "payBtn": "Proceed to Payment",
+    "fillInfo": "Let’s fill information about you",
+    "verify": "Let's verify details",
+    "mobileTitle": "Your exchange request"
+  },
+  "selectPsMW": {
+    "titleIncome": "Changing what?",
+    "titleOutcome": "What do you want to get?",
+    "available": "Available Cryptocurrencies"
+  }
+}

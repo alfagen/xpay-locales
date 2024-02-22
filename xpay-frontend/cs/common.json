@@ -1,0 +1,1188 @@
+{
+  "headerInfo": {
+    "notice": "Automatic exchange without verification",
+    "fullday": "24/7",
+    "tg": "TG chat",
+    "mail": "support@kassa.cc",
+    "chat": "Support chat"
+  },
+  "breadcrumbs": {
+    "main": "Main",
+    "instructions": "Instructions",
+    "partners": "Partners",
+    "news": "News",
+    "promotion": "Promotions",
+    "updating": "Updates",
+    "notify": "Notifications"
+  },
+  "links": {
+    "about": "O našich službách",
+    "gifts": "Bonusy od našeho portálu",
+    "rulesFooter": "Pravidla poskytování našich služeb",
+    "contacts": "Kontakty",
+    "rulesMobile": "Pravidla a podmínky služby",
+    "rules": "Pravidla směny",
+    "partners": "Pro naše partnery",
+    "news": "Novinky",
+    "faq": "FAQ",
+    "signOut": "Odhlášení",
+    "requests": "Moje požadavky",
+    "verification": "Ověření platební karty",
+    "referal": "Referenční program",
+    "promo": "Propagační materiály",
+    "settings": "Profil",
+    "exchange": "Exchange"
+  },
+  "setting": {
+    "aml": {
+      "stateTitle": "Stav vašeho účtu:",
+      "statuses": {
+        "guest": "Návštěvní",
+        "personal": "Osobní",
+        "professional": "Profesionální "
+      },
+      "verificationStatuses": {
+        "none": "Očekávání ověřování ",
+        "pending": "Na posouzení",
+        "accepted": "Ověřen ",
+        "rejected": "Ověřování je odmítnuto"
+      },
+      "update": "Obnovit",
+      "continue": "Pokračovat ověřování",
+      "statusDescriptions": {
+        "guest": "Ideálně se hodí k seznámení s možnostmi servisu",
+        "personal": "Ideálně se hodí pro začínající tradery nebo lidi, seznamující se světem kryptoměn",
+        "professional": "Ideální pro lidi, kteří jsou ponořeni do světa kryptoměn, a zkušení obchodníci"
+      },
+      "verificationConditions": {
+        "title": "Pro ověřování je třeba"
+      },
+      "in": {
+        "personal": "Osobním",
+        "professional": "Profesionálním"
+      },
+      "stepCounts": {
+        "personal": "3 stupňů",
+        "professional": "7 stupňů"
+      },
+      "start": "Začít",
+      "yourStatus": "Váš stav",
+      "statusTitle": "Pro vás jsou dostupné následující stavy účtu:",
+      "availableLater": "Bude dostupný pozdějí",
+      "updateAccountStatusTitle": "Chcete více",
+      "updateAccountStatusText1": "Stav svého účtu můžete změnit na {{statusName}} stav. Po úspěšném ověření dokumentů bude stav vašeho účtu potvrzen.",
+      "updateAccountStatusText2": "Ověřování má 2 etapy, to nepotřebuje mnoho času. Pokud něčemu nerozumíte, nám napište. Pomůžeme :)",
+      "verificationSuccessNotice": "Úspěšně jste potvrdili stav účtu! Dále můžete začít operace směny a užívat všechny přednosti vašeho účtu!",
+      "next": "Dále",
+      "confirmExit": "Potvrďte ukončení",
+      "closeVerificationNotice": "Opravdu chcete přerušit proces ověření účtu? <br /> Postup ověření můžete obnovit z osobního účtu.",
+      "returnToVerification": "Zpět na ověření",
+      "note": "Dejte si pozor na {{requirements}}.",
+      "requirements": "požadavky pro doklady",
+      "phoneConfirmationTitle": "Ověření telefonu",
+      "notice": "Pro plní přístup do funkcionálu servisu je třeba ověřit váš účet. Dejte pozor na {{requirements}}. Můžete podat žádost o změnu vašich dokladů. ",
+      "orderStatuses": {
+        "pending": "na posouzení",
+        "rejected": "odmítnuta"
+      },
+      "youPassAnotherStatus": "Děláte ověřování stavu \"{{status}}\"",
+      "startVerificationText1": "Úspěšně jste se zaregistrovali ve {{status}} stavu. Po úspěšném ověření dokumentů bude stav vašeho účtu potvrzen.",
+      "startVerificationText2": "Ověření od {{stepCount}} to netrvá dlouho. Pokud něčemu nerozumíte, napište nám. Pomůžeme :)",
+      "passedAnotherStatus": "Přesunuli jste se do stavu \"{{status}}\"",
+      "cardHolding": {
+        "title": "Přidání karty",
+        "label": "Zadejte údaje o kartě",
+        "bind": "Přidat",
+        "statuses": {
+          "none": "Přidání je v procesu",
+          "success": "Přidáná"
+        },
+        "modalTitle": "Přidání karty pro směnu "
+      }
+    },
+    "documents": {
+      "congratulations": "Gratulujeme!",
+      "send": "Odeslat",
+      "download": "Stáhnout",
+      "upload": "Nahrát",
+      "changeDocumentsTitle": "Změna dokladů",
+      "changeDocumentsNotice": "Po změně vašich dokladů bude třeba zase dokončit proceduru kontroly dokladů AML-odborníky. Jste jsiti, že chcete změnit údaje vašich dokladů?",
+      "statuses": {
+        "none": "Doklad očekává nahrávání",
+        "loaded": "Doklad je nahrazen",
+        "processing": "Kontrola dokladu",
+        "accepted": "Doklad je schválen ",
+        "rejected": "Odmítnut."
+      },
+      "orderSendedNotice": "Vaše žádost pro ověření stavu účtu byla odeslána. Doba zpracování aplikací je 48 hodin. Po potvrzení vašich dokumentů bude váš účet ještě bezpečnější!",
+      "save": "Uložit",
+      "uploadTitle": "Nahrávání dokladu",
+      "tie": "Sloučit"
+    },
+    "tabs": {
+      "general": "Základní údaje profilu ",
+      "documents": "Doklady",
+      "accountStatus": "Stav účtu",
+      "profile": "Nastavení"
+    },
+    "rejectedNotifyTitle": "Vaše žádost je odmítnuta!",
+    "rejectedNotify": "V sekci {{section}} můžete vidět důvod odmítnutí.",
+    "pendingNotifyTitle": "Vaše žádost pro ziskání stavu byla úspěšně odeslána!",
+    "pendingNotify": "Žádost bude zpracována do 48 hodin.",
+    "verificationNotifyTitle": "Musíte odeslat žádost o ověření!",
+    "verificationNotify": "Vyplnili jste všechny údaje potřebné k ověření stavu vašeho účtu. Odešlete žádost o ověření stavu účtu v sekci {{section}}.",
+    "clientDataNotifyTitle": "Musíte vyplnit vaše osobní údaje!",
+    "clientDataNotify": "Chcete-li odstranit omezení týkající se směnných operací a zabezpečit své finanční prostředky, vyplňte prosím vaše osobní údaje v nastavení účtu. {{fillLink}}.",
+    "fill": "Vyplnit nyní",
+    "uploadDocumentsNotifyTitle": "Nahrajte vaše doklady",
+    "uploadDocumentsNotify": "Už jste vyplnili základní údaje profilu, zůstalo nahrát doklady a dokážete vyměňovat bez omezení v částce a dostat přístup do všech metod platby.",
+    "confirmMailNotifyTitle": "Potvrd'te vaši poštu!",
+    "confirmMailNotify": "Pro potvrzení stavu účtu, prosím, potvrd'te poštu pomocí následování odkazu v dopisu, který je odeslan do vaší pošty. ",
+    "confirmPhoneNotifyTitle": "Ověření telefonu!",
+    "confirmPhoneNotify": "Chcete-li obdržet oznámení od služby a provést další ověření stavu vašeho účtu, propojte telefonní číslo s účtem v nastavení. {{fillLink}}.",
+    "needVerificationNotifyTitle": "Musíte zvýšit stav účtu",
+    "needVerificationNotify": "Od 1. ledna 2019 začne společnost Kassa.cc pracovat pod evropskou licencí. Proveďte jednoduché ověření účtu a získejte nové funkce.",
+    "notAuthorizedNotifyTitle": "Aktualizace služby",
+    "notAuthorizedNotify": "Европейской лицензии. Пройдите простую верификацию аккаунта, чтобы получить новые возможности. Od 1. ledna 2019 začne společnost Kassa.cc pracovat pod evropskou licencí. Proveďte jednoduché ověření účtu a získejte nové funkce.",
+    "bindNow": "Propojení bankovní karta",
+    "notice": "Můžete změnit obecná nastavení Vašeho účtu a dát k dispozici Vaše kontaktní údaje:",
+    "userAgreements": {
+      "title": "Obnovění práce servisu",
+      "notice": "Sdílení na webu je nyní ještě bezpečnější a pohodlnější. Chcete-li pokračovat v práci na webu, musíte potvrdit:"
+    },
+    "profile": {
+      "notice": "Můžete změnit nastavení vašeho profilu a dát k dispozici vaše kontaktní údaje pro uvědomění:"
+    },
+    "paymentData": "Uchovávání zadávaných údajů:",
+    "title": "Profil",
+    "basic": "Obecné informace:",
+    "password": "Nastavení hesla",
+    "error": {
+      "email": "Zadejte platný e-mail",
+      "required": "Vyplňte pole",
+      "phone": "Zadejte platné telefonní číslo",
+      "onlyCharacters": "Pole musí obsahovat pouze písmena"
+    },
+    "learnMore": "Další informace"
+  },
+  "exform": {
+    "exchangeNow": "Provést směnu",
+    "columnData": "3. Zadání údajů",
+    "rateExchange": "Směnný kurz:",
+    "enterData": "Zadejte údaje pro dokončení transakce:",
+    "notification": "Upozornění!",
+    "emailLabel": "Uveďte Váš e-mail",
+    "agree": "Souhlasím s {{link}}",
+    "condition": "basic account verification conditions",
+    "agreeLink": "pravidly a podmínkami služby",
+    "columnInput": "1. Převedete",
+    "currencyInput": "Měna převodu:",
+    "selectSystem": "Zvolte systém:",
+    "columnOutput": "2. Obdržíte",
+    "currencyOutput": "Měna pro obdržení:",
+    "currencyReserves": "Rezerva měny",
+    "fetchingCards": "Loading your cards...",
+    "addCard": "Link a new card",
+    "raiseStatus": "You need to increase your account status to select this direction. <br /> {{link}}",
+    "raiseStatusLink": "Upgrade the status",
+    "fixedRates": "This is fixed rate",
+    "tooltipNotice": "This is fixed rate, that is, after clicking on 'exchange now', the rate in the application does not change"
+  },
+  "settingForm": {
+    "labelSurname": "Příjmení",
+    "placeholders": {
+      "surname": "Uveďte vaše příjmení",
+      "firstName": "Uveďte vaše jméno",
+      "patronymic": "Zadejte své patronymic",
+      "birthDate": "Například: 01.01.1980"
+    },
+    "labelName": "Jméno",
+    "labelPatronymic": "Patronymic (ne nutně)",
+    "labelBirthday": "Datum narození",
+    "change": "Změnit",
+    "cancel": "Zrušit",
+    "submit": "Uložit",
+    "confirmSubmitNotice": "Po změně těchto údajů je třeba opětovně dokončit postup ověřování. Opravdu chcete dodat změny do vašich osobních údajů?",
+    "needFill": "Je třeba vyplnit vaše osobní údaje. ",
+    "needUploadDocuments": "Je třeba vyplnit údaje vašich dokladů v oddílu {{section}}",
+    "lastUpdateDate": "Datum poslední změny",
+    "yourOrder": "Vaše žádost pro ověření",
+    "emailVerification": "Vaše pošta {{not}} je ověřena",
+    "not": "ne",
+    "emailVerificationNotice": "Do vaší pošty je odeslan dopis s potvrzením. {{resend}} ještě jedenkrát.",
+    "labelEmail": "Pošta",
+    "phoneVerification": "Vaše číslo {{not}} je ověřeno",
+    "fillPhoneNotice": "Musíte vyplnit vaše telefonní číslo",
+    "labelPhone": "Telefonní číslo",
+    "holderPhone": "Zadejte Váš telefon",
+    "confirm": "Potvrdit",
+    "smsCode": "Kód z sms",
+    "smsCodeSended": "Ověřovací kód byl odeslán",
+    "smsCodeRepeat": "Znovu zaslat kod na verefikaci můžete přes {{countdown}}",
+    "smsCodeSendAction": "Odeslat kód {{again}} nebo {{cancel}}.\n",
+    "again": "ještě jednou",
+    "yes": "Ano",
+    "no": "Ne",
+    "labelFio": "Jak Vás máme oslovovat?",
+    "holderFio": "Zadejte jméno"
+  },
+  "userpanel": {
+    "logout": "Odhlásit se"
+  },
+  "tickets": {
+    "reasonNotFound": "bez udání důvodu",
+    "reason": "Důvod",
+    "moreInfo": "Více",
+    "numbers": "Čísla"
+  },
+  "refPage": {
+    "more": "Více",
+    "createRequest": "Požádat o výplatu",
+    "incomePaid": "Vyplaceno",
+    "incomeUnpaid": "Není vyplaceno",
+    "successCredited": "Úspěšně připsáno",
+    "verificationReward": "Odměna za ověření",
+    "notCredited": "Nezaučtováno",
+    "currency": "Měna",
+    "referalFundsEmpty": "Nemáte žádné příjmy",
+    "rewardsSum": "Váš celkový zisk:",
+    "currencies": {
+      "ruble": "Rublů",
+      "dollar": "Amerických dolarů",
+      "bitcoin": "BTC"
+    },
+    "earnedMoney": "Celkový výdělek:",
+    "aboutReferalFundsTitle": "O našem referenčním programu",
+    "referalFundsNotice": "Podělte se o náš partnerský odkaz, přiveďte své známé a získejte až 1 % ze směn prováděných osobami, kterým jste doporučili naše služby. ",
+    "referalListEmpty": "Nemáte žádné reference",
+    "shareSubtitle": "Odkaz pro pozvání Vašich známých:",
+    "copyLink": "Zkopírovat",
+    "shareSocials": "O Váš odkaz se můžete rychle podělit prostřednictvím sociálních sítí:",
+    "shareText": {
+      "common": "Ahoj! Našel jsem na internetu výbornou službu umožňující rychlou a bezpečnou výměnu peněz. Zajdi na stránku, registruj se a hned přímo ode mě dostaneš slevu 5 % na jakýkoliv druh směny! Taky ti jdou z každé směny přes můj odkaz bonusy, a od 5 pozvaných osob dál se dávají dárky (na seznamu je iPad mini)",
+      "twitter": "Ahoj! Našel jsem na internetu výbornou službu umožňující rychlou a bezpečnou výměnu peněz. "
+    },
+    "statsSubtitle": "Statistika prokliku",
+    "statCount": "Množství přístupů prostřednictvím referenčního odkazu",
+    "refCount": "Počet registrací na základě Vašeho pozvání",
+    "refList": "Seznam Vašich referencí",
+    "needVerificationStatus": "Chcete-li získat bonus pro ověření stavu, musíte udělat ověření.",
+    "startVerification": "Udělat si identifikací",
+    "needFinishVerificationStatus": "Chcete-li získat bonus pro ověření stavu, musíte nahrát dokumenty.",
+    "noneVerificationStatus": "Chcete-li získat bonus pro ověření stavu, musíte udělat ověření. ",
+    "verificationProcessingStatus": "Bonus za ověření ziskáte po zpracování žádosti o ověření (od 2 do 48 hodin).",
+    "successVerificationStatus": "Jako znamení vděčnosti a důvěry bude váš bonus připsán na Váš účet 1. prosince 2018.",
+    "rejectedVerificationStatus": "Chcete-li získat bonus pro ověření stavu, musíte udělat ověření.",
+    "rewards": "Odměny:",
+    "aboutRewards": "O našich odměnách",
+    "rewardsNotice": "Získejte příjemné bonusy za každou směnu a převádějte své peníze na jakýkoli z Vašich účtů.",
+    "title": "Referenční program",
+    "about": "Referenční program - způsob výdělku dostupný registrovaným uživatelům našeho servisu, spočívající v podobě odměn za směnné transakce klientů, kteří k nám zavítali prostřednictvím Vašeho referenčního odkazu.",
+    "why": "Sdílejte svůj partnerský odkaz, využívejte naše reklamní materiály, a přiveďte své známé a získejte až 1 % ze směn prováděných osobami, kterým jste doporučili naše služby. ",
+    "morePartners": "Více o našem partnerském programu"
+  },
+  "partnersPage": {
+    "exchangeNow": "Pusťte se do výhodného směňování hned teď!",
+    "startExchange": "Zahájit směnu",
+    "questions": "Máte otázky? Napište {{chat}}",
+    "chat": "nám na náš chat",
+    "firstTitle1": "Referenční program pro uživatele",
+    "firstSubtitle": "Ušetřete a vydělejte si",
+    "firstDescription": "Chcete si vydělávat s námi? Zaregistrujte se na naší stránce a využijte našeho referenčního programu a systému kumulativních slev! Ihned po registraci automaticky získáváte nárok na kumulativní slevu za směnu ve výši 5 %.",
+    "more": "Více o refenčním programu",
+    "secondTitle": "Pro provozovatele monitoringových systémů",
+    "secondSubtitle": "vydělávejte",
+    "secondDescription": "Nabízíme spolupráci provozovatelům monitoringových systémů sledujících směnárny. Těší nás každý nový partner a nezdráháme se podělit o svůj zisk. ",
+    "secondDescription2": "Zaregistrujte se na naší stránce a získejte Váš speciální referenční odkaz.",
+    "monitoring": "Připojte svůj monitorovací systém.",
+    "thirdTitle": "Příjem plateb pro Vaši stránku. ",
+    "thirdSubtitle": "Přijmejte platby a vydělávejte",
+    "thirdDescription": "Máte vlastní internetový obchod, lending, nebo prodáváte produkt nebo službu, ale nemáte možnost přijímat platby? S námi můžete přijímat platby od různých bank a platebních systémů za výhodné ceny pro vaše zákazníky! Při každé realizované platbě prostřednictvím naší služby obdržíte odměny. Podrobnosti lze zjistit přes e-mail {{email}}.",
+    "request": "Přijímání plateb za váš web"
+  },
+  "Captcha": {
+    "refreshCaptcha": "Obnovit",
+    "labelCaptcha": "Zadejte písmena na obrázku:"
+  },
+  "contactsPage": {
+    "workTime": "Pracovní doba",
+    "mailSupport": "E-mailová podpora:",
+    "firstTitle": "Technická podpora",
+    "firstWorkTime": "from 08:00 to 23:59 (GMT +3)",
+    "firstChatLabel": "Online chat:",
+    "openChat": "Otevřít chat",
+    "firstRequestLabel": "Kontaktovat operátora",
+    "firstDescription": "Máte-li dotazy ohledně technických či finančních záležitostí, napiště nám, a my Vám s jejich řešením pomůžeme. Na dotazy odpovídáme během 15-60 minut v závislosti na vytížení naší služby. ",
+    "secondTitle": "Spolupráce a PR",
+    "secondWorkTime": "from 10:00 to 17:00",
+    "mailPR": "Náš e-mail:",
+    "secondChatLabel": "Podpora prostřednictvím Telegram:",
+    "secondRequestLabel": "Napsat zprávu",
+    "secondDescription": "Máte-li návrhy na spolupráci, na propojení monitorovacího systému, otázky ve věcech reklamy či ohledně přidání nové měny, napište nám! Jsme vždy otevřeni nabídkám spolupráce!",
+    "thirdTitle": "Recenze naší služby",
+    "weInSocial": "Jsme na sociálních sítích:",
+    "vk": "VKontakte",
+    "twitter": "Twitter",
+    "facebook": "Facebook",
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "odnoklassniki": "ok.ru"
+  },
+  "rest": {
+    "news": "Zatím si můžete přečíst, co je u nás nového",
+    "title": "Technická výluka",
+    "subtitle": "Sebrali nás a prý si nás tu nechají ještě {{time}}",
+    "notice": "Pokud nás Váš požadavek zastihl v období technické výluky, buďte bez obav. <br /> O jeho vyřízení se postaráme v nejbližší době :)"
+  },
+  "verificationCustomFile": {
+    "label": "Stiskněte k provedení výběru:",
+    "control": "Vybrat fotografii"
+  },
+  "ComponentTicketproc": {
+    "AddReferal": {
+      "Error": "Chyba",
+      "NoAskPS": "Nebyl vybrán platební systém, ze kterého chcete převést peníze",
+      "NoAskTypeRewards": "Nebyl vybrán druh výplaty odměn"
+    }
+  },
+  "faqPage": {
+    "faqListEmpty": "Seznam otázek je prázdný",
+    "title": "Otázky a odpovědi"
+  },
+  "footer": {
+    "copyright": "© {{year}}, Kassa.cc — Směna valut na jednom místě",
+    "slogan": "Vytvořeno s láskou",
+    "copyrightOptional": "© {{year}}, {{orgName}} — {{notice}}",
+    "copyrightOrgName": "Kassa.cc",
+    "copyrightNotice": "Směna valut na jednom místě"
+  },
+  "notify": {
+    "error": "Chyba!",
+    "close": "Zavřít",
+    "errorLoading": "Bylo přerušeno spojení se serverem. Informace mohou být neaktuální. Prosíme {{refreshPage}}.",
+    "refreshPage": "obnovte stránku",
+    "rest": "Vážený zákazníku, sdělujeme Vám, že se naše služba aktuálně nachází ve stavu technické výluky. Odstávka služeb skončí za {{icon}} {{time}}",
+    "copied": "Zkopírováno!",
+    "copiedText": "Údaje zkopírovány do schránky",
+    "saved": "Uloženo!"
+  },
+  "MonitoringModal": {
+    "title": "Pro provozovatele monitoringových systémů",
+    "invite": "Nabízíme spolupráci provozovatelům monitoringových systémů sledujících směnárny. Těší nás každý nový partner a nezdráháme se podělit o svůj zisk. ",
+    "referalLink": "Zaregistrujte se na naší stránce a získejte Váš speciální referenční odkaz.",
+    "reward": "Pro všechny provozovatele monitoringových systémů platí standardní výše provize 0,5 % z částky směn Vašich referencí. Napište nám na adresu kassa.today@gmail.com a ve výjimečných případech můžeme projednat případné změny ve výši Vaší provize.",
+    "downloadExport": "Export kurzů ke stažení.",
+    "registration": "Zaregistrovat se jako provozovatel monitoringového systému"
+  },
+  "SiteConnectionModal": {
+    "title": "Příjem plateb pro Vaši stránku",
+    "site": "Máte svůj internetový obchod či webovou prezentaci nebo prodávate zboží či služby ale nemáte možnost přijímat platby? ",
+    "payment": "S naší pomocí můžete přijímat platby z různých bank a platebních systému za výhodných podmínek pro Vaše klienty! Za každou platbu provedenou naším prostřednictvím budete získávát odměny. ",
+    "contact": "Pro více informací nás můžete kontaktovat na adrese {{email}}.",
+    "sendMail": "Napsat e-mail"
+  },
+  "authpanel": {
+    "signin": "Přihlásit se",
+    "or": "nebo",
+    "signup": "Zaregistrovat se"
+  },
+  "signin": {
+    "error": {
+      "formFailed": "Přihlášení se nezdařilo",
+      "email": "Zadejte platný e-mail",
+      "password": "Zadejte heslo"
+    },
+    "title": "Přihlásit se do Klientské zóny"
+  },
+  "SigninForm": {
+    "labelEmail": "Uveďte Váš e-mail:",
+    "holderEmail": "Váš e-mail",
+    "labelPassword": "Zadejte heslo:",
+    "forgotPassword": "Zapomněli jste heslo?",
+    "holderPassword": "Heslo",
+    "enterLk": "Přihlásit se do Klientské zóny",
+    "agree": "Vstupem do klientské zóny vyjadřujete svůj souhlas s pravidly a podmínkami služby. ",
+    "singup": "Zaregistrovat se"
+  },
+  "lkPage": {
+    "title": "Klientská zóna"
+  },
+  "newsPage": {
+    "newsItemsEmpty": "Přehled novinek je prázdný",
+    "title": "Novinky",
+    "subscribe": "subscribe",
+    "social": "to us"
+  },
+  "News": {
+    "archive": "Archiv novinek"
+  },
+  "newsArchiveList": {
+    "listEmpty": "Přehled novinek je prázdný"
+  },
+  "orders": {
+    "orderId": "Požadavek č. {{id}}",
+    "createAt": "Vytvořen {{date}}",
+    "emptyAmount": "částka není uvedena",
+    "fio": "Jméno a příjmení:",
+    "account": "Účet:",
+    "receiptReward": "Příjem<br /> odměny",
+    "refReward": "Odměny /<br /> prostředky z referencí"
+  },
+  "requestsPage": {
+    "non": "Zatím nemáte žádné požadavky",
+    "more": "Zobrazit více",
+    "title": "Moje požadavky",
+    "start": "Zahájit směnu"
+  },
+  "requestStatus": {
+    "waitingDescr": "Máte-li otázky {{chat}}. ",
+    "chat": "napište prosím na naši technickou podporu.",
+    "waitingDescrMinute": "Váš požadavek bude zpracován během {{minute}} minut.",
+    "success": "Požadavek vyplněn",
+    "wrong": "Požadavek obsahuje chybu",
+    "fail": "Požadavek odmítnut",
+    "freeze": "Požadavek suspendován",
+    "waiting": "Čeká na zpracování",
+    "waitingPayment": "Kontrola platby",
+    "timeout": "Doba čekání na platbu uplynula",
+    "freezeReasonHour": "Toto je Váš první požadavek za použití aktuální peněženky Yandex.Money. K jeho uvolnění a zpracování dojde za {{hour}} hodin.",
+    "freezeReasonHourLegacy": "Toto je Váš první požadavek za použití aktuální peněženky Yandex.Money. K jeho uvolnění a zpracování dojde za {{hour}}",
+    "shortHours": "hod.",
+    "freezeNotice": "Váš požadavek byl suspendován. Pro zjištění konkrétní příčiny se prosím spojte s naším operátorem.",
+    "freezeReason": "Toto je Váš první požadavek za použití aktuální peněženky Yandex.Money. K jeho uvolnění a zpracování dojde v nejbližší době.",
+    "freezeHelp": "Proč je první platba suspendována?",
+    "adopted": "Váš požadavek byl přijat",
+    "adoptedReff": "Váš požadavek na výplatu vydělaných prostředků byl přijat!",
+    "adoptedReffConfirm": "Výplata odměn byla potvrzena!",
+    "hold": "Prostředky jsou zmrazeny",
+    "holdReason": "Prostředky jsou zmrazeny po dobu 48 hodin {{time}}",
+    "processing": "Zpracovává se"
+  },
+  "passwordForm": {
+    "labelOldPass": "Původní heslo:",
+    "labelPass": "Nové heslo:",
+    "labelRepeatPass": "Zadejte znovu nové heslo:",
+    "submit": "Změnit heslo"
+  },
+  "paymentDataManager": {
+    "text1": "Pro větší pohodlí jsme Vám aktivovali funkci \"Uchovávání zadávaných údajů\". Ta má za úkol zjednodušit Vám zadávání požadavků ukládáním údajů v polích obsahující vlastnosti každé varianty směny, kterou využíváte. Veškeré zadávané údaje se ukládají na Vašem počítači v paměti prohlížeče, jehož pomocí provádíte směnu.",
+    "label": "Aktivovat uchovávání údajů"
+  },
+  "form": {
+    "help": {
+      "password": "Heslo musí obsahovat 8 znaků a musí obsahovat: čísla, latinské písmena malá a velká písmena"
+    }
+  },
+  "languagesPage": {
+    "selectLanguage": "Vyberte jazyk"
+  },
+  "promoPage": {
+    "size": "Rozměry banneru:",
+    "sizeLogo": "Logo size:",
+    "altBanner": "Banner",
+    "notice": "V této oddílu jsme speciálně pro naše partnery a uživatele naší služby připravili několik variant našich bannerů. Všechny jsou zpracovány ve stylu naší značky a přizpůsobeny k reklamním účelům a k šíření po internetu. Každý banner již obsahuje Váš osobní partnerský odkaz. ",
+    "subtitle": "Dostupné rozměry bannerů:",
+    "future": "Do budoucna plánujeme přidat reklamní obrázky, loga a PDF prezentaci pro rychlé seznámení se službou.",
+    "about": "Více o našem partnerském programu",
+    "refProgram": "Program doporučení",
+    "showCode": "Zobrazit kód banneru",
+    "copyCode": "Zkopírovat kód",
+    "widgetSetting": {
+      "shadow": "Stín",
+      "border": "Rámeček",
+      "noBorder": "Bez obrysu",
+      "vertical": "Vertikální",
+      "horizontal": "Horizontální",
+      "newTab": "v novém panelu",
+      "modal": "v novém okně",
+      "sameTab": "v tomtéž okně",
+      "borderSetting": "Obrys",
+      "title": "Nastavení",
+      "incomePaymentSystem": "Výchozí systém",
+      "outcomePaymentSystem": "Cílový systém",
+      "preview": "Zobrazit konečný vzhled widgetu",
+      "view": "Konečný vzhled",
+      "code": "Kód widgetu",
+      "orientation": "orientation",
+      "display": "display",
+      "from": "Payment system in",
+      "to": "Payment system out",
+      "showWidget": "Show widget",
+      "copy": "copy code"
+    },
+    "widget": "Widget",
+    "title": "Propagační materiály",
+    "banner": "Banner",
+    "logo": "Logo",
+    "logoNotice": "Chcete-li vyvinout vysoce kvalitní propagační materiály, použijte jednu z možností loga služeb. Podmínky používání jsou podrobně uvedeny ve značce. Logo lze také použít k umístění na váš web v sekci \"Partneři\". Loga jsou k dispozici ve třech formátech - .ai, .png, .jpeg",
+    "logoSubtitle": "Dostupné velikosti loga:",
+    "audio": "Zvuk",
+    "audioNotice": "Příklad hlasu pro reklamní materiály je upraven pro vytváření reklamních zpráv prostřednictvím zvukových a obrazových zpráv pro publikum. Doporučujeme používat ženský hlas, přirozeně smyslný a energický s jasným slovníkem.",
+    "audioFuture": "Podrobná pravidla pro používání prvků jsou popsána v",
+    "audioFutureLink": "«Knihaznaček»‎",
+    "audioSizeTitle": "Velikost souboru",
+    "audioTimeSeconds": "Délka {{seconds}} sec.",
+    "audioSizeMb": "mb",
+    "sizeKb": "kb",
+    "audioFirstTitle": "Ženský hlas Kassa",
+    "audioFirstSubtitle": "Servisní reklama",
+    "audioSecondTitle": "Ženský hlas Kassa",
+    "audioSecondSubtitle": "Servisní reklama"
+  },
+  "RewardsRequestForm": {
+    "withdrawFunds": "Jaké prostředky vyplatit:",
+    "referal": "Zisk z referencí",
+    "rewards": "Odměny",
+    "submit": "Provést výplatu"
+  },
+  "rewardsRequest": {
+    "title": "Požadavek o výplatu odměn",
+    "safeOutput": "Gratulujeme! Udělali jste kus práce a my Vám nyní s radostí převedeme Vaše prostředky do kterékoli z níže uvedených peněženek.",
+    "successTitle": "Potvrzení výplaty odměn",
+    "needСonfirmation": "O bezpečnost našeho účtu nám jde na prvním místě. Pro dokončení požadavku o výplatu odměn jsme na Vaši adresu odeslali zprávu s odkazem, který slouží k potvrzení zadání požadavku. Máte-li jakékoli otázky či v případě, že dojde ke zpoždění platby, obraťte se prosím na naši technickou podporu. \nS pozdravem \nsprávce portálu",
+    "successOk": "OK"
+  },
+  "referalFundsHistory": {
+    "title": "Historie příjmů z referenčního programu"
+  },
+  "ReferalList": {
+    "title": "Seznam Vašich referencí",
+    "content": "Popis našeho referenčního programu: Jsme přední mezinárodní poskytovatel směnárenských služeb v oblasti elektronických peněz. Zajišťujeme směnu, vklady a výběry následujících valut: Perfect Money, BTC, kódy BTC-e, Payeer, QIWI, Yandex.Money. Zajišťujeme rovněž provádění bankovních převodů. Spolupracujeme s takovými bankami jako jsou Sberbank, Alfa Bank, VTB24 a Tinkoff."
+  },
+  "rewardsHistory": {
+    "title": "Historie odměn"
+  },
+  "remindForm": {
+    "labelPassword": "Vytvořte si heslo:",
+    "holderPassword": "Heslo",
+    "labelPassConfirm": "Zadejte znovu nové heslo:",
+    "holderPassConfirm": "Zadejte znovu nové heslo:",
+    "savePassword": "Uložit heslo"
+  },
+  "remindSended": {
+    "newPasword": "Nové heslo",
+    "text1": "Výborně! Úspěšně jste změnili své heslo. Nyní můžete přejít do své Klientské zóny.",
+    "gotoLk": "Přejít do Klientské zóny"
+  },
+  "remindRequestForm": {
+    "labelEmail": "Uveďte e-mail:",
+    "holderEmail": "Váš e-mail",
+    "remindPassword": "Obnovit heslo"
+  },
+  "remindRequestSended": {
+    "mailSended": "E-mail odeslán",
+    "mailSendedDescribe": "Na Vámi uvedený e-mail byla zaslána zpráva obsahující další pokyny. ",
+    "goto": "Pro dokončení obnovy hesla použijte odkaz uvedený ve zprávě. "
+  },
+  "ReserveRequestForm": {
+    "labelEmail": "Uveďte Váš e-mail",
+    "labelPhone": "Uveďte Vaše telefonní číslo",
+    "labelSum": "Potřebná výše rezervy",
+    "submit": "Odeslat požadavek"
+  },
+  "ReserveRequest": {
+    "title": "Požadavek o navýšení rezervy",
+    "description": "Na Vaši žádost pro Vás v nejbližší době doplníme rezervu do potřebné výše. V nejbližší době se s Vámi spojí náš manažer. ",
+    "success": "Úspěšně zadán požadavek na doplnění rezervy. "
+  },
+  "signup": {
+    "more": "Více",
+    "titles": {
+      "user": "Vaše osobní údaje",
+      "email": "Váš email"
+    },
+    "subtitles": {
+      "user": "Je třeba zadat své jméno, datum narození, vybrat typ účtu a souhlasit s pravidly služby.",
+      "email": "Je třeba zadat svou e-mailovou adresu a potvrdit ji odkazem v mailu."
+    },
+    "finish": "Zaregistrovat si",
+    "error": {
+      "formFailed": "Registrace se nezdařila",
+      "required": "Vyplňte pole",
+      "passwordConfirm": "Hesla se neshodují",
+      "password": {
+        "min": "Heslo nesmí obsahovat méně než ${min} znaků",
+        "requiredType": "Heslo musí obsahovat alespoň 8 znaků. Obsahovat malá a velká písmena anglické abecedy, stejně jako čísla"
+      },
+      "agree": "Musíte souhlasít",
+      "email": "Zadejte platný e-mail",
+      "name": {
+        "min": "Jméno nesmí obsahovat méně než ${min} znaků",
+        "max": "Jméno nesmí obsahovat více než ${max} znaků"
+      }
+    },
+    "next": "Dále",
+    "title": "Registrace"
+  },
+  "signupForm": {
+    "label": {
+      "lastName": "Zadejte své příjmení",
+      "firstName": "Zadejte své jméno",
+      "middleName": "Zadejte své patronymic",
+      "birthday": "Vaše datum narození",
+      "accountStatus": "Stav vašeho účtu:"
+    },
+    "labelEmail": "Zadejte e-mail (poslouží jako Vaše uživatelské jméno):",
+    "labelPassword": "Vytvořte si heslo:",
+    "labelPasswordConfirm": "Zadejte znovu nové heslo:",
+    "labelName": "Představte se, prosím:",
+    "holderName": "Vaše jméno",
+    "holderEmail": "Váš e-mail:",
+    "holderPassword": "Heslo",
+    "holderPasswordConfirm": "Zadejte znovu nové heslo:",
+    "agree": "Souhlasím s {{link}}",
+    "agreeLink": "pravidly a podmínkami služby",
+    "signup": "Zaregistrovat se"
+  },
+  "signupIncorrectCode": {
+    "incorrect": "Nesprávný kód",
+    "text": "Použitý kód je buď nesprávný nebo byl již aktivován."
+  },
+  "signupSended": {
+    "sended": "E-mail odeslán",
+    "mailInstruction": "Na Váš e-mail {{email}} byla zaslána zpráva obsahující další pokyny. ",
+    "goto": "Pro potvrzení e-mailové adresy použijte odkaz uvedený ve zprávě. ",
+    "exchangeNow": "Provést směnu"
+  },
+  "signupSuccess": {
+    "emailConfirmed": "E-mailová adresa potvrzena",
+    "content": "Úspěšně jste dokončili registraci. <br /> Nyní můžete využívat veškerých výhod nabízených Vaši Klientskou zónou. ",
+    "exchangeNow": "Provést směnu"
+  },
+  "waitingActivate": {
+    "waiting": "Čekání na aktivaci...",
+    "text": "Probíhá aktivace... Čekejte, prosím..."
+  },
+  "card": {
+    "title": "Požadavek č. {{id}}",
+    "createdAt": "Vytvořen {{datetime}}",
+    "success": "Karta ověřena",
+    "delete": "Odstranit",
+    "error": {
+      "incorrect": "Něco se nezdařilo...",
+      "required": "Vyplňte pole",
+      "numLen": "Zadali jste nesprávné číslo platební karty, číslo karty musí obsahovat 12 až 20 číslic.",
+      "file": "Vyberte fotografii"
+    }
+  },
+  "verificationPage": {
+    "non": "Zatím nemáte žádné karty",
+    "currentCards": "Aktuální karty",
+    "notice": "Za účelem ověření Vaší karty je zapotřebí vyfotografovat přední stranu Vaší karty, a to tak, aby na pozadí byla viditelná naše webová stránka. Proces ověření potrvá jen několik minut a je ho zapotřebí pouze jednou pro každou novou kartu. ",
+    "requirementLabel": "Potřebné vlastnosti fotografie:",
+    "requirement1": "Na fotografii musí být čitelné číslo karty a jméno držitele.",
+    "requirement2": "Na pozadí (tj. za kartou) musí být k vidění obrazovka s otevřenou stránkou webu Kassa.cc",
+    "title": "Ověření platebních karet"
+  },
+  "verificationForm": {
+    "title": "Přidat kartu",
+    "labelBank": "Vyberte banku:",
+    "holderBank": "Vyberte banku:",
+    "labelName": "Uveďte jméno a příjmení držitele karty:",
+    "holderName": "Uveďte jméno a příjmení",
+    "labelNumber": "Zadejte číslo karty:",
+    "holderNumber": "Číslo karty",
+    "submit": "Odeslat"
+  },
+  "instructionEvoucherForm": {
+    "add": "Přidat další šek",
+    "remove": "Odstranit šek",
+    "notice": "Převést {{name}} na částku {{sum}}{{currency}}"
+  },
+  "exchange": {
+    "notAvailableDirectionButton": "Napište operátorovi do chatu\n",
+    "notAvailableDirection": "Přešli jste na směnu {{incomePaymentSystem}} na {{outcomePaymentSystem}}. Tento směr je momentálně nedostupný. Prosím, ",
+    "error": {
+      "email": "Zadejte platný e-mail",
+      "agree": "Je zapotřebí Váš souhlas s pravidly směny",
+      "max": "Maximální částka převodu činí {{limit}} {{currency}}",
+      "min": "Příliš nízká částka pro uskutečnění převodu. Částka směny musí být nejméně {{limit}} {{currency}}",
+      "depletedReserve": "Rezerva valuty aktuálně nedostačuje k provedení směny. <br />{{button}}",
+      "reserveNoPayment": "Vybrán nesprávný platební systém. Vyberte prosím platební systém znovu.",
+      "phone": "Zadejte platné telefonní číslo",
+      "sum": "Zadejte platnou částku"
+    },
+    "neoNotice": "When exchanging from any direction to NEO, you can specify the amount of exchange convertible to the whole NEO. You can indicate the amount of exchange in the next column, or select the amount that suits you below:"
+  },
+  "exchangeSafeInput": {
+    "attention": "Upozornění!",
+    "status": "Stav:"
+  },
+  "currencyFilter": {
+    "all": "Vše",
+    "RUB": "₽",
+    "USD": "$",
+    "EUR": "€",
+    "UAH": "₴",
+    "KZT": "₸",
+    "coin": "₿"
+  },
+  "error": "Chyba",
+  "instructionSubmit": {
+    "cancel": "Storno",
+    "paid": "Zaplatil jsem"
+  },
+  "instructionRequisites": {
+    "copy": "Kopírovat",
+    "description": "Provést převod s vlastnostmi:",
+    "to": "Nápověda: Instrukce k provedení převodu"
+  },
+  "requisitesLabel": {
+    "card": "Číslo karty",
+    "account": "Č. ú.",
+    "wallet": "Peněženka",
+    "sum": "Částka",
+    "invoiceId": "Must be included invoice id",
+    "invoiceIdXrp": "Must be included Destination Tag",
+    "destinationBank": "Destination Bank name"
+  },
+  "instructionData": {
+    "hideData": "Skrýt vlastnosti směny",
+    "showData": "Zkontrolujte vlastnosti směny",
+    "requisitesTitle": "Vaše vlastnosti směny",
+    "requisitesEdit": "Změnit vlastnosti",
+    "countdown": "Platbu požadavku proveďte ve lhůtě {{countdown}}",
+    "deadline": "Lhůta k zaplacení vypršela! Prosím {{replay}} <br /> dle aktuálního kurzu nebo <br /> {{support}} služby.",
+    "replay": "zadejte požadavek znovu",
+    "support": "se obraťte na technickou podporu",
+    "KYTinfo": "We carefully conduct KYT verification of transactions",
+    "more": "more"
+  },
+  "reserve": {
+    "topup": "Provést navýšení?"
+  },
+  "toRequestReserve": {
+    "button": "doplnění rezervy",
+    "text": "Můžete zadat požadavek na {{button}}"
+  },
+  "instructionBase": {
+    "title1": "Pro dokončení směny ",
+    "title2": "postupujte dle následujících pokynů:"
+  },
+  "instructionEvoucher": {
+    "designation": "Vložte číslo {{name}} a aktivační kód. <br /> Je-li zapotřebí zadat ještě další kód, stiskněte tlačítko \\\"Přidat další šek\\\""
+  },
+  "instructionCoin": {
+    "designation": "I confirm that funds have been debited from my account.",
+    "required": "povinné"
+  },
+  "failurePayment": {
+    "title": "Platba neprošla",
+    "content": "Platba na základě Vašeho požadavku nebyla na náš účet připsána během 18 minut. Jestli byly z Vašeho účty strženy nějaké prostředky, obraťte se prosím na technickou podporu."
+  },
+  "common": {
+    "kassa_sign": "S pozdravem\nVaše Kassa"
+  },
+  "paymentConfirm": {
+    "cancel": "Zrušit a odejít",
+    "title": "Přejít k platebnímu formuláři",
+    "description": "Stiskněte \"Přejít nyní\" pro přechod na stránku k provedení platby",
+    "next": "Přejít nyní"
+  },
+  "finish": {
+    "title": "Požadavek č. {{id}} byl úspěšně zadán a přijat ke zpracování!",
+    "notice": "Po připsání Vašich prostředků na náš účet bude Váš požadavek vyřízen během 20 minut, a prostředky budou převedeny do Vámi zvolené peněženky.",
+    "track": "Sledovat jeho stav můžete prostřednictvím své klientské zóny. ",
+    "noReserve": "Upozornění! V tomto okamžiku není k dispozici dostatečná rezerva a doba zpracování Vašeho požadavku se tak může prodloužit na 1 až 6 hodin.",
+    "newUser": "Uživatelské jméno a heslo byly zaslány na Vaši adresu elektronické pošty. ",
+    "besure": "Ujistěte se prosím, že jste nejen stiskli tlačítko \"Zaplatil jsem\", ale že jste opravdu provedli nezbytné kroky k převodu prostředků na náš účet. ",
+    "support": "V případě jakýchkoli dotazů či v případě zpoždění směny se prosím obracejte na naši technickou podporu. ",
+    "sign": "S pozdravem\nspráva portálu",
+    "showRequests": "Zobrazit mé požadavky",
+    "hold": "Převod jsme drželi 48 hodin. To jsou požadavky platebního systému. Poté operátoři žádost zpracují do 20 minut."
+  },
+  "paymentWaiting": {
+    "title": "Očekávání platby v souvislosti s požadavkem č. {{id}}",
+    "string1": "Očekáváme připsání prostředků na náš účet v souvislosti s Vaším požadavkem. Jakmile bude požadavek zaplacen, automaticky Vás přesměrujeme do Vaší Klientské zóny. "
+  },
+  "seoModals": {
+    "howToExchange": "Jak vyměnit?",
+    "help": "Pomoc"
+  },
+  "contactPage": {
+    "bestchange": "Feedback about us on monitoring {{bestchangeLink}}",
+    "bestchangeLink": "Bestchange.ru",
+    "bestchangeText": "Reviews about us on the personal monitoring page of BestChange",
+    "bestchangeName": "BestChange",
+    "bitsmedia": "Feedback on {{bitsmediaLink}}",
+    "bitsmediaLink": "bits.media",
+    "bitcointalk": "Check out with {{bitcointalkLink}}",
+    "bitcointalkLink": "feddback on bitcointalk.org",
+    "bitcointalkText": "Reviews about us on the trusted exhanges monitoring",
+    "bitcointalkName": "Bitcointalk.org",
+    "mmgp": "Check out with feedbacks and write its on {{mmgpLink}}",
+    "mmgpLink": "MMGP.ru",
+    "mmgpName": "MMGP",
+    "mmgpText": "Reviews about us in the forum thread on MMGP earnings",
+    "reviews": "Your support is very important for us and every your feedback will help us getting better! Thank you for choosing us!",
+    "reviewsOn": "Feedback on",
+    "monitoring": "Monitoring",
+    "exnodeText": "Reviews about us on the personal monitoring page of",
+    "exnodeName": "Exnode",
+    "forum": "Forum",
+    "trusteeWalletLink": "Trusteeglobal.com",
+    "trusteeWalletText": "Our partner - non-custodial crypto wallet-exchanger.",
+    "trusteeWalletName": "Trusteeglobal.com",
+    "kursexpertText": "Reviews about us on the trusted exhanges monitoring",
+    "kursexpertName": "KursExpert",
+    "trustpilotText": "Reviews about us on the",
+    "trustpilotName": "Trustpilot",
+    "exnodeText": "Reviews about us on the personal monitoring page",
+    "exnodeName": "Exnode",
+    "showAll": "Show all",
+    "links": {
+      "bestchange": "https://www.bestchange.com/kassa-exchanger.html",
+      "bitkointalk": "https://bitcointalk.org/index.php?topic=1574514.msg15806745#msg15806745&#10;&#9;&#9;&#9;",
+      "mmgp": "http://mmgp.ru/showthread.php?t=458503&amp;page=1#post11133201",
+      "kursexpert": "https://kurs.expert/ru/obmennik/kassa-cc/feedbacks.html",
+      "bitsmedia": "https://forum.bits.media/index.php?/topic/27575-kassacc-edinyi-obmen-valiut/&#10;&#9;&#9;&#9;",
+      "trusteeWallet": "https://trusteeglobal.com/ru/",
+      "trustpilot": "https://www.trustpilot.com/review/kassa.cc",
+      "exnode": "https://exnode.ru/exchangers/exchanger-375411/"
+    }
+  },
+  "forbiddenPage": {
+    "title": "Vstup do Klientské zóny znemožněn",
+    "text": "Autorizujte se prosím pomocí formuláře pro vstup. Pokud jste zapomněli své heslo, přejděte prosím na stránku věnovanou jeho obnově.",
+    "button": "Autorizovat se"
+  },
+  "newsArchivePage": {
+    "title": "Archiv novinek"
+  },
+  "notFound": {
+    "title": "Upozornění! Stránka nebyla nalezena!"
+  },
+  "notFoundPage": {
+    "text": "Je možné, že byla stránka odstraněna, nebo že jste nesprávně zadali její adresu. Přejděte prosím na hlavní stranu a využijte zdejšího navigačního menu. ",
+    "button": "Přejít na hlavní stranu"
+  },
+  "remind": {
+    "error": {
+      "codeInvalid": "Nespráný kod pro obnovu hesla",
+      "email": "Zadejte platný e-mail"
+    },
+    "newPasword": "Nové heslo"
+  },
+  "remindRequest": {
+    "remindPassword": "Obnova hesla"
+  },
+  "signupActivate": {
+    "incorrectCode": "Aktivaci nelze provést",
+    "emailConfirmed": "E-mailová adresa potvrzena"
+  },
+  "datediff": {
+    "days": "{{d}} d",
+    "hours": "{{h}} hod",
+    "time": "{{m}} min {{s}} s"
+  },
+  "verificationWaiting": {
+    "created": "Karta se ověřuje."
+  },
+  "verificationFail": {
+    "remove": "Vaše ověřená karta byla úspěšně odstraněna!",
+    "removeFail": "Nepodařilo se odstranit kartu.",
+    "error": {
+      "fio": "Uveďte prosím celé jméno a příjmení"
+    }
+  },
+  "checks": {
+    "error": {
+      "required": "Povinně uveďte jeden či více šeků/kódů",
+      "eVoucher": {
+        "number": "Zadejte platné číslo šeku",
+        "code": "Zadejte kód PIN"
+      }
+    }
+  },
+  "authOverlay": {
+    "text": "Prosím přihlaste se nebo zaregistrujte pro pokračování směny."
+  },
+  "verificationCard": {
+    "confirm": {
+      "title": "Attention! Card verification.",
+      "content": "This is the first time you make an exchange with this card on our service. For the security of your funds, verification of the Card is required. The procedure is one-time and takes from 1 to 5 minutes.",
+      "next": "Go to verification",
+      "cancel": "Cancel and exit"
+    },
+    "upload": {
+      "title": "Verification of cards",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "requirementLabel": "Photo Requirement:",
+      "requirement1": "On the photo card number and the name of the owner should be readable.",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "control": "Select a file...",
+      "error": "Download error. Please try again",
+      "uploading": "Photo upload - {{progress}}%"
+    },
+    "wait": {
+      "title": "Waiting for card verification application processing",
+      "content": "We are awaiting the processing of an application for card verification. We will automatically notify you as soon as the application will be processed."
+    },
+    "failure": {
+      "title": "Verification Failure",
+      "reasonLabel": "You were canceled verification of the card because of:",
+      "repeatNotice": "Try to verify the card again!",
+      "repeat": "Repeat"
+    }
+  },
+  "accountPage": {
+    "title": "My cards and accounts",
+    "notice": "List of accounts available for exchange",
+    "categoriesTitle": "System categories:",
+    "currentAccounts": "Express Exchange Accounts",
+    "addAccount": "Add bank account",
+    "addNewCard": "Add new card",
+    "statuses": {
+      "none": "Upload a photo",
+      "pending": "Waiting for verification",
+      "rejected": "Canceled",
+      "accepted": "Verified"
+    },
+    "accountEmptyNotice": "Link your first bank card. You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "addAccountTitle": "Verification of your bank card",
+    "addAccountNotice": "You need to link your valid card to your account to prove that you own it. Your card will be charged the minimum amount to confirm. The amount will be returned to your card, after checking the holding.",
+    "cardImage": {
+      "label": "Upload a photo of the front side of a bank card"
+    },
+    "pendingCardVerificationNotice": "We are checking your card details. Usually the test takes 2-3 minutes, but it can take up to 24 hours.",
+    "successCardVerificationNotice": "Your bank card has been successfully verified. Now you can start to exchange transactions.",
+    "rejectedCardVerificationNotice": "Your application for verification of a bank card has been rejected.",
+    "restartVerification": "Try again"
+  },
+  "instructionLink": {
+    "description": "To pay for the application, go to the payment form by clicking on the button below.",
+    "to": "Go to the website"
+  },
+  "referralUsers": {
+    "title": "Referral program",
+    "cashback": "Cashback",
+    "program": "Referral program",
+    "cashbackBlock": {
+      "title": "Get cashback on each operation",
+      "description": "Cashback is a refund of the exchange amount to your account. The percentage of return depends on the volume of exchanges",
+      "start": "Start"
+    },
+    "howTitle": "How to get a cashback?",
+    "howFirstTitle": "Registration",
+    "howFirstDescription": "Register on the site",
+    "howSecondTitle": "Make an exchange",
+    "howSecondDescription": "In any current direction",
+    "howThirdTitle": "Get cashback*",
+    "howThirdDescription": "The amount of cashback depends on the exchange amount",
+    "withdrawTitle": "How to withdraw the funds?",
+    "withdrawContentTitle": "Withdraw money in a convenient way",
+    "withdrawDescription": "Payment systems, cryptocurrency or fiat",
+    "getTitle": "What do I get?",
+    "getFirstTitle": "From 5%",
+    "getFirstDescription": "After registration",
+    "getSecondTitle": "Time saving",
+    "getSecondDescription": "Withdrawal for next 20 minutes",
+    "getThirdTitle": "Convenient withdraw",
+    "getThirdDescription": "Select a withdrawal method",
+    "conditionTitle": "Cashback term",
+    "conditionFirstTitle": "Initial",
+    "conditionFirstLimit": "Exchange up to $ 1,000",
+    "conditionFirstCashback": "Cashback amount 5%",
+    "conditionSecondTitle": "Personal",
+    "conditionSecondLimit": "Exchange up to $ 10,000",
+    "conditionSecondCashback": "Cashback amount 10%",
+    "conditionThirdTitle": "Professional",
+    "conditionThirdLimit": "Exchange up to $ 10,000",
+    "conditionThirdCashback": "Cashback amount 15%",
+    "explanation": "* Please note, that you get a percentage of the service's earnings from each of your exchange transactions. Cashback is charged only if the service commission for the exchange was more than 0%. If there is no service commission for this exchange direction, no cashback is charged.",
+    "referralBlock": {
+      "title": "Earn money on the referral program Kassa.cc.",
+      "description": " The referral program is your income from all user exchanges registered with your referral link.",
+      "descriptionSecond": "Register on the site and participate in the program.",
+      "start": "Start work"
+    },
+    "howItWorkTitle": "How it works??",
+    "howItWorkFirstTitle": "Copy the link",
+    "howItWorkFirstNotice": "In the section of your personal account - Referral program",
+    "howItWorkSecondTitle": "Place on the site",
+    "howItWorkSecondNotice": "Share with your friends in social networks",
+    "howItWorkThirdTitle": "Convenient withdraw",
+    "howItWorkThirdNotice": "Select a withdrawal method",
+    "gonnaGetTitle": "What do I get??",
+    "gonnaGetFirst": "Higher percentage of referral charges",
+    "gonnaGetSecond": "Gifts from our service",
+    "referralConditionsTitle": "Terms",
+    "referralConditionsFirstTitle": "150 referrals",
+    "referralConditionsFirstItem": "Apple AirPods",
+    "referralConditionsExchangePercent": "or {{percent}} of the exchange amount",
+    "referralConditionsSecondTitle": "300 referrals",
+    "referralConditionsSecondItem": "iPhone",
+    "referralConditionsThirdTitle": "50 referrals",
+    "referralConditionsThirdItem": "Mi Band 3",
+    "referralConditionsFourthTitle": "100 referrals",
+    "referralConditionsFourthItem": "JBL Charge 3",
+    "referralConditionsFifthTitle": "20 referrals",
+    "referralConditionsFifthItem": "Gift from Kassa.сс",
+    "referralConditionsSixthTitle": "30 referrals",
+    "referralConditionsSixthItem": "Power bank",
+    "referralConditionsSeventhTitle": "Registration on the site",
+    "referralConditionsSeventhItem": "0,5% of the exchange amount",
+    "referralConditionsEighthTitle": "10 referrals",
+    "referralConditionsEighthItem": "USB Flash drive"
+  },
+  "oauth": {
+    "sectionTitle": "Authorization by social network",
+    "sectionNotice": "Connect your social networks for the convenience of instant authorization in нour personal account Kassa.cc",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "google": "google.com",
+    "facebook": "Facebook",
+    "vk": "VKontakte",
+    "errorWithDisconnect": "The user is not tied"
+  },
+  "signInOauth": {
+    "title": "Login confirmation",
+    "notice": "Confirm the entrance to your account by entering a password and we will automatically link your social network",
+    "submit": "Confirm"
+  },
+  "onlinePaymentsPage": {
+    "title": "Internet-Acquiring",
+    "otherPartnersLink": "Other partnership offers",
+    "heroDescription": "We offer safe and reliable technologies for connecting payment acceptance on the Internet.",
+    "connect": "Connect",
+    "advantagesTitle": "Benefits Internet{{space}}-{{space}}Acquiring Kassa",
+    "advantage1Title": "Without documents",
+    "advantage1Notice": "We do not request documents and data about your legal entity",
+    "advantage2Title": "No turnover requirements",
+    "advantage2Notice": "We do not limit the turnover of our customers",
+    "advantage3Title": "Quick connect",
+    "advantage3Notice": "Average Internet Acquiring Term 1 day",
+    "advantage4Title": "Safety",
+    "advantage4Notice": "We work without failures with minimal chargebacks",
+    "allWorldPaymentsTitle": "We accept payments worldwide.",
+    "allWorldPaymentsNotice": "In Bitcoin, Яндекс.Деньги, Qiwi, Dashcoin, Litecoin, Zcash and other. Bank card payments in the Russian Federation and the CIS.",
+    "integrationTitle": "Easy integration",
+    "integrationNotice": "Detailed documentation with examples to integrate to the API without technical support",
+    "linkToDoc": "Documentation",
+    "areasTitle": "Business areas",
+    "areas1Title": "Exchangers",
+    "areas2Title": "Services and digital content",
+    "areas3Title": "Gambling",
+    "areas4Title": "Bets",
+    "areas5Title": "Casino",
+    "areas6Title": "Highrish",
+    "tariffsTitle": "Tariffs for all business",
+    "paymentSystem": "Payment System",
+    "addition": "Addition",
+    "withdrawal": "Withdrawal",
+    "bankCards": "Bank Cards",
+    "exchangersTab": "Exchangers",
+    "servicesTab": "Services and digital content",
+    "casinoTab": "Casino",
+    "betsTab": "Bets",
+    "hairiskTab": "Highrish",
+    "howTitle": "How to connect acquiring?",
+    "howNotice": "It usually takes 24 hours to access the API.",
+    "how1Title": "Send a request",
+    "how1Notice": "We will check the site on the same day and confirm the connection",
+    "how2Title": "Access",
+    "how2Notice": "After confirmation, you get access to the payment API",
+    "how3Title": "Integrate",
+    "how3Notice": "Detailed documentation allows integration without technical support",
+    "orderSubmit": "Submit your application",
+    "orderSubmitSuccess": "Sent",
+    "formTitle": "Fill in the contact information",
+    "formWarning": "Application processing time on average takes 2 hours, but can last up to 48 hours.",
+    "formPlaceholderEmail": "E-mail",
+    "formPlaceholderUrl": "Site URL",
+    "formPlaceholderCash": "Planned monthly turnover",
+    "unavailable": "unavailable"
+  },
+  "metaTags": {
+    "exchangePage": {
+      "title": "Kassa.cc - Jednotná směnárna",
+      "description": "Jednotná elekronická směnárna s kvalitním servisem. Provádíme směnu: Qiwi, BTC, Perfect Money, Payeer, Alpha Bank, Tinkoff, VTB 24",
+      "og": {
+        "title": "Kassa.cc - Jednotná směnárna",
+        "description": "Jednotná elekronická směnárna s kvalitním servisem. Provádíme směnu: Qiwi, BTC, Perfect Money, Payeer, Alpha Bank, Tinkoff, VTB 24",
+        "image": "http://kassa.cc/images/main_og_image.jpg"
+      }
+    }
+  },
+  "banners": {
+    "promotion": "Promotion",
+    "upTo": "up to",
+    "onlinePayments": "Online \n payments",
+    "service": "service"
+  },
+  "cardVerificationMW": {
+     "title": "Card Verification",
+     "first": "Enter card details",
+     "fio": "Name of the cardholder",
+     "number": "Card number",
+     "second": "Upload photo",
+     "plastic": "Plastic card",
+     "virtual": "Virtual card",
+     "send": "Send for moderation",
+     "plasticInstruction": {
+       "first": "open our site on your computer",
+       "second": "take a picture of your card against it so that the card numbers can be read",
+       "third": "upload resulting photo",
+       "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+     },
+    "virtualInstruction": {
+       "firstVariant": {
+         "title": "First way",
+         "first": "open the virtual card on your computer.",
+         "second": "in another window open our website (kassa.cc)",
+         "third": "zoom out one of the windows on the screen so that both windows can be photographed",
+         "fourth": "upload resulting photo",
+         "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+       },
+       "secondVariant": {
+         "title": "Second way",
+         "first": "open virtual card on phone",
+         "second": "open the site kassa.cc",
+         "third": "take a photo of the virtual card with the kassa.cc tab open in the background",
+         "fourth": "upload resulting photo",
+         "notice": "Important! The card numbers and owner's name must be read on the photo."
+       },
+       "thirdVariant": {
+         "title": "Third way",
+         "first": "open the virtual map on your phone or computer.",
+         "second": "write on a piece of paper the name of our site kassa.cc and today's date",
+         "third": "put a piece of paper on the screen and take a photo",
+         "fourth": "upload resulting photo",
+         "notice": "Important! The card numbers and owner's name must be read on the photo."
+       }
+    }
+  },
+  "photoInput": {
+    "info": "Drop photo here \n or",
+    "upload": "download photo"
+  },
+  "orderPage": {
+    "topBlock": {
+      "rejected": {
+        "title": "Order #{{id}} calceled!"
+      },
+      "success": {
+        "title": "Order #{{id}} completed successfully!",
+        "link": "Link to transaction"
+      },
+      "default": {
+        "title": "Order №{{id}} successfully created <br />and accepted for processing!",
+        "subtitle": "We will send funds according to your request within 20 minutes after the funds are credited to our account."
+      },
+      "openChat": "Chat with us"
+    },
+    "statusBlock": {
+      "waiting_payment": "We are waiting for payment",
+      "waiting_money": "We are waiting for the receipt of <br /> funds",
+      "waiting_confirm": "We are waiting for confirmation from <br /> network",
+      "in_progress": "We perform exchange",
+      "complete": "Exchange completed"
+    },
+    "infoBlock": {
+      "title": "Accepted transaction information",
+      "created_at": "Application creation date:",
+      "cheque": "Cheque:",
+      "pin": "Pin:"
+    }
+  }
+}
