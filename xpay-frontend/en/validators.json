@@ -8,15 +8,17 @@
     "error": "Error!"
   },
   "string": {
-    "length": "${path} must be exactly ${length} characters",
-    "min": "${path} must be at least ${min} characters",
+    "length": "{{path}} must be exactly {{length}} characters",
+    "min": "{{path}} must be at least {{min}} characters",
     "max": "${path} must be at most ${max} characters",
     "matches": "${path} must match the following: \"${regex}\"",
     "email": "Enter a valid email",
     "url": "${path} must be a valid URL",
     "trim": "${path} must be a trimmed string",
     "lowercase": "${path} must be a lowercase string",
-    "uppercase": "${path} must be a upper case string"
+    "uppercase": "${path} must be a upper case string",
+    "passwordsNotEqual": "Passwords not equal",
+    "fullName": "Enter full name"
   },
   "number": {
     "min": "Value must be greater than or equal to {{min}}",

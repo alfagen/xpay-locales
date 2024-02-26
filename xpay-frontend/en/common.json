@@ -18,10 +18,17 @@
   },
   "auth": {
     "title": "Sign in <br />to your profile",
-    "subtitle": " Let's fill out the information to sign in",
+    "subtitle": "Let's fill out the information to sign in",
     "signToAcc": "Sign in to your account",
     "notHaveAcc": "You don't have an account yet?",
     "signup": "Sign up"
+  },
+  "registration": {
+    "title": "Sign up <br />to your profile",
+    "subtitle": "Let's fill out the information to sign up",
+    "alreadyHaveAcc": "You don't have an account yet?",
+    "signup": "Sign up",
+    "signin": "Sign in"
   },
   "simple": {
     "reserve": "Reserve",
@@ -31,7 +38,49 @@
     "crypto": "Crypto",
     "rub": "RUB",
     "usd": "USD",
-    "search": "Search"
+    "search": "Search",
+    "password": "Password",
+    "profile": "Profile",
+    "save": "Save",
+    "add": "Add",
+    "remove": "Remove",
+    "status": "Status",
+    "error": "Error",
+    "verified": "Verified",
+    "reasonNotFound": "reason not found",
+    "inModerating": "In moderating",
+    "loadMore": "Load more",
+    "order": "Order",
+    "details": "Details",
+    "give": "Give",
+    "get": "Get",
+    "created": "Created",
+    "russian": "Russian",
+    "english": "English",
+    "czech": "Czech",
+    "step": "Step",
+    "of": "Of",
+    "copy": "Copy",
+    "fio": "FIO",
+    "cheque": "Cheque",
+    "pin": "Pin",
+    "value": "Value"
+  },
+  "inputs": {
+    "bankName": "BANK NAME",
+    "cardName": "CARD NAME",
+    "cardNumber": "CARD NUMBER",
+    "maxSize": "Max Size",
+    "upload": "Upload Document",
+    "drop": "Drop here...",
+    "error": "Error!",
+    "oldPass": "Old password",
+    "newPass": "New password",
+    "repeatNewPass": "Repeat new password"
+  },
+  "segment": {
+    "plasticCard": "Plastic card",
+    "virtualCard": "Virtual card"
   },
   "footer": {
     "allRights": "All rights reserved"
@@ -53,5 +102,173 @@
     "titleIncome": "Changing what?",
     "titleOutcome": "What do you want to get?",
     "available": "Available Cryptocurrencies"
+  },
+  "reservesPage": {
+    "title": "Reserves"
+  },
+  "faqPage": {
+    "title": "FAQ"
+  },
+  "newsPage": {
+    "title": "News",
+    "dateAdded": "Date added"
+  },
+  "contactsPage": {
+    "title": "Contacts",
+    "writeOperator": "Write to operator",
+    "writeUs": "Write us now",
+    "techTitle": "Technical support",
+    "techDesc": "If you have got any technical or financial questions, write us and we will help you. We answer on questions queries within 15-60 minutes depending on load service.",
+    "prTitle": "Cooperation and PR",
+    "prDesc": "If you have got proposal for cooperations, connectionmonitoring, questions about commercial adding nwe wallet - write us, we always welcome to cooperation!",
+    "feedbackTitle": "Feedback about service",
+    "feedbackDesc": "Your support is very important for us and every your feedback will help us getting better! <br /> Thank you for choosing us!",
+    "socialTitle": "We are in social networks",
+    "socialDesc": "Your support is very important for us and every your feedback will help us getting better! <br /> Thank you for choosing us!",
+    "contactBlock": {
+      "hours": "Working hours",
+      "suppEmail": "Support on mail",
+      "chat": "Online chat",
+      "chatNow": "Chat now",
+      "tg": "Support in Telegram",
+      "from": "from",
+      "to": "to"
+    }
+  },
+  "personalInfoPage": {
+    "title": "Personal Information",
+    "subtitle": "Here you can view and update your contact information",
+    "contactDetail": "Contact Details",
+    "enterName": "Enter your full name as it appears on your ID card",
+    "email": "Email",
+    "enterEmail": "Enter your email address to receive notifications from the crypto exchange",
+    "onEmail": "On your mail",
+    "sentLetter": "has sent letter with futher instructions.",
+    "emailStatus": {
+      "not_verified": "No verified yet",
+      "sendCode": "Send Verification Code",
+      "verified": "Verified"
+    }
+  },
+  "paymentVaultPage": {
+    "title": "Payment Vault",
+    "subtitle": "Here you can manage your cards and wallets to quickly use them for exchanges",
+    "cards": "Bank Cards",
+    "ps": "Payment System Accounts",
+    "noCards": "No Cards Yet",
+    "verifyBankCard": "Verify Bank Card"
+  },
+  "editBankCardMW": {
+    "title": "Edit Bank Card",
+    "save": "Save Updates"
+  },
+  "addWalletMW": {
+    "title": "New Crypto Wallet",
+    "walletPlaceholder": "Wallet Name",
+    "addBtn": "Add New Crypto Wallet"
+  },
+  "cardVerificationMW": {
+    "title": "Verify Bank Card",
+    "process": "Verification Process",
+    "processDesc": "Depending on the type of card selected, this will show you how the card should be positioned to create a verification photo",
+    "btn": "Verify Bank Card",
+    "addCardError": "Error on add card request"
+  },
+  "verificationCard": {
+    "confirm": {
+      "title": "Attention! Card verification.",
+      "content": "This is the first time you make an exchange with this card on our service. For the security of your funds, verification of the Card is required. The procedure is one-time and takes from 1 to 5 minutes.",
+      "next": "Go to verification",
+      "cancel": "Cancel and exit"
+    },
+    "upload": {
+      "title": "Verification of cards",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "requirementLabel": "Photo Requirement:",
+      "requirement1": "On the photo card number and the name of the owner should be readable.",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "control": "Select a file...",
+      "error": "Download error. Please try again",
+      "uploading": "Photo upload - {{progress}}%"
+    },
+    "wait": {
+      "title": "Waiting for card verification application processing",
+      "content": "We are awaiting the processing of an application for card verification. We will automatically notify you as soon as the application will be processed."
+    },
+    "failure": {
+      "title": "Verification Failure",
+      "reasonLabel": "You were canceled verification of the card because of:",
+      "repeatNotice": "Try to verify the card again!",
+      "repeat": "Repeat"
+    }
+  },
+  "ordersPage": {
+    "title": "Orders",
+    "subtitle": "Here you can keep an eye on your orders",
+    "newOrder": "New order"
+  },
+  "settingsPage": {
+    "title": "Settings",
+    "subtitle": "Two-factor authentication settings and other security settings",
+    "passBlock": {
+      "password": "Password",
+      "desc": "Here you can update your current password",
+      "lastUpdate": "last updated password",
+      "daysAgo": "{{days}} days ago",
+      "changePass": "Change password"
+    },
+    "langBlock": {
+      "title": "Language",
+      "subtitle": "Here you can customize which language to use <br /> by default when logging into your account"
+    }
+  },
+  "changePasswordMW": {
+    "title": "New password",
+    "notice": "The password must contain at least 8 characters, including letters, numbers and special characters.",
+    "saveBtn": "Change Password"
+  },
+  "orderPage": {
+    "requestCreated": "Your request created!",
+    "cantLoadData": "Cant load order data"
+  },
+  "orderSteps": {
+    "move": "Click \"Move now\" for switching to payment page",
+    "needSend": "You need to send",
+    "highlighted": "to the address highlighted below",
+    "process": "We will process your application",
+    "minutes": "within 20 minutes",
+    "after": "after funds are credited to our account",
+    "receiveFunds": "We have received the funds and are now sending you your share.",
+    "success": "Exchange was successful",
+    "carry": "To carry out the exchange, you need to stay on this page without refreshing it.",
+    "chequeAdd": "add new",
+    "cheque": "Payment cheque",
+
+    "statusBlock": {
+      "waiting_payment": "We are waiting for payment",
+      "waiting_money": "We are waiting for the receipt of <br /> funds",
+      "waiting_confirm": "We are waiting for confirmation from <br /> network",
+      "in_progress": "We perform exchange",
+      "complete": "Exchange completed"
+    }
+  },
+  "instructionSubmit": {
+    "cancel": "Cancel",
+    "paid": "I have paid"
+  },
+  "paymentConfirm": {
+    "cancel": "Cancel and exit",
+    "title": "Switch to form of payment",
+    "description": "Click \"Move now\" for switching to payment page",
+    "next": "Move now"
+  },
+  "requisitesLabel": {
+    "card": "Bank card",
+    "account": "Bill №",
+    "wallet": "Wallet",
+    "sum": "Amount",
+    "invoiceId": "Must be included invoice id",
+    "invoiceIdXrp": "Must be included Destination Tag",
+    "destinationBank": "Destination Bank name"
   }
 }
