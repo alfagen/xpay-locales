@@ -270,5 +270,8 @@
     "invoiceId": "Must be included invoice id",
     "invoiceIdXrp": "Must be included Destination Tag",
     "destinationBank": "Destination Bank name"
+  },
+  "languagesPage": {
+    "selectLanguage": "Select language"
   }
 }
