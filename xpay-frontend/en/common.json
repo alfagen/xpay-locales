@@ -273,5 +273,13 @@
   },
   "languagesPage": {
     "selectLanguage": "Select language"
+  },
+  "statuses": {
+    "fail": "fail",
+    "rejected": "rejected",
+    "pending": "pending",
+    "success": "success",
+    "accepted": "accepted",
+    "waiting": "waiting"
   }
 }
