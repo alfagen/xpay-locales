@@ -287,6 +287,20 @@
   "refProgramPage": {
     "title": "Referral program",
     "subtitle": "In order to take advantage of all the benefits of our service, you need to register on our website and activate your account by mail. To do this, you must specify personal and existing mail. Only one account can be linked to one mail. Before registering, read the rules of our service.",
-    "refLink": "Your referral link"
+    "refLink": "Your referral link",
+    "list": "Список рефералов",
+    "empty": "У вас нет рефералов",
+    "stat": "Статистика переходов",
+    "refCount": "Количество рефералов",
+    "jumpsCount": "Переходов",
+    "earnings": "Заработок",
+    "currentBalance": "Текущий баланс",
+    "earnSum": "Всего заработано",
+    "payout": "Вывести",
+    "payoutHistory": "История выплат"
+  },
+  "ReferalList": {
+    "title": "Список рефералов",
+    "content": "Описание реферальной программы: это ведущий <br /> международный обменный сервис электронных валют. Мы <br /> проводим обмен, ввод и вывод : Perfect Money, BTC, BTC-e <br /> кодов, Payeer, Киви, Яндекс. Деньги, а так же осуществляем <br /> банковские переводы.Работаем с такими банками как <br /> Сбербанк, Альфа банк, ВТБ24 и Тинькофф."
   }
 }
