@@ -14,7 +14,8 @@
     "vault": "Payment Vault",
     "orders": "Orders",
     "settings": "Settings",
-    "exit": "Exit"
+    "exit": "Exit",
+    "referral": "Ref Program"
   },
   "auth": {
     "title": "Sign in <br />to your profile",
@@ -64,7 +65,8 @@
     "fio": "FIO",
     "cheque": "Cheque",
     "pin": "Pin",
-    "value": "Value"
+    "value": "Value",
+    "share": "Share"
   },
   "inputs": {
     "bankName": "BANK NAME",
@@ -281,5 +283,10 @@
     "success": "success",
     "accepted": "accepted",
     "waiting": "waiting"
+  },
+  "refProgramPage": {
+    "title": "Referral program",
+    "subtitle": "In order to take advantage of all the benefits of our service, you need to register on our website and activate your account by mail. To do this, you must specify personal and existing mail. Only one account can be linked to one mail. Before registering, read the rules of our service.",
+    "refLink": "Your referral link"
   }
 }
