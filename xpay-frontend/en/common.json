@@ -66,7 +66,8 @@
     "cheque": "Cheque",
     "pin": "Pin",
     "value": "Value",
-    "share": "Share"
+    "share": "Share",
+    "fixRate": "Fix rate"
   },
   "inputs": {
     "bankName": "BANK NAME",
@@ -96,9 +97,11 @@
     "agreeLink": "basic account verification conditions",
     "amlKyt": "AML, KYT",
     "payBtn": "Proceed to Payment",
+    "payBtnMobile": "Go next",
     "fillInfo": "Let’s fill information about you",
     "verify": "Let's verify details",
-    "mobileTitle": "Your exchange request"
+    "mobileTitle": "Your exchange request",
+    "tooltipNotice": "This is fixed rate, that is, after clicking on 'exchange now', the rate in the application does not change"
   },
   "selectPsMW": {
     "titleIncome": "Changing what?",
@@ -252,6 +255,12 @@
       "waiting_confirm": "We are waiting for confirmation from <br /> network",
       "in_progress": "We perform exchange",
       "complete": "Exchange completed"
+    },
+    "stepsStatuses": {
+      "waiting_payment": "Awaiting receipt of funds",
+      "waiting_network": "Awaiting network confirmation",
+      "in_progress": "We do the exchange",
+      "complete": "Exchange was successful"
     }
   },
   "instructionSubmit": {
@@ -299,8 +308,99 @@
     "payout": "Вывести",
     "payoutHistory": "История выплат"
   },
+  "referalFundsHistory": {
+    "title": "History of referral charges"
+  },
+  "rewardsHistory": {
+    "title": "History of remunerations"
+  },
   "ReferalList": {
     "title": "Список рефералов",
     "content": "Описание реферальной программы: это ведущий <br /> международный обменный сервис электронных валют. Мы <br /> проводим обмен, ввод и вывод : Perfect Money, BTC, BTC-e <br /> кодов, Payeer, Киви, Яндекс. Деньги, а так же осуществляем <br /> банковские переводы.Работаем с такими банками как <br /> Сбербанк, Альфа банк, ВТБ24 и Тинькофф."
+  },
+  "notify": {
+    "attention": "Attention",
+    "error": "Error!",
+    "close": "Close",
+    "errorLoading": "No connection with server. Information may be obsolete. Please {{refreshPage}}",
+    "refreshPage": "refresh a page",
+    "rest": "Dear clients, our service is on technical break. Come back in {{icon}} {{time}}",
+    "copied": "Copied!",
+    "copiedText": "Data copied to the clipboard.",
+    "saved": "Saved!",
+    "removed": "Deleted!"
+  },
+  "notFoundPage": {
+    "title": "An error has occurred",
+    "text": "Write to technical support to fix the error as soon as possible",
+    "button": "Go to the home page",
+    "tryAgain": "Try again"
+  },
+  "RewardsRequestForm": {
+    "withdrawFunds": "What funds need to withdrawal:",
+    "referal": "Referral",
+    "rewards": "Remunerations",
+    "submit": "Withdrawal"
+  },
+  "rewardsRequest": {
+    "title": "Application for remunerations",
+    "safeOutput": "Well done! Great job, but now we <br /> ready withdraw funds on any aviable <br /> below and comfortable wallet.",
+    "successTitle": "Confirming withdrawal remunerations",
+    "needСonfirmation": "We care about safety of your account. To conclude <br /> application for withdrawal your remunerations we sent on your mail <br /> lellet with link for confirming creation of application. <br /> On all matters or in case of delay with transfer of funds take it up with technical support. <br /> Respectfully, site administration.",
+    "successOk": "Ok"
+  },
+  "refPage": {
+    "more": "Read more",
+    "createRequest": "Create application for payment",
+    "incomePaid": "Paid",
+    "incomeUnpaid": "Didn't paid",
+    "successCredited": "Successfully accrued",
+    "verificationReward": "Reward for verification",
+    "notCredited": "Not credited",
+    "currency": "Currency",
+    "referalFundsEmpty": "You haven't got charges",
+    "rewardsSum": "Total earnings",
+    "currencies": {
+      "ruble": "Rubles ",
+      "dollar": "Dollars",
+      "bitcoin": "BTC"
+    },
+    "earnedMoney": " Funds earned:",
+    "aboutReferalFundsTitle": "About our referral program",
+    "referalFundsNotice": "Share a partner link, invite friends and earn to 1% for exchange your referrals.",
+    "referalListEmpty": "You haven't got referrals",
+    "shareSubtitle": "Your link for inviting friends:",
+    "copyLink": "Copy",
+    "shareSocials": "You can share link quickly in social networks:",
+    "shareText": {
+      "common": "Hi! Find cool service which will allow quickly and safely exchange your money. Come to the site, sign up and you will get discount 5% from me right now for every type of exchange. Also from every exchange with my link you will receive bonuses, from 5 invited friends you will receive presents (Including iPad mini)",
+      "twitter": "Hi! Find cool service which will allow quickly and safely exchange your money."
+    },
+    "statsSubtitle": "Statistics of movement",
+    "statCount": "Number of referrals",
+    "refCount": "Referral were registered",
+    "refList": "Referrals list",
+    "needVerificationStatus": "To get your bonus for status verification, you must complete verification.",
+    "startVerification": "Pass the verification",
+    "needFinishVerificationStatus": "To get your bonus for status verification you need to download the documents.",
+    "noneVerificationStatus": "To get your bonus for status verification, you must pass verification",
+    "verificationProcessingStatus": "You will receive your bonus for status verification after processing your verification application (from 2 to 48 hours).",
+    "successVerificationStatus": "Your bonus will be credited to your account on December 1, 2018 in gratitude.",
+    "rejectedVerificationStatus": "To get your bonus for status verification, you must pass verification",
+    "rewards": "Remunerations:",
+    "aboutRewards": "About our remunerations",
+    "rewardsNotice": "Receive pleasant bonus for every exchange, move money on any available account for you.",
+    "title": "Referral program",
+    "about": "Referal program - it is a type of earning for sign in users of our service as a exchange remunerations who came to us due your referral link.",
+    "why": "Share partnership link, use promo materials, invite friends and earn up to 1% for exchange your referrals.",
+    "morePartners": "Read more about partnership program"
+  },
+  "instructionEvoucherForm": {
+    "add": "Add check",
+    "remove": "Delete check",
+    "notice": "Transfer {{name}} on amount {{sum}}{{currency}}"
+  },
+  "instructionEvoucher": {
+    "designation": "Ener number {{name}} and activation code. <br /> If you need add one code click <br /> «Add check»"
   }
 }
