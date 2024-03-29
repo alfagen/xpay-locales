@@ -205,19 +205,19 @@
     }
   },
   "ordersPage": {
-    "title": "Orders",
-    "subtitle": "Here you can keep an eye on your orders",
-    "newOrder": "New order"
+    "title": "Заявки",
+    "subtitle": "Здесь вы можете следить за своими заказами",
+    "newOrder": "Новая заявка"
   },
   "settingsPage": {
-    "title": "Settings",
-    "subtitle": "Two-factor authentication settings and other security settings",
+    "title": "Настройки",
+    "subtitle": "Настройки паролей",
     "passBlock": {
-      "password": "Password",
-      "desc": "Here you can update your current password",
-      "lastUpdate": "last updated password",
-      "daysAgo": "{{days}} days ago",
-      "changePass": "Change password"
+      "password": "Пароль",
+      "desc": "Здесь вы можете обновить свой текущий пароль",
+      "lastUpdate": "Последнее обновление: ",
+      "daysAgo": "{{days}} дней назад",
+      "changePass": "Изменить пароль"
     },
     "langBlock": {
       "title": "Language",
