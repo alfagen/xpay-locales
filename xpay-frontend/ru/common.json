@@ -277,17 +277,17 @@
     "selectLanguage": "Select language"
   },
   "statuses": {
-    "fail": "fail",
-    "rejected": "rejected",
-    "pending": "pending",
-    "success": "success",
-    "accepted": "accepted",
-    "waiting": "waiting"
+    "fail": "Ошибка",
+    "rejected": "Отклонена",
+    "pending": "Ожидание",
+    "success": "Выполнено",
+    "accepted": "Принята",
+    "waiting": "Ожидание"
   },
   "refProgramPage": {
-    "title": "Referral program",
-    "subtitle": "In order to take advantage of all the benefits of our service, you need to register on our website and activate your account by mail. To do this, you must specify personal and existing mail. Only one account can be linked to one mail. Before registering, read the rules of our service.",
-    "refLink": "Your referral link",
+    "title": "Реферальная программа",
+    "subtitle": "Для того, чтобы воспользоваться всеми преимуществами нашего сервиса, Вам необходимо зарегистрироваться на нашем сайте и активировать аккаунт по почте. Для этого необходимо указать личную и существующую почту. К одной почте можно привязать только один аккаунт. Перед регистрацией ознакомьтесь с правилами нашего сервиса.",
+    "refLink": "Ваша реферальная ссылка",
     "list": "Список рефералов",
     "empty": "У вас нет рефералов",
     "stat": "Статистика переходов",
