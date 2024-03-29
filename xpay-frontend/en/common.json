@@ -15,7 +15,8 @@
     "orders": "Orders",
     "settings": "Settings",
     "exit": "Exit",
-    "referral": "Ref Program"
+    "referral": "Ref Program",
+    "exchangeRules": "Exchange rules"
   },
   "auth": {
     "title": "Sign in <br />to your profile",
