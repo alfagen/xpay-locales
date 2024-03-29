@@ -230,7 +230,7 @@
     "saveBtn": "Change Password"
   },
   "orderPage": {
-    "requestCreated": "Your request created!",
+    "requestCreated": "Заявка создана",
     "cantLoadData": "Cant load order data"
   },
   "orderSteps": {
