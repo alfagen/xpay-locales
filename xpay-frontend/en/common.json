@@ -16,7 +16,8 @@
     "settings": "Settings",
     "exit": "Exit",
     "referral": "Ref Program",
-    "exchangeRules": "Exchange rules"
+    "exchangeRules": "Exchange rules",
+    "partners": "For partners"
   },
   "auth": {
     "title": "Sign in <br />to your profile",
@@ -403,5 +404,13 @@
   },
   "instructionEvoucher": {
     "designation": "Ener number {{name}} and activation code. <br /> If you need add one code click <br /> «Add check»"
+  },
+  "MonitoringModal": {
+    "title": "For monitorings",
+    "invite": "We are pleased to invite monitorings of exchanges.We are very glad to new partners and ready to share profit.",
+    "referalLink": "Register in our site and you wil get special referal link.",
+    "reward": "All monitorings has a standart 0,5% from the exchange amount of your referrals. Write us on mail kassa.today@gmail.com and in special sutiations we will talk abou size of your per cent.",
+    "downloadExport": "Download export rates.",
+    "registration": "Register as monitoring"
   }
 }
