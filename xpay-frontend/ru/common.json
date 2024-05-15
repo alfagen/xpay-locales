@@ -431,5 +431,45 @@
       "title": "Подключите прием платежей Visa / MC / МИР <br/>и криптоплатежей через нашу систему",
       "desc": "Прием платежей от 0,5 за криптопроцессинг и от 2,5% за эквайринг платежей в RUB"
     }
+  },
+  "remindForm": {
+    "labelPassword": "Придумайте пароль:",
+    "holderPassword": "Пароль",
+    "labelPassConfirm": "Повторите ввод пароля:",
+    "holderPassConfirm": "Повторите ввод пароля:",
+    "savePassword": "Сохранить пароль"
+  },
+  "remindSended": {
+    "newPasword": "Новый пароль",
+    "text1": "Ура! Вы успешно сменили пароль. <br /> Теперь вы можете перейти в личный кабинет.",
+    "gotoLk": "Перейти в личный кабинет"
+  },
+  "remindRequestForm": {
+    "labelEmail": "Введите e-mail:",
+    "holderEmail": "Ваш e-mail",
+    "remindPassword": "Восстановить пароль"
+  },
+  "remindRequestSended": {
+    "mailSended": "Письмо отправлено",
+    "mailSendedDescribe": "На указанную вами почту <br /> выслано письмо с дальнейшими инструкциями.",
+    "goto": "Для завершения восстановления пароля перейдите по ссылке,\n    указанной в письме."
+  },
+  "Captcha": {
+    "refreshCaptcha": "Обновить",
+    "labelCaptcha": "Введите буквы с картинки:"
+  },
+  "remind": {
+    "error": {
+      "codeInvalid": "Неверный код для восстановления пароля",
+      "email": "Введите правильный E-mail"
+    },
+    "newPasword": "Новый пароль"
+  },
+  "remindRequest": {
+    "remindPassword": "Восстановление пароля"
+  },
+  "signupActivate": {
+    "incorrectCode": "Активация невозможна",
+    "emailConfirmed": "E-mail подтвержден"
   }
 }

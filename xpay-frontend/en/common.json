@@ -412,5 +412,38 @@
     "reward": "All monitorings has a standart 0,5% from the exchange amount of your referrals. Write us on mail kassa.today@gmail.com and in special sutiations we will talk abou size of your per cent.",
     "downloadExport": "Download export rates.",
     "registration": "Register as monitoring"
+  },
+  "remindSended": {
+    "newPasword": "New password",
+    "text1": "Yay! You succesfully change your password. <br /> Now you can move to your account.",
+    "gotoLk": "Move to my account"
+  },
+  "remindRequestForm": {
+    "labelEmail": "Enter e-mail:",
+    "holderEmail": "Your e-mail",
+    "remindPassword": "Recover the password"
+  },
+  "remindRequestSended": {
+    "mailSended": "The letter have sent",
+    "mailSendedDescribe": "On your mail <br /> we had sent letter with futher instructions.",
+    "goto": "For completion password recovery move to link,\nin your letter."
+  },
+  "Captcha": {
+    "refreshCaptcha": "Refresh",
+    "labelCaptcha": "Enter letters from the image:"
+  },
+  "remind": {
+    "error": {
+      "codeInvalid": "Wrong code foe password recovery",
+      "email": "Enter correct E-mail"
+    },
+    "newPasword": "New password"
+  },
+  "remindRequest": {
+    "remindPassword": "Password recovery"
+  },
+  "signupActivate": {
+    "incorrectCode": "Activation is not possible",
+    "emailConfirmed": "E-mail has accepted"
   }
 }
