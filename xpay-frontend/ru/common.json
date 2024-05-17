@@ -134,6 +134,7 @@
     "feedbackDesc": "Нам очень важна Ваша поддержка и каждый ваш отзыв поможет нам становиться лучше! <br />",
     "socialTitle": "Мы в социальных сетях",
     "socialDesc": "Следите за нами в социальных сетях!",
+    "forum": "Форум",
     "contactBlock": {
       "hours": "Время работы",
       "suppEmail": "Поддержка по почте:",
@@ -142,6 +143,21 @@
       "tg": "Поддержка в Telegram",
       "from": "с",
       "to": "до"
+    },
+    "reviews": {
+      "bitcointalk": "Ознакомьтесь с {{bitcointalkLink}}",
+      "bitcointalkLink": "отзывами на bitcointalk.org",
+      "bitcointalkText": "Отзывы о нас в надежном мониторинге обменных валют",
+      "bitcointalkName": "Bitcointalk.org",
+      "mmgp": "Ознакомьтесь с отзывами и оставьте свой на {{mmgpLink}}",
+      "mmgpLink": "MMGP.ru",
+      "mmgpText": "Отзывы о нас в ветке форума о заработке",
+      "mmgpName": "MMGP",
+      "links": {
+        "bitkointalk": "https://bitcointalk.org/index.php?topic=1116422.20",
+        "mmgp": "https://mmgp.ru/showthread.php?t=373668",
+        "bitsmedia": "https://forum.bits.media/index.php?/topic/14842-x-paycc-–-проверенный-временем-обменник-электронных-валют/"
+      }
     }
   },
   "personalInfoPage": {
