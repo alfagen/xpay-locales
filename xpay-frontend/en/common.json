@@ -24,7 +24,8 @@
     "subtitle": "Let's fill out the information to sign in",
     "signToAcc": "Sign in to your account",
     "notHaveAcc": "You don't have an account yet?",
-    "signup": "Sign up"
+    "signup": "Sign up",
+    "forgotPassword": "Forgot password?"
   },
   "registration": {
     "title": "Sign up <br />to your profile",
