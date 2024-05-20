@@ -70,7 +70,8 @@
     "pin": "Pin",
     "value": "Value",
     "share": "Share",
-    "fixRate": "Fix rate"
+    "fixRate": "Fix rate",
+    "toProfile": "go to Profile"
   },
   "inputs": {
     "bankName": "BANK NAME",
