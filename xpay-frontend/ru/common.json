@@ -178,12 +178,12 @@
     }
   },
   "paymentVaultPage": {
-    "title": "Payment Vault",
-    "subtitle": "Here you can manage your cards and wallets to quickly use them for exchanges",
+    "title": "Верификации и кошельки",
+    "subtitle": "Здесь вы можете увидеть ваши верифицированные карты и сохраненные кошельки",
     "cards": "Банковские карты",
-    "ps": "Payment System Accounts",
-    "noCards": "No Cards Yet",
-    "verifyBankCard": "Verify Bank Card"
+    "ps": "Сохраненные кошельки",
+    "noCards": "Не добавлено",
+    "verifyBankCard": "Верифицировать банковскую карту"
   },
   "editBankCardMW": {
     "title": "Редактировать",
@@ -195,11 +195,11 @@
     "addBtn": "Add New Crypto Wallet"
   },
   "cardVerificationMW": {
-    "title": "Verify Bank Card",
-    "process": "Verification Process",
-    "processDesc": "Depending on the type of card selected, this will show you how the card should be positioned to create a verification photo",
-    "btn": "Verify Bank Card",
-    "addCardError": "Error on add card request"
+    "title": "Верификация новой карты",
+    "process": "Процесс верификации",
+    "processDesc": "В зависимости от выбранного типа карты здесь будет показано, как следует расположить карту, чтобы создать проверочную фотографию.",
+    "btn": "Верифицировать карту",
+    "addCardError": "Ошибка при запросе на верификацию"
   },
   "verificationCard": {
     "confirm": {
@@ -260,14 +260,14 @@
   },
   "orderSteps": {
     "move": "Click \"Move now\" for switching to payment page",
-    "needSend": "You need to send",
-    "highlighted": "to the address highlighted below",
+    "needSend": "Вам необходимо отправить",
+    "highlighted": "по реквизитам ниже",
     "process": "We will process your application",
     "minutes": "within 20 minutes",
     "after": "after funds are credited to our account",
     "receiveFunds": "We have received the funds and are now sending you your share.",
     "success": "Exchange was successful",
-    "carry": "To carry out the exchange, you need to stay on this page without refreshing it.",
+    "carry": "Для осуществления обмена Вам необходимо оставаться на этой странице, не обновляя ее.",
     "chequeAdd": "добавить",
     "cheque": "Платежный чек",
 
@@ -279,18 +279,18 @@
       "complete": "Exchange completed"
     },
     "stepsStatuses": {
-      "waiting_payment": "Awaiting receipt of funds",
-      "waiting_network": "Awaiting network confirmation",
+      "waiting_payment": "Ожидаем поступления средств",
+      "waiting_network": "Ожидание подтверждения сети",
       "in_progress": "We do the exchange",
       "complete": "Exchange was successful"
     }
   },
   "instructionSubmit": {
-    "cancel": "Cancel",
-    "paid": "I have paid"
+    "cancel": "Отменить",
+    "paid": "Я оплатил"
   },
   "paymentConfirm": {
-    "cancel": "Cancel and exit",
+    "cancel": "Вернуться на главную",
     "title": "Switch to form of payment",
     "description": "Click \"Move now\" for switching to payment page",
     "next": "Move now"
@@ -301,6 +301,7 @@
     "wallet": "Wallet",
     "sum": "Amount",
     "invoiceId": "Must be included invoice id",
+    "invoiceWallet": "Кошелек для перевода",
     "invoiceIdXrp": "Must be included Destination Tag",
     "destinationBank": "Destination Bank name"
   },
@@ -380,7 +381,7 @@
     "verificationReward": "Reward for verification",
     "notCredited": "Not credited",
     "currency": "Currency",
-    "referalFundsEmpty": "You haven't got charges",
+    "referalFundsEmpty": "У вас ещё не было начислений",
     "rewardsSum": "Total earnings",
     "currencies": {
       "ruble": "Rubles ",
@@ -390,7 +391,7 @@
     "earnedMoney": " Funds earned:",
     "aboutReferalFundsTitle": "About our referral program",
     "referalFundsNotice": "Share a partner link, invite friends and earn to 1% for exchange your referrals.",
-    "referalListEmpty": "You haven't got referrals",
+    "referalListEmpty": "У вас ещё не было переходов",
     "shareSubtitle": "Your link for inviting friends:",
     "copyLink": "Copy",
     "shareSocials": "You can share link quickly in social networks:",
