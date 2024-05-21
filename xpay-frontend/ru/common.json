@@ -6,6 +6,7 @@
   },
   "links": {
     "exchange": "Обмен",
+    "exchangeRules": "Правила обмена",
     "reserves": "Резервы",
     "faq": "FAQ",
     "news": "Новости",
@@ -19,7 +20,7 @@
     "partners": "Партнерам"
   },
   "auth": {
-    "title": "Войдите <br />в ваш аккаунт",
+    "title": "Войдите в ваш аккаунт",
     "subtitle": "Введите информацию для авторизации",
     "signToAcc": "Войти в аккаунт",
     "notHaveAcc": "У вас ещё нет аккаунта?",
@@ -162,31 +163,31 @@
     }
   },
   "personalInfoPage": {
-    "title": "Personal Information",
-    "subtitle": "Here you can view and update your contact information",
-    "contactDetail": "Contact Details",
-    "enterName": "Enter your full name as it appears on your ID card",
+    "title": "Информация о вас",
+    "subtitle": "Здесь вы можете посмотреть и изменить информацию о себе",
+    "contactDetail": "Контакты",
+    "enterName": "Введите свое полное имя, как оно указано на вашем удостоверении личности.",
     "email": "Email",
-    "enterEmail": "Enter your email address to receive notifications from the crypto exchange",
-    "onEmail": "On your mail",
-    "sentLetter": "has sent letter with futher instructions.",
+    "enterEmail": "Введите свой адрес электронной почты, чтобы получать уведомления от нас",
+    "onEmail": "На вашу почту",
+    "sentLetter": "отправлено письмо с дальнейшими инструкциями.",
     "emailStatus": {
-      "not_verified": "No verified yet",
-      "sendCode": "Send Verification Code",
-      "verified": "Verified"
+      "not_verified": "Ещё не верифицирована",
+      "sendCode": "Отправить ссылку для верификации",
+      "verified": "Верифицирована"
     }
   },
   "paymentVaultPage": {
     "title": "Payment Vault",
     "subtitle": "Here you can manage your cards and wallets to quickly use them for exchanges",
-    "cards": "Bank Cards",
+    "cards": "Банковские карты",
     "ps": "Payment System Accounts",
     "noCards": "No Cards Yet",
     "verifyBankCard": "Verify Bank Card"
   },
   "editBankCardMW": {
-    "title": "Edit Bank Card",
-    "save": "Save Updates"
+    "title": "Редактировать",
+    "save": "Сохранить изменения"
   },
   "addWalletMW": {
     "title": "New Crypto Wallet",
@@ -244,14 +245,14 @@
       "changePass": "Изменить пароль"
     },
     "langBlock": {
-      "title": "Language",
-      "subtitle": "Here you can customize which language to use <br /> by default when logging into your account"
+      "title": "Язык",
+      "subtitle": "Здесь вы можете настроить, какой язык использовать <br /> по умолчанию в вашем аккаунте"
     }
   },
   "changePasswordMW": {
-    "title": "New password",
-    "notice": "The password must contain at least 8 characters, including letters, numbers and special characters.",
-    "saveBtn": "Change Password"
+    "title": "Новый пароль",
+    "notice": "Пароль должен содержать не менее 8 символов, включая буквы, цифры и специальные символы.",
+    "saveBtn": "Сохранить новый пароль"
   },
   "orderPage": {
     "requestCreated": "Заявка создана",
@@ -267,8 +268,8 @@
     "receiveFunds": "We have received the funds and are now sending you your share.",
     "success": "Exchange was successful",
     "carry": "To carry out the exchange, you need to stay on this page without refreshing it.",
-    "chequeAdd": "add new",
-    "cheque": "Payment cheque",
+    "chequeAdd": "добавить",
+    "cheque": "Платежный чек",
 
     "statusBlock": {
       "waiting_payment": "We are waiting for payment",
@@ -304,7 +305,7 @@
     "destinationBank": "Destination Bank name"
   },
   "languagesPage": {
-    "selectLanguage": "Select language"
+    "selectLanguage": "Выбрать язык"
   },
   "statuses": {
     "fail": "Ошибка",
@@ -330,32 +331,32 @@
     "payoutHistory": "История выплат"
   },
   "referalFundsHistory": {
-    "title": "History of referral charges"
+    "title": "История реферальных начислений"
   },
   "rewardsHistory": {
-    "title": "History of remunerations"
+    "title": "История вознаграждений"
   },
   "ReferalList": {
     "title": "Список рефералов",
     "content": "которые перешли по вашей реферальной ссылке"
   },
   "notify": {
-    "attention": "Attention",
-    "error": "Error!",
-    "close": "Close",
-    "errorLoading": "No connection with server. Information may be obsolete. Please {{refreshPage}}",
-    "refreshPage": "refresh a page",
-    "rest": "Dear clients, our service is on technical break. Come back in {{icon}} {{time}}",
-    "copied": "Copied!",
-    "copiedText": "Data copied to the clipboard.",
-    "saved": "Saved!",
-    "removed": "Deleted!"
+    "attention": "Внимание",
+    "error": "Ошибка!",
+    "close": "Закрыть",
+    "errorLoading": "Нет связи с сервером. Информация может быть устаревшей. Пожалуйста {{refreshPage}}",
+    "refreshPage": "обновите страницу",
+    "rest": "Уважаемые клиенты, наш сервис находится на техническом перерыве. Вернитесь через {{icon}} {{time}}",
+    "copied": "Скопировать!",
+    "copiedText": "Скопировано в буфер обмена.",
+    "saved": "Сохранено!",
+    "removed": "Удалено!"
   },
   "notFoundPage": {
-    "title": "An error has occurred",
-    "text": "Write to technical support to fix the error as soon as possible",
-    "button": "Go to the home page",
-    "tryAgain": "Try again"
+    "title": "Возникла ошибка",
+    "text": "Напишите в техподдержку, чтобы исправить ошибку как можно скорее",
+    "button": "Вернуться на главную страницу",
+    "tryAgain": "Попробовать ещё раз"
   },
   "RewardsRequestForm": {
     "withdrawFunds": "What funds need to withdrawal:",
@@ -417,8 +418,8 @@
     "morePartners": "Read more about partnership program"
   },
   "instructionEvoucherForm": {
-    "add": "Add check",
-    "remove": "Delete check",
+    "add": "Добавить платежный чек",
+    "remove": "Удалить чек",
     "notice": "Transfer {{name}} on amount {{sum}}{{currency}}"
   },
   "instructionEvoucher": {
