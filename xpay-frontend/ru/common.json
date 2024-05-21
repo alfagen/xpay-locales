@@ -73,7 +73,8 @@
     "fixRate": "Фикс.курс",
     "connect": "Подключить",
     "register": "Зарегистрироваться",
-    "toProfile": "Перейти в ЛК"
+    "toProfile": "Перейти в ЛК",
+    "contactSupport": "Связаться с поддержкой"
   },
   "inputs": {
     "bankName": "Название банка",
@@ -266,10 +267,12 @@
     "minutes": "within 20 minutes",
     "after": "after funds are credited to our account",
     "receiveFunds": "We have received the funds and are now sending you your share.",
-    "success": "Exchange was successful",
+    "success": "Мы отправили вам средства на адрес, указанный в заказе.",
     "carry": "Для осуществления обмена Вам необходимо оставаться на этой странице, не обновляя ее.",
+    "canClose": "Можете закрыть страницу!",
     "chequeAdd": "добавить",
     "cheque": "Платежный чек",
+    "blockchairBtn": "Открыть транзакцию",
 
     "statusBlock": {
       "waiting_payment": "We are waiting for payment",

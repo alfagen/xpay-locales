@@ -1,30 +1,34 @@
 {
   "mixed": {
-    "default": "${path} содержит недопустимое значение",
-    "required": "${path} является обязательным полем",
-    "oneOf": "${path} должно быть одно из следующих значений: ${values}",
-    "notOneOf": "${path} не должно быть одним из следующих значений: ${values}"
+    "default": "Значение некорректное",
+    "required": "Поле обязательное",
+    "oneOf": "${path} must be one of the following values: ${values}",
+    "notOneOf": "${path} must not be one of the following values: ${values}",
+    "haveValue": "Поле не должно быть пустым",
+    "error": "Ошибка!"
   },
   "string": {
-    "length": "${path} длинна должна быть равной ${length}",
-    "min": "${path} длинна должна быть не меньше ${min} символов",
-    "max": "${path} длинна должна быть не больше ${max} символов",
-    "matches": "${path} не соответствует требуемому паттерну: \"${regex}\"",
-    "email": "${path} должен быть валидным email-адресом",
-    "url": "${path} должен быть валидным URL",
-    "trim": "${path} не должен содержать пробельные символы в начале или конце строки",
-    "lowercase": "${path} должен содержать только строчные символы",
-    "uppercase": "${path} должен содержать только заглавные символы"
+    "length": "{{path}} must be exactly {{length}} characters",
+    "min": "{{path}} must be at least {{min}} characters",
+    "max": "${path} must be at most ${max} characters",
+    "matches": "${path} must match the following: \"${regex}\"",
+    "email": "Введите корректный email",
+    "url": "${path} must be a valid URL",
+    "trim": "${path} must be a trimmed string",
+    "lowercase": "${path} must be a lowercase string",
+    "uppercase": "${path} must be a upper case string",
+    "passwordsNotEqual": "Пароли не совпадают",
+    "fullName": "Введите полное имя"
   },
   "number": {
-    "min": "${path} должен быть не меньше ${min}",
-    "max": "${path} должен быть не больше ${max}",
-    "lessThan": "${path} должен быть меньше ${less}",
-    "moreThan": "${path} должен быть больше ${more}",
-    "notEqual": "${path} должен быть равен ${notEqual}",
-    "positive": "${path} должен быть положительным числом",
-    "negative": "${path} должен быть отрицательным числом",
-    "integer": "${path} должен быть числом"
+    "min": "Значение должен быть не меньше ${min}",
+    "max": "Значение должен быть не больше ${max}",
+    "lessThan": "Значение должен быть меньше ${less}",
+    "moreThan": "Значение должен быть больше ${more}",
+    "notEqual": "Значение должен быть равен ${notEqual}",
+    "positive": "Значение должен быть положительным числом",
+    "negative": "Значение должен быть отрицательным числом",
+    "integer": "Значение должен быть числом"
   },
   "date": {
     "min": "${path} должен быть не раньше ${min}",

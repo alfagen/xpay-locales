@@ -72,7 +72,8 @@
     "value": "Value",
     "share": "Share",
     "fixRate": "Fix rate",
-    "toProfile": "go to Profile"
+    "toProfile": "go to Profile",
+    "contactSupport": "Contact support"
   },
   "inputs": {
     "bankName": "BANK NAME",
@@ -267,10 +268,12 @@
     "minutes": "within 20 minutes",
     "after": "after funds are credited to our account",
     "receiveFunds": "We have received the funds and are now sending you your share.",
-    "success": "Exchange was successful",
+    "success": "We have transmitted the funds to you at the address specified in the order",
     "carry": "To carry out the exchange, you need to stay on this page without refreshing it.",
+    "canClose": "You can close this page!",
     "chequeAdd": "add new",
     "cheque": "Payment cheque",
+    "blockchairBtn": "Open Blockchair Order Link",
 
     "statusBlock": {
       "waiting_payment": "We are waiting for payment",
