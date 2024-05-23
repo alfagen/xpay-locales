@@ -267,9 +267,9 @@
     "minutes": "within 20 minutes",
     "after": "after funds are credited to our account",
     "receiveFunds": "We have received the funds and are now sending you your share.",
-    "success": "Мы отправили вам средства на адрес, указанный в заказе.",
+    "success": "Мы отправили вам средства на адрес, указанный в заявке.",
     "carry": "Для осуществления обмена Вам необходимо оставаться на этой странице, не обновляя ее.",
-    "canClose": "Можете закрыть страницу!",
+    "canClose": "Можете закрыть страницу",
     "chequeAdd": "добавить",
     "cheque": "Платежный чек",
     "blockchairBtn": "Открыть транзакцию",
@@ -285,7 +285,7 @@
       "waiting_payment": "Ожидаем поступления средств",
       "waiting_network": "Ожидание подтверждения сети",
       "in_progress": "We do the exchange",
-      "complete": "Exchange was successful"
+      "complete": "Ваша заявка обработана"
     }
   },
   "instructionSubmit": {
