@@ -74,7 +74,8 @@
     "connect": "Подключить",
     "register": "Зарегистрироваться",
     "toProfile": "Перейти в ЛК",
-    "contactSupport": "Связаться с поддержкой"
+    "contactSupport": "Связаться с поддержкой",
+    "reason": "Причина"
   },
   "inputs": {
     "bankName": "Название банка",
@@ -273,6 +274,7 @@
     "chequeAdd": "добавить",
     "cheque": "Платежный чек",
     "blockchairBtn": "Открыть транзакцию",
+    "support": "Обратитесь в тех поддержку",
 
     "statusBlock": {
       "waiting_payment": "We are waiting for payment",
@@ -282,6 +284,7 @@
       "complete": "Exchange completed"
     },
     "stepsStatuses": {
+      "rejected": "Ваша заявка отклонена",
       "waiting_payment": "Ожидаем поступления средств",
       "waiting_network": "Ожидание подтверждения сети",
       "in_progress": "Мы в процессе обработки заявки",
@@ -424,7 +427,8 @@
   "instructionEvoucherForm": {
     "add": "Добавить платежный чек",
     "remove": "Удалить чек",
-    "notice": "Transfer {{name}} on amount {{sum}}{{currency}}"
+    "notice": "Transfer {{name}} on amount {{sum}}{{currency}}",
+    "sum_notice": "Перевести {{name}} на сумму"
   },
   "instructionEvoucher": {
     "designation": "Вставьте номер {{name}} и код активации. <br /> Если нужно добавить еще один код нажмите <br /> «Добавить еще один чек»"

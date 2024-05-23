@@ -73,7 +73,8 @@
     "share": "Share",
     "fixRate": "Fix rate",
     "toProfile": "go to Profile",
-    "contactSupport": "Contact support"
+    "contactSupport": "Contact support",
+    "reason": "Reason"
   },
   "inputs": {
     "bankName": "BANK NAME",
@@ -274,6 +275,7 @@
     "chequeAdd": "add new",
     "cheque": "Payment cheque",
     "blockchairBtn": "Open Blockchair Order Link",
+    "support": "Write to support",
 
     "statusBlock": {
       "waiting_payment": "We are waiting for payment",
@@ -283,6 +285,7 @@
       "complete": "Exchange completed"
     },
     "stepsStatuses": {
+      "rejected": "Exchange rejected",
       "waiting_payment": "Awaiting receipt of funds",
       "waiting_network": "Awaiting network confirmation",
       "in_progress": "We do the exchange",
@@ -424,7 +427,8 @@
   "instructionEvoucherForm": {
     "add": "Add check",
     "remove": "Delete check",
-    "notice": "Transfer {{name}} on amount {{sum}}{{currency}}"
+    "notice": "Transfer {{name}} on amount {{sum}}{{currency}}",
+    "sum_notice": "Transfer {{name}} on amount"
   },
   "instructionEvoucher": {
     "designation": "Ener number {{name}} and activation code. <br /> If you need add one code click <br /> «Add check»"

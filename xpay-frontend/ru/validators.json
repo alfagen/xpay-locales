@@ -2,15 +2,15 @@
   "mixed": {
     "default": "Значение некорректное",
     "required": "Поле обязательное",
-    "oneOf": "${path} must be one of the following values: ${values}",
-    "notOneOf": "${path} must not be one of the following values: ${values}",
+    "oneOf": "{{path}} must be one of the following values: ${values}",
+    "notOneOf": "{{path}} must not be one of the following values: ${values}",
     "haveValue": "Поле не должно быть пустым",
     "error": "Ошибка!"
   },
   "string": {
     "length": "{{path}} must be exactly {{length}} characters",
     "min": "{{path}} must be at least {{min}} characters",
-    "max": "${path} must be at most ${max} characters",
+    "max": "{{path}} must be at most {{max}} characters",
     "matches": "${path} must match the following: \"${regex}\"",
     "email": "Введите корректный email",
     "url": "${path} must be a valid URL",
@@ -21,11 +21,11 @@
     "fullName": "Введите полное имя"
   },
   "number": {
-    "min": "Значение должен быть не меньше ${min}",
-    "max": "Значение должен быть не больше ${max}",
-    "lessThan": "Значение должен быть меньше ${less}",
-    "moreThan": "Значение должен быть больше ${more}",
-    "notEqual": "Значение должен быть равен ${notEqual}",
+    "min": "Значение должен быть не меньше {{min}}",
+    "max": "Значение должен быть не больше {{max}}",
+    "lessThan": "Значение должен быть меньше {{less}}",
+    "moreThan": "Значение должен быть больше {{more}}",
+    "notEqual": "Значение должен быть равен {{notEqual}}",
     "positive": "Значение должен быть положительным числом",
     "negative": "Значение должен быть отрицательным числом",
     "integer": "Значение должен быть числом"
