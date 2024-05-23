@@ -469,5 +469,8 @@
   "signupActivate": {
     "incorrectCode": "Activation is not possible",
     "emailConfirmed": "E-mail has accepted"
+  },
+  "wallet": {
+    "linkToSetting": "Open settings"
   }
 }

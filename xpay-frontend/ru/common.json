@@ -494,5 +494,8 @@
   "signupActivate": {
     "incorrectCode": "Активация невозможна",
     "emailConfirmed": "E-mail подтвержден"
+  },
+  "wallet": {
+    "linkToSetting": "Перейти в настройки"
   }
 }
