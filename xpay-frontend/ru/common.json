@@ -427,7 +427,7 @@
     "notice": "Transfer {{name}} on amount {{sum}}{{currency}}"
   },
   "instructionEvoucher": {
-    "designation": "Ener number {{name}} and activation code. <br /> If you need add one code click <br /> «Add check»"
+    "designation": "Вставьте номер {{name}} и код активации. <br /> Если нужно добавить еще один код нажмите <br /> «Добавить еще один чек»"
   },
   "MonitoringModal": {
     "title": "Для мониторингов",
