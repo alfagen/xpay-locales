@@ -266,7 +266,7 @@
     "process": "We will process your application",
     "minutes": "within 20 minutes",
     "after": "after funds are credited to our account",
-    "receiveFunds": "We have received the funds and are now sending you your share.",
+    "receiveFunds": "Получили от вас средства и сейчас отправляем вам.",
     "success": "Мы отправили вам средства на адрес, указанный в заявке.",
     "carry": "Для осуществления обмена Вам необходимо оставаться на этой странице, не обновляя ее.",
     "canClose": "Можете закрыть страницу",
@@ -284,7 +284,7 @@
     "stepsStatuses": {
       "waiting_payment": "Ожидаем поступления средств",
       "waiting_network": "Ожидание подтверждения сети",
-      "in_progress": "We do the exchange",
+      "in_progress": "Мы в процессе обработки заявки",
       "complete": "Ваша заявка обработана"
     }
   },
