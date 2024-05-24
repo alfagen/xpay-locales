@@ -155,9 +155,9 @@
       "bitcointalkLink": "feddback on bitcointalk.org",
       "bitcointalkText": "Reviews about us on the trusted exhanges monitoring",
       "bitcointalkName": "Bitcointalk.org",
-      "mmgp": "Ознакомьтесь с отзывами и оставьте свой на {{mmgpLink}}",
+      "mmgp": "Reviews about us in the forum thread about earnings {{mmgpLink}}",
       "mmgpLink": "MMGP.ru",
-      "mmgpText": "Отзывы о нас в ветке форума о заработке",
+      "mmgpText": "Reviews about us in the forum thread about earnings",
       "mmgpName": "MMGP",
       "links": {
         "bitkointalk": "https://bitcointalk.org/index.php?topic=1116422.20",
