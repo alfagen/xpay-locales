@@ -261,7 +261,7 @@
     "cantLoadData": "Cant load order data"
   },
   "orderSteps": {
-    "move": "Click \"Move now\" for switching to payment page",
+    "move": "Нажмите на \"Перейти к оплате\" чтобы оплатить заявку",
     "needSend": "Вам необходимо отправить",
     "highlighted": "по реквизитам ниже",
     "process": "We will process your application",
@@ -298,8 +298,8 @@
   "paymentConfirm": {
     "cancel": "Вернуться на главную",
     "title": "Switch to form of payment",
-    "description": "Click \"Move now\" for switching to payment page",
-    "next": "Move now"
+    "description": "Нажмите на \"Перейти к оплате\" чтобы оплатить заявку",
+    "next": "Перейти к оплате"
   },
   "requisitesLabel": {
     "card": "Bank card",
