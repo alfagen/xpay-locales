@@ -179,6 +179,10 @@
       "not_verified": "No verified yet",
       "sendCode": "Send Verification Code",
       "verified": "Verified"
+    },
+    "inputs": {
+      "name": "Full name",
+      "email": "Email"
     }
   },
   "paymentVaultPage": {

@@ -178,6 +178,10 @@
       "not_verified": "Ещё не верифицирована",
       "sendCode": "Отправить ссылку для верификации",
       "verified": "Верифицирована"
+    },
+    "inputs": {
+      "name": "Полное имя",
+      "email": "Email"
     }
   },
   "paymentVaultPage": {
