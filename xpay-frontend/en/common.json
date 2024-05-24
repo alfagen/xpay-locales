@@ -108,7 +108,8 @@
     "fillInfo": "Let’s fill information about you",
     "verify": "Let's verify details",
     "mobileTitle": "Your exchange request",
-    "tooltipNotice": "This is fixed rate, that is, after clicking on 'exchange now', the rate in the application does not change"
+    "tooltipNotice": "This is fixed rate, that is, after clicking on 'exchange now', the rate in the application does not change",
+    "exchangeReviews": "See our 45000 reviews on"
   },
   "selectPsMW": {
     "titleIncome": "Changing what?",
