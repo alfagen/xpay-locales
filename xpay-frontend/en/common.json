@@ -481,5 +481,20 @@
   },
   "wallet": {
     "linkToSetting": "Open settings"
+  },
+  "signupIncorrectCode": {
+    "incorrect": "Wrong code",
+    "text": "The code is activated or wrong. "
+  },
+  "signupSended": {
+    "sended": "The letter has sent",
+    "mailInstruction": "On your mail: {{email}} <br /> has sent letter with futher instructions. <br /> has sent letter with futher instructions.  ",
+    "goto": "For confirming e-mail click to link in\nyour letter",
+    "exchangeNow": "Exchange now"
+  },
+  "signupSuccess": {
+    "emailConfirmed": "E-mail has accepted ",
+    "content": "New account was successfully registered. <br /> Now you can use your account.",
+    "exchangeNow": "Exchange now"
   }
 }
