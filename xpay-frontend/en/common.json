@@ -263,7 +263,7 @@
     "saveBtn": "Change Password"
   },
   "orderPage": {
-    "requestCreated": "Your request created!",
+    "requestCreated": "Your order",
     "cantLoadData": "Cant load order data"
   },
   "orderSteps": {
