@@ -289,7 +289,7 @@
       "complete": "Exchange completed"
     },
     "stepsStatuses": {
-      "rejected": "Ваша заявка отклонена",
+      "rejected": "Ваша заявка отменена",
       "waiting_payment": "Ожидаем поступления средств",
       "waiting_network": "Ожидание подтверждения сети",
       "in_progress": "Мы в процессе обработки заявки",
@@ -311,10 +311,10 @@
     "account": "Bill №",
     "wallet": "Wallet",
     "sum": "Amount",
-    "invoiceId": "Must be included invoice id",
+    "invoiceId": "Обязательно укажите invoice id",
     "invoiceWallet": "Кошелек для перевода",
-    "invoiceIdXrp": "Must be included Destination Tag",
-    "destinationBank": "Destination Bank name"
+    "invoiceIdXrp": "Обязательно укажите Destination Tag",
+    "destinationBank": "Банк назначения"
   },
   "languagesPage": {
     "selectLanguage": "Выбрать язык"
