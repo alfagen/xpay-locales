@@ -197,9 +197,9 @@
     "save": "Сохранить изменения"
   },
   "addWalletMW": {
-    "title": "New Crypto Wallet",
-    "walletPlaceholder": "Wallet Name",
-    "addBtn": "Add New Crypto Wallet"
+    "title": "Новый криптокошелек",
+    "walletPlaceholder": "название кошелька",
+    "addBtn": "Добавить новый криптокошелек"
   },
   "cardVerificationMW": {
     "title": "Верификация новой карты",
@@ -210,30 +210,30 @@
   },
   "verificationCard": {
     "confirm": {
-      "title": "Attention! Card verification.",
-      "content": "This is the first time you make an exchange with this card on our service. For the security of your funds, verification of the Card is required. The procedure is one-time and takes from 1 to 5 minutes.",
-      "next": "Go to verification",
-      "cancel": "Cancel and exit"
+      "title": "Внимание! Верификация карты.",
+      "content": "Вы впервые совершаете обмен по данной карте на нашем сервисе. Для безопасности Ваших средств необходима верификация Карты. Процедура одноразовая и занимает от 1 до 5 минут.",
+      "next": "Перейти к верификации",
+      "cancel": "Отменить и выйти"
     },
     "upload": {
-      "title": "Verification of cards",
+      "title": "Верификация карт",
       "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
-      "requirementLabel": "Photo Requirement:",
+      "requirementLabel": "Требования к фото:",
       "requirement1": "On the photo card number and the name of the owner should be readable.",
       "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
-      "control": "Select a file...",
+      "control": "Выбор файла...",
       "error": "Download error. Please try again",
-      "uploading": "Photo upload - {{progress}}%"
+      "uploading": "Загрузка фото - {{progress}}%"
     },
     "wait": {
-      "title": "Waiting for card verification application processing",
-      "content": "We are awaiting the processing of an application for card verification. We will automatically notify you as soon as the application will be processed."
+      "title": "Ожидание обработки заявки на верификацию карты",
+      "content": "Ожидаем обработки заявки на верификацию карты. Мы автоматически уведомим вас, как только заявка будет обработана."
     },
     "failure": {
-      "title": "Verification Failure",
-      "reasonLabel": "You were canceled verification of the card because of:",
-      "repeatNotice": "Try to verify the card again!",
-      "repeat": "Repeat"
+      "title": "Ошибка при верификации",
+      "reasonLabel": "Мы отменили верификацию потому что:",
+      "repeatNotice": "Попробуйте ещё раз!",
+      "repeat": "Повторить"
     }
   },
   "ordersPage": {
@@ -269,9 +269,9 @@
     "move": "Нажмите на \"Перейти к оплате\" чтобы оплатить заявку",
     "needSend": "Вам необходимо отправить",
     "highlighted": "по реквизитам ниже",
-    "process": "We will process your application",
-    "minutes": "within 20 minutes",
-    "after": "after funds are credited to our account",
+    "process": "Мы обработаем заявку",
+    "minutes": "примерно за 20 минут",
+    "after": "после получения средств",
     "receiveFunds": "Получили от вас средства и сейчас отправляем вам.",
     "success": "Мы отправили вам средства на адрес, указанный в заявке.",
     "carry": "Для осуществления обмена Вам необходимо оставаться на этой странице, не обновляя ее.",
@@ -282,11 +282,11 @@
     "support": "Обратитесь в тех поддержку",
 
     "statusBlock": {
-      "waiting_payment": "We are waiting for payment",
-      "waiting_money": "We are waiting for the receipt of <br /> funds",
-      "waiting_confirm": "We are waiting for confirmation from <br /> network",
-      "in_progress": "We perform exchange",
-      "complete": "Exchange completed"
+      "waiting_payment": "Ожидаем платеж",
+      "waiting_money": "Ожидаем получения средств",
+      "waiting_confirm": "Ожидаем подтверждения сети",
+      "in_progress": "В процессе обмена",
+      "complete": "Обмен выполнен"
     },
     "stepsStatuses": {
       "rejected": "Ваша заявка отменена",
@@ -302,13 +302,13 @@
   },
   "paymentConfirm": {
     "cancel": "Вернуться на главную",
-    "title": "Switch to form of payment",
+    "title": "Перейти к форме оплаты",
     "description": "Нажмите на \"Перейти к оплате\" чтобы оплатить заявку",
     "next": "Перейти к оплате"
   },
   "requisitesLabel": {
-    "card": "Bank card",
-    "account": "Bill №",
+    "card": "Банковская карта",
+    "account": "Счет №",
     "wallet": "Wallet",
     "sum": "Amount",
     "invoiceId": "Обязательно укажите invoice id",
@@ -371,10 +371,10 @@
     "tryAgain": "Попробовать ещё раз"
   },
   "RewardsRequestForm": {
-    "withdrawFunds": "What funds need to withdrawal:",
-    "referal": "Referral",
-    "rewards": "Remunerations",
-    "submit": "Withdrawal"
+    "withdrawFunds": "Какие средства можно вывести:",
+    "referal": "Реферальные",
+    "rewards": "Вознаграждения",
+    "submit": "Вывести"
   },
   "rewardsRequest": {
     "title": "Application for remunerations",
@@ -432,7 +432,7 @@
   "instructionEvoucherForm": {
     "add": "Добавить платежный чек",
     "remove": "Удалить чек",
-    "notice": "Transfer {{name}} on amount {{sum}}{{currency}}",
+    "notice": "Перевод {{name}} на сумму {{sum}}{{currency}}",
     "sum_notice": "Перевести {{name}} на сумму"
   },
   "instructionEvoucher": {
@@ -557,7 +557,7 @@
       }
     },
     "paymentVaultPage": {
-      "title": "Payment vault — x-pay.cc",
+      "title": "Верификации и кошельки — x-pay.cc",
       "description": ""
     },
     "ordersPage": {
@@ -568,44 +568,44 @@
       "title": "Заявка — x-pay.cc",
       "description": ""
     },
-    "personalInfoPage": {
-      "title": "Personal info",
+    "personalInfo": {
+      "title": "Мой профиль",
       "description": ""
     },
     "refProgramPage": {
-      "title": "Ref program",
+      "title": "Реферальная программа",
       "description": ""
     },
     "settingsPage": {
-      "title": "Settings",
+      "title": "Настройки",
       "description": ""
     },
     "languagesPage": {
-      "title": "Languages",
+      "title": "Языки",
       "description": ""
     },
     "passwordResetPage": {
-      "title": "Password reset",
+      "title": "Восстановление пароля",
       "description": ""
     },
     "newPasswordPage": {
-      "title": "New password",
+      "title": "Изменение пароля",
       "description": ""
     },
     "emailConfirmationPage": {
-      "title": "Email confirmation",
+      "title": "Подтверждение почты",
       "description": ""
     },
     "reservesPage": {
-      "title": "Reserves - x-pay.cc",
+      "title": "Резервы - x-pay.cc",
       "description": ""
     },
     "notFoundPage": {
-      "title": "Not found",
+      "title": "404 - страница не найдена",
       "description": ""
     },
     "clientErrorPage": {
-      "title": "Client error",
+      "title": "Ошибка",
       "description": ""
     }
   }
