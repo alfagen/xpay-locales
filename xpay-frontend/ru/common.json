@@ -521,5 +521,92 @@
     "emailConfirmed": "E-mail подтвержден",
     "content": "Регистрация успешно завершена. <br /> Теперь вы можете пользоваться личным кабинетом со всеми его преимуществами.",
     "exchangeNow": "Обменять сейчас"
+  },
+  "requestStatus": {
+    "waitingDescr": "Если у вас есть вопросы {{chat}}.",
+    "chat": "напишите в поддержку",
+    "waitingDescrMinute": "Ваша заявка будет обработана в течение {{minute}} мин.",
+    "success": "Заявка исполнена",
+    "wrong": "Заявка с ошибкой",
+    "fail": "Заявка отклонена",
+    "freeze": "Заявка заморожена",
+    "waiting": "Ожидает обработки",
+    "waitingPayment": "Проверка оплаты",
+    "timeout": "Время ожидания оплаты истекло",
+    "freezeReasonHour": "Это ваша первая заявка с текущего кошелька Яндекс.Деньги. Она выйдет из заморозки и будет обработана через {{hour}} ч.",
+    "freezeReasonHourLegacy": "Это ваша первая заявка с текущего кошелька Яндекс.Деньги. Она выйдет из заморозки и будет обработана через {{hour}}.",
+    "shortHours": "ч.",
+    "freezeNotice": "Ваша заявка заморожена. Для уточнения причины свяжитесь c оператором.",
+    "freezeReason": "Это ваша первая заявка с текущего кошелька Яндекс.Деньги. Она выйдет из заморозки и будет обработана в ближайшее время.",
+    "freezeHelp": "Зачем замораживать первый платеж?",
+    "adopted": "Ваша заявка принята",
+    "adoptedReff": "Ваша заявка на вывод заработанных средств принята!",
+    "adoptedReffConfirm": "Подтверждение вывода вознаграждения!",
+    "hold": "Средства заморожены",
+    "holdReason": "Средства заморожены на 48 часов до {{time}}",
+    "processing": "В обработке"
+  },
+  "metaTags": {
+    "exchangePage": {
+      "title": "x-pay.cc - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин",
+      "description": "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек",
+      "og": {
+        "title": "x-pay.cc - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин",
+        "description": "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек",
+        "image": "http://x-pay.cc/images/main_og_image.jpg"
+      }
+    },
+    "paymentVaultPage": {
+      "title": "Payment vault — x-pay.cc",
+      "description": ""
+    },
+    "ordersPage": {
+      "title": "Заявки — x-pay.cc",
+      "description": ""
+    },
+    "orderPage": {
+      "title": "Заявка — x-pay.cc",
+      "description": ""
+    },
+    "personalInfoPage": {
+      "title": "Personal info",
+      "description": ""
+    },
+    "refProgramPage": {
+      "title": "Ref program",
+      "description": ""
+    },
+    "settingsPage": {
+      "title": "Settings",
+      "description": ""
+    },
+    "languagesPage": {
+      "title": "Languages",
+      "description": ""
+    },
+    "passwordResetPage": {
+      "title": "Password reset",
+      "description": ""
+    },
+    "newPasswordPage": {
+      "title": "New password",
+      "description": ""
+    },
+    "emailConfirmationPage": {
+      "title": "Email confirmation",
+      "description": ""
+    },
+    "reservesPage": {
+      "title": "Reserves - x-pay.cc",
+      "description": ""
+    },
+    "notFoundPage": {
+      "title": "Not found",
+      "description": ""
+    },
+    "clientErrorPage": {
+      "title": "Client error",
+      "description": ""
+    }
   }
 }

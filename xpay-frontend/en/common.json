@@ -496,5 +496,92 @@
     "emailConfirmed": "E-mail has accepted ",
     "content": "New account was successfully registered. <br /> Now you can use your account.",
     "exchangeNow": "Exchange now"
+  },
+  "requestStatus": {
+    "waitingDescr": "Have any questions {{chat}}.",
+    "chat": "write us in support",
+    "waitingDescrMinute": "Your application will process in {{minute}} minutes.",
+    "success": "The application is done",
+    "wrong": "The application misspelled",
+    "fail": "The application was rejected",
+    "freeze": "The application had been frozen",
+    "waiting": "Expects processing",
+    "waitingPayment": "Checking payment",
+    "timeout": "Payment timeout expired",
+    "freezeReasonHour": "It is your first application from this wallet on Yandex.Money. It will process in {{hour}} hours, when it exits from freezing.",
+    "freezeReasonHourLegacy": "It is your first application from this Yandex.Money wallet. She will unfreeze and process in {{hour}}",
+    "shortHours": "hours",
+    "freezeNotice": "Application is frozen. For clarifying the sources contact with operator.",
+    "freezeReason": "It is your first application from this wallet on Yandex.Money. It will process in the short term, when it exits from freezing.",
+    "freezeHelp": "Why first payment need to freeze?",
+    "adopted": "Your application is accepted.",
+    "adoptedReff": "Your apoplication on withdrawal earning fund is accepted!",
+    "adoptedReffConfirm": "Сonfirming the withdrawal rewards!",
+    "hold": "Transfer is holded",
+    "holdReason": "Transfer is holded for 48 hours until {{time}}",
+    "processing": "Processing"
+  },
+  "metaTags": {
+    "exchangePage": {
+      "title": "x-pay.cc - Single currency exchange",
+      "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
+      "og": {
+        "title": "x-pay.cc - Single currency exchange",
+        "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
+        "image": "http://x-pay.cc/images/main_og_image.jpg"
+      }
+    },
+    "paymentVaultPage": {
+      "title": "Payment vault — x-pay.cc",
+      "description": ""
+    },
+    "ordersPage": {
+      "title": "Заявки — x-pay.cc",
+      "description": ""
+    },
+    "orderPage": {
+      "title": "Заявка — x-pay.cc",
+      "description": ""
+    },
+    "personalInfoPage": {
+      "title": "Personal info",
+      "description": ""
+    },
+    "refProgramPage": {
+      "title": "Ref program",
+      "description": ""
+    },
+    "settingsPage": {
+      "title": "Settings",
+      "description": ""
+    },
+    "languagesPage": {
+      "title": "Languages",
+      "description": ""
+    },
+    "passwordResetPage": {
+      "title": "Password reset",
+      "description": ""
+    },
+    "newPasswordPage": {
+      "title": "New password",
+      "description": ""
+    },
+    "emailConfirmationPage": {
+      "title": "Email confirmation",
+      "description": ""
+    },
+    "reservesPage": {
+      "title": "Reserves - x-pay.cc",
+      "description": ""
+    },
+    "notFoundPage": {
+      "title": "Not found",
+      "description": ""
+    },
+    "clientErrorPage": {
+      "title": "Client error",
+      "description": ""
+    }
   }
 }
