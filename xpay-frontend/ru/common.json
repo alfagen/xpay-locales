@@ -262,8 +262,8 @@
     "saveBtn": "Сохранить новый пароль"
   },
   "orderPage": {
-    "requestCreated": "Заявка создана",
-    "cantLoadData": "Cant load order data"
+    "requestCreated": "Заявка",
+    "cantLoadData": "Не удалось загрузить данные"
   },
   "orderSteps": {
     "move": "Нажмите на \"Перейти к оплате\" чтобы оплатить заявку",
