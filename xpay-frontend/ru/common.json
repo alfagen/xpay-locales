@@ -289,7 +289,7 @@
       "complete": "Exchange completed"
     },
     "stepsStatuses": {
-      "rejected": "Ваша заявка отклонена",
+      "rejected": "Ваша заявка отменена",
       "waiting_payment": "Ожидаем поступления средств",
       "waiting_network": "Ожидание подтверждения сети",
       "in_progress": "Мы в процессе обработки заявки",
