@@ -206,7 +206,47 @@
     "process": "Процесс верификации",
     "processDesc": "В зависимости от выбранного типа карты здесь будет показано, как следует расположить карту, чтобы создать проверочную фотографию.",
     "btn": "Верифицировать карту",
-    "addCardError": "Ошибка при запросе на верификацию"
+    "addCardError": "Ошибка при запросе на верификацию",
+    "plasticInstruction": {
+      "title": "Первый способ",
+      "first": "Откройте на компьютере наш сайт",
+      "second": "Приложите карту к монитор и сделайте фотографию на фоне нашего сайта",
+      "third": "Загрузите получившееся фото",
+      "notice": "Важно, чтобы на фото читались номера карты и имя владельца. На заднем фоне за картой должна быть видна открытая вкладка с сайтом x-pay",
+      "secondVariant": {
+        "title": "Второй способ",
+        "first": "Напишите на листочке название нашего сайта x-pay и сегодняшнюю дату",
+        "second": "Приложите карту к листочку и сделайте фото.",
+        "third": "Загрузите получившееся фото",
+        "notice": "Важно, чтобы на фото читались номера карты и имя владельца."
+      }
+    },
+    "virtualInstruction": {
+      "firstVariant": {
+        "title": "Первый способ",
+        "first": "Откройте виртуальную карту на компьютере.",
+        "second": "В соседнем окне откройте наш сайт (x-pay)",
+        "third": "Уменьшите одно из окон на экране так, чтобы можно было сфотографировать оба окна.",
+        "fourth": "загрузите получившееся фото",
+        "notice": "Важно, чтобы на фото читались номера карты и имя владельца! В соседнем окне должна быть  видна открытая вкладка с сайтом kassa.сс"
+      },
+      "secondVariant": {
+        "title": "Второй способ",
+        "first": "Откройте виртуальную карту на телефоне.",
+        "second": "Откройте сайт x-pay",
+        "third": "Сделайте фото виртуальной карты на фоне с открытой вкладкой x-pay",
+        "fourth": "Загрузите получившееся фото",
+        "notice": "Важно, чтобы на фото читались номера карты и имя владельца! На заднем фоне за картой должна быть видна открытая вкладка с сайтом kassa.сс."
+      },
+      "thirdVariant": {
+        "title": "Третий способ",
+        "first": "Откройте виртуальную карту на телефоне или компьютере.",
+        "second": "Напишите на листочке название нашего сайта x-pay и сегодняшнюю дату.",
+        "third": "Приложите листочек к экрану и сделайте фото.",
+        "fourth": "Загрузите получившееся фото.",
+        "notice": "Важно! чтобы на фото читались номера карты и имя владельца."
+      }
+    }
   },
   "verificationCard": {
     "confirm": {
@@ -217,10 +257,10 @@
     },
     "upload": {
       "title": "Верификация карт",
-      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the x-pay website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
       "requirementLabel": "Требования к фото:",
       "requirement1": "On the photo card number and the name of the owner should be readable.",
-      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site x-pay",
       "control": "Выбор файла...",
       "error": "Download error. Please try again",
       "uploading": "Загрузка фото - {{progress}}%"

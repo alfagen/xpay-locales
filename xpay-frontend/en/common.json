@@ -207,7 +207,39 @@
     "process": "Verification Process",
     "processDesc": "Depending on the type of card selected, this will show you how the card should be positioned to create a verification photo",
     "btn": "Verify Bank Card",
-    "addCardError": "Error on add card request"
+    "addCardError": "Error on add card request",
+    "plasticInstruction": {
+      "first": "open our site on your computer",
+      "second": "take a picture of your card against it so that the card numbers can be read",
+      "third": "upload resulting photo",
+      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+    },
+    "virtualInstruction": {
+      "firstVariant": {
+        "title": "First way",
+        "first": "open the virtual card on your computer.",
+        "second": "in another window open our website (x-pay)",
+        "third": "zoom out one of the windows on the screen so that both windows can be photographed",
+        "fourth": "upload resulting photo",
+        "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+      },
+      "secondVariant": {
+        "title": "Second way",
+        "first": "open virtual card on phone",
+        "second": "open the site x-pay",
+        "third": "take a photo of the virtual card with the x-pay tab open in the background",
+        "fourth": "upload resulting photo",
+        "notice": "Important! The card numbers and owner's name must be read on the photo."
+      },
+      "thirdVariant": {
+        "title": "Third way",
+        "first": "open the virtual map on your phone or computer.",
+        "second": "write on a piece of paper the name of our site x-pay and today's date",
+        "third": "put a piece of paper on the screen and take a photo",
+        "fourth": "upload resulting photo",
+        "notice": "Important! The card numbers and owner's name must be read on the photo."
+      }
+    }
   },
   "verificationCard": {
     "confirm": {
@@ -218,10 +250,10 @@
     },
     "upload": {
       "title": "Verification of cards",
-      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the x-pay website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
       "requirementLabel": "Photo Requirement:",
       "requirement1": "On the photo card number and the name of the owner should be readable.",
-      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site x-pay",
       "control": "Select a file...",
       "error": "Download error. Please try again",
       "uploading": "Photo upload - {{progress}}%"
