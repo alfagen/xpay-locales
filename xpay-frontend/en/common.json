@@ -209,10 +209,18 @@
     "btn": "Verify Bank Card",
     "addCardError": "Error on add card request",
     "plasticInstruction": {
+      "title": "First way",
       "first": "open our site on your computer",
       "second": "take a picture of your card against it so that the card numbers can be read",
       "third": "upload resulting photo",
-      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card",
+      "secondVariant": {
+        "title": "Second way",
+        "first": "Write on a piece of paper the name of our site x-pay and today's date",
+        "second": "Attach the card to the piece of paper and take a photo.",
+        "third": "Upload the resulting photo",
+        "notice": "It is important that the card numbers and the name of the owner are readable in the photo."
+      }
     },
     "virtualInstruction": {
       "firstVariant": {
