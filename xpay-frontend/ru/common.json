@@ -417,10 +417,10 @@
     "submit": "Вывести"
   },
   "rewardsRequest": {
-    "title": "Application for remunerations",
-    "safeOutput": "Well done! Great job, but now we <br /> ready withdraw funds on any aviable <br /> below and comfortable wallet.",
-    "successTitle": "Confirming withdrawal remunerations",
-    "needСonfirmation": "We care about safety of your account. To conclude <br /> application for withdrawal your remunerations we sent on your mail <br /> lellet with link for confirming creation of application. <br /> On all matters or in case of delay with transfer of funds take it up with technical support. <br /> Respectfully, site administration.",
+    "title": "Заявка на выплату вознаграждений",
+    "safeOutput": "Отличная работа! Отличная работа, но теперь мы <br /> готовы выводить средства на любой доступный <br /> ниже и удобный кошелек.",
+    "successTitle": "Подтверждение вознаграждения за вывод средств",
+    "needСonfirmation": "Мы заботимся о безопасности вашего аккаунта. Для оформления <br /> заявки на вывод вашего вознаграждения мы отправили на вашу почту <br /> lellet со ссылкой для подтверждения создания заявки. <br /> По всем вопросам или в случае задержки с переводом средств обращайтесь в техподдержку. <br />С уважением, администрация сайта.",
     "successOk": "Ok"
   },
   "refPage": {
