@@ -300,7 +300,8 @@
   "changePasswordMW": {
     "title": "New password",
     "notice": "The password must contain at least 8 characters, including letters, numbers and special characters.",
-    "saveBtn": "Change Password"
+    "saveBtn": "Change Password",
+    "success": "Password changed"
   },
   "orderPage": {
     "requestCreated": "Your order",
