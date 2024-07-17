@@ -43,6 +43,8 @@
     "crypto": "Crypto",
     "rub": "RUB",
     "usd": "USD",
+    "bank": "Bank",
+    "ps": "PS",
     "search": "Search",
     "password": "Password",
     "profile": "Profile",

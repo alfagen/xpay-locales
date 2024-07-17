@@ -42,6 +42,8 @@
     "crypto": "Crypto",
     "rub": "RUB",
     "usd": "USD",
+    "bank": "Банки",
+    "ps": "ПС",
     "search": "Поиск",
     "password": "Пароль",
     "profile": "Аккаунт",
