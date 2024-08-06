@@ -383,7 +383,9 @@
     "currentBalance": "Текущий баланс",
     "earnSum": "Всего заработано",
     "payout": "Вывести",
-    "payoutHistory": "История выплат"
+    "payoutHistory": "История выплат",
+    "termsRefProgramTitle": "Referral program terms",
+    "termsRefProgram": "<p>Terms of referral accruals for your referrals' exchanges:<br />- 0.5% of the exchange amount after their registration on the site;<br />- 0.6% of the exchange amount for 20 invited referrals;<br />- 0.8% of the exchange amount for 50 invited referrals;<br />- 0.9% of the exchange amount for 100 invited referrals;<br />- 1% of the exchange amount from the exchange amount for 300 invited referrals.</p><p>A mandatory condition is the activity and reality of the invited referral, who must carry out exchange transactions for amounts exceeding 5,000 rubles or their equivalent in other currencies.</p>"
   },
   "referalFundsHistory": {
     "title": "History of referral charges"
