@@ -17,7 +17,8 @@
     "settings": "Настройки",
     "exit": "Выход",
     "referral": "Реферальная программа",
-    "partners": "Партнерам"
+    "partners": "Партнерам",
+    "ourPartners": "Наши партнёры"
   },
   "auth": {
     "title": "Войдите в ваш аккаунт",
@@ -653,5 +654,9 @@
       "title": "Ошибка",
       "description": ""
     }
+  },
+  "docPage": {
+    "amlKyc": "AML / KYC",
+    "privacyPolicy": "Политика конфиденциальности"
   }
 }

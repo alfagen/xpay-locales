@@ -6,7 +6,6 @@
   },
   "links": {
     "exchange": "Exchange",
-    "exchangeRules": "Rules of service",
     "reserves": "Reserves",
     "faq": "FAQ",
     "news": "News",
@@ -18,7 +17,8 @@
     "exit": "Exit",
     "referral": "Ref Program",
     "exchangeRules": "Exchange rules",
-    "partners": "For partners"
+    "partners": "For partners",
+    "ourPartners": "Our Partners"
   },
   "auth": {
     "title": "Sign in <br />to your profile",
@@ -628,5 +628,9 @@
       "title": "Client error",
       "description": ""
     }
+  },
+  "docPage": {
+    "amlKyc": "AML / KYC",
+    "privacyPolicy": "Privacy Policy"
   }
 }
