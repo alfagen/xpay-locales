@@ -658,5 +658,53 @@
   "docPage": {
     "amlKyc": "AML / KYC",
     "privacyPolicy": "Политика конфиденциальности"
+  },
+  "OurPartners": {
+    "monitorings": "Monitorings",
+    "monitoring": {
+      "bitsMedia": {
+        "title": "Bits.media",
+        "description": "Monitoring",
+        "url": "https://bits.media/exchanger/x-pay"
+      },
+      "exchangersMonitor": {
+        "title": "Exchangers Monitor",
+        "description": "Monitoring",
+        "url": "https://ru.exchangersmonitor.com/exchanger-x-pay.cc.html"
+      },
+      "proObmen": {
+        "title": "pro-obmen.ru",
+        "description": "Monitoring",
+        "url": "https://pro-obmen.ru"
+      }
+    },
+    "forums": "Forums",
+    "forum": {
+      "bitsMedia": {
+        "title": "Мы на форуме Bits.media",
+        "description": "Форум о криптовалюте и новостях",
+        "url": "https://forum.bits.media/index.php?/forum/35-1/"
+      },
+      "mmgp": {
+        "title": "Мы на форуме MMGP - Money Market Group",
+        "description": "Форум о криптовалюте и новостях",
+        "url": "https://mmgp.ru/showthread.php?t=373668"
+      },
+      "bitcoinTalk": {
+        "title": "Мы на форуме Bitcoin Talk",
+        "description": "Форум о криптовалюте и новостях",
+        "url": "https://bitcointalk.org/index.php?board=237.0"
+      },
+      "cryptoTalk": {
+        "title": "Мы на форуме CryptoTalk.Org",
+        "description": "Форум о криптовалюте и новостях",
+        "url": "'https://cryptotalk.org/topic/370306-x-paycc/?tab=comments#comment-17736203'"
+      },
+      "virtuozi": {
+        "title": "Мы на форуме Virtuozi.com",
+        "description": "Форум о криптовалюте и новостях",
+        "url": "https://virtuozi.com/threads/x-pay-cc-proverennyj-vremenem-obmennik-ehlektronnyx-valjut.541328/"
+      }
+    }
   }
 }
