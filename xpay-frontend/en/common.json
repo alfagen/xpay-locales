@@ -628,6 +628,10 @@
     "clientErrorPage": {
       "title": "Client error",
       "description": ""
+    },
+    "payoutConfirmationPage": {
+      "title": "Payout confirmation",
+      "description": ""
     }
   },
   "docPage": {

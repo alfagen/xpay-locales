@@ -654,6 +654,10 @@
     "clientErrorPage": {
       "title": "Ошибка",
       "description": ""
+    },
+    "payoutConfirmationPage": {
+      "title": "Подтверждение вывода",
+      "description": ""
     }
   },
   "docPage": {
