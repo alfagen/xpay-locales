@@ -706,5 +706,10 @@
         "url": "https://cryptotalk.org/topic/370306-x-paycc/?tab=comments#comment-17736203"
       }
     }
+  },
+  "datediff": {
+    "days": "{{d}} д",
+    "hours": "{{h}} час",
+    "time": "{{m}} мин {{s}} сек"
   }
 }
