@@ -216,7 +216,7 @@
       "first": "open our site on your computer",
       "second": "take a picture of your card against it so that the card numbers can be read",
       "third": "upload resulting photo",
-      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card",
+      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the x-pay.ss website should be visible behind the card",
       "secondVariant": {
         "title": "Second way",
         "first": "Write on a piece of paper the name of our site x-pay and today's date",
@@ -232,7 +232,7 @@
         "second": "in another window open our website (x-pay)",
         "third": "zoom out one of the windows on the screen so that both windows can be photographed",
         "fourth": "upload resulting photo",
-        "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+        "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the x-pay.ss website should be visible behind the card"
       },
       "secondVariant": {
         "title": "Second way",
@@ -488,7 +488,7 @@
     "title": "For monitorings",
     "invite": "We are pleased to invite monitorings of exchanges.We are very glad to new partners and ready to share profit.",
     "referalLink": "Register in our site and you wil get special referal link.",
-    "reward": "All monitorings has a standart 0,5% from the exchange amount of your referrals. Write us on mail kassa.today@gmail.com and in special sutiations we will talk abou size of your per cent.",
+    "reward": "All monitorings has a standart 0,5% from the exchange amount of your referrals. Write us on mail x-pay.today@gmail.com and in special sutiations we will talk abou size of your per cent.",
     "downloadExport": "Download export rates.",
     "registration": "Register as monitoring"
   },
