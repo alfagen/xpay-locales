@@ -578,15 +578,15 @@
       }
     },
     "paymentVaultPage": {
-      "title": "Payment vault — x-pay.cc",
+      "title": "Payment vault — x-pay.com",
       "description": ""
     },
     "ordersPage": {
-      "title": "Заявки — x-pay.cc",
+      "title": "Заявки — x-pay.com",
       "description": ""
     },
     "orderPage": {
-      "title": "Заявка — x-pay.cc",
+      "title": "Заявка — x-pay.com",
       "description": ""
     },
     "personalInfoPage": {
@@ -618,7 +618,7 @@
       "description": ""
     },
     "reservesPage": {
-      "title": "Reserves - x-pay.cc",
+      "title": "Reserves - x-pay.com",
       "description": ""
     },
     "notFoundPage": {
@@ -649,7 +649,7 @@
       "exchangersMonitor": {
         "title": "Exchangers Monitor",
         "description": "Monitoring",
-        "url": "https://ru.exchangersmonitor.com/exchanger-x-pay.cc.html"
+        "url": "https://ru.exchangersmonitor.com/exchanger-x-pay.com.html"
       },
       "proObmen": {
         "title": "pro-obmen.ru",

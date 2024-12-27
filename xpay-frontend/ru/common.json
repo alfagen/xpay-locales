@@ -489,7 +489,7 @@
     "title": "Для мониторингов",
     "invite": "Приглашаем к сотрудничеству мониторинги обменников. Мы очень рады новым партнерам и готовы делиться прибылью.",
     "referalLink": "Зарегистрируйтесь у нас на сайте и Вы получите специальную реферальную ссылку.",
-    "reward": "Для всех мониторингов действует стандартный процент 0,5% от суммы обменов Ваших рефералов. Напишите нам на почту adx@x-pay.cc и в уникальных случаях мы обговорим размер Вашего процента.",
+    "reward": "Для всех мониторингов действует стандартный процент 0,5% от суммы обменов Ваших рефералов. Напишите нам на почту adx@x-pay.com и в уникальных случаях мы обговорим размер Вашего процента.",
     "downloadExport": "Экспорт курсов скачать.",
     "registration": "Зарегистрироваться как мониторинг"
   },
@@ -595,24 +595,24 @@
   },
   "metaTags": {
     "exchangePage": {
-      "title": "x-pay.cc - онлайн обменник криптовалют",
+      "title": "x-pay.com - онлайн обменник криптовалют",
       "description": "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек",
       "og": {
-        "title": "x-pay.cc - онлайн обменник криптовалют",
+        "title": "x-pay.com - онлайн обменник криптовалют",
         "description": "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек",
-        "image": "http://x-pay.cc/images/main_og_image.jpg"
+        "image": "http://x-pay.com/images/main_og_image.jpg"
       }
     },
     "paymentVaultPage": {
-      "title": "Верификации и кошельки — x-pay.cc",
+      "title": "Верификации и кошельки — x-pay.com",
       "description": ""
     },
     "ordersPage": {
-      "title": "Заявки — x-pay.cc",
+      "title": "Заявки — x-pay.com",
       "description": ""
     },
     "orderPage": {
-      "title": "Заявка — x-pay.cc",
+      "title": "Заявка — x-pay.com",
       "description": ""
     },
     "personalInfo": {
@@ -644,7 +644,7 @@
       "description": ""
     },
     "reservesPage": {
-      "title": "Резервы - x-pay.cc",
+      "title": "Резервы - x-pay.com",
       "description": ""
     },
     "notFoundPage": {
@@ -675,7 +675,7 @@
       "exchangersMonitor": {
         "title": "Exchangers Monitor",
         "description": "Monitoring",
-        "url": "https://ru.exchangersmonitor.com/exchanger-x-pay.cc.html"
+        "url": "https://ru.exchangersmonitor.com/exchanger-x-pay.com.html"
       },
       "proObmen": {
         "title": "pro-obmen.ru",

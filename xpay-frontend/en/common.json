@@ -569,24 +569,24 @@
   },
   "metaTags": {
     "exchangePage": {
-      "title": "x-pay.cc - online cryptocurrency exchanger",
+      "title": "x-pay.com - online cryptocurrency exchanger",
       "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
       "og": {
-        "title": "x-pay.cc - online cryptocurrency exchanger",
+        "title": "x-pay.com - online cryptocurrency exchanger",
         "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
-        "image": "http://x-pay.cc/images/main_og_image.jpg"
+        "image": "http://x-pay.com/images/main_og_image.jpg"
       }
     },
     "paymentVaultPage": {
-      "title": "Payment vault — x-pay.cc",
+      "title": "Payment vault — x-pay.com",
       "description": ""
     },
     "ordersPage": {
-      "title": "Заявки — x-pay.cc",
+      "title": "Заявки — x-pay.com",
       "description": ""
     },
     "orderPage": {
-      "title": "Заявка — x-pay.cc",
+      "title": "Заявка — x-pay.com",
       "description": ""
     },
     "personalInfoPage": {
@@ -618,7 +618,7 @@
       "description": ""
     },
     "reservesPage": {
-      "title": "Reserves - x-pay.cc",
+      "title": "Reserves - x-pay.com",
       "description": ""
     },
     "notFoundPage": {
@@ -649,7 +649,7 @@
       "exchangersMonitor": {
         "title": "Exchangers Monitor",
         "description": "Monitoring",
-        "url": "https://ru.exchangersmonitor.com/exchanger-x-pay.cc.html"
+        "url": "https://ru.exchangersmonitor.com/exchanger-x-pay.com.html"
       },
       "proObmen": {
         "title": "pro-obmen.ru",
