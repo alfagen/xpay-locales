@@ -344,7 +344,8 @@
   },
   "instructionSubmit": {
     "cancel": "Отменить",
-    "paid": "Я оплатил"
+    "paid": "Я оплатил",
+    "chek": "Загрузить чек (PDF)"
   },
   "paymentConfirm": {
     "cancel": "Вернуться на главную",

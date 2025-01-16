@@ -768,7 +768,8 @@
   "error": "Ошибка",
   "instructionSubmit": {
     "cancel": "Отмена",
-    "paid": "Я оплатил"
+    "paid": "Я оплатил",
+    "chek": "Загрузить чек (PDF)"
   },
   "instructionRequisites": {
     "copy": "Копировать",

@@ -1,9 +1,9 @@
 ru:
   meta_tags:
-    title: "Kassa.cc - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин"
+    title: "Kassa.com - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин"
     description: "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек"
     og:
-      title: "Kassa.cc - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин"
+      title: "Kassa.com - Единый обмен валют. Покупка Bitcoin с карты и Обмен Яндекс Биткоин"
       description: "Быстрый и безопасный обмен BTC, Litecoin, Qiwi, Ethereum, Perfect Money. Выгодный обмен Яндекс Ethereum, Яндекс Litecoin. Перевод с карты на биткоин кошелек"
-      image: "http://kassa.cc/images/main_og_image.jpg"
+      image: "http://kassa.com/images/main_og_image.jpg"
     json_ld_title: "Единый обмен валют - %{title}"

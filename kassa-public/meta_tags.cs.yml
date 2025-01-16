@@ -1,9 +1,9 @@
 cs:
   meta_tags:
-    title: "Kassa.cc - Jednotná směnárna"
+    title: "Kassa.com - Jednotná směnárna"
     description: "Jednotná elekronická směnárna s kvalitním servisem. Provádíme směnu: Qiwi, BTC, Perfect Money, Payeer, Alpha Bank, Tinkoff, VTB 24"
     og:
-      title: "Kassa.cc - Jednotná směnárna"
+      title: "Kassa.com - Jednotná směnárna"
       description: "Jednotná elekronická směnárna s kvalitním servisem. Provádíme směnu: Qiwi, BTC, Perfect Money, Payeer, Alpha Bank, Tinkoff, VTB 24"
-      image: "http://kassa.cc/images/main_og_image.jpg"
+      image: "http://kassa.com/images/main_og_image.jpg"
     json_ld_title: "Jednotná směnárna - %{title}"
